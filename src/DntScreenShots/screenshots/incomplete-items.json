@@ -145,7 +145,7 @@
     "Url": "https://channel9.msdn.com/Shows/XamarinShow/Introduction-to-NET-MAUI-Blazor--The-Xamarin-Show"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 17302,
     "Url": "https://notepad-plus-plus.org/downloads/v8/"
   }
