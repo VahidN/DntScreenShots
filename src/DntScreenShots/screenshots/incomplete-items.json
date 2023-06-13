@@ -163,5 +163,10 @@
     "Retries": 2,
     "Id": 17244,
     "Url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgMGEnTzEEfkADbaG8aAWRp"
+  },
+  {
+    "Retries": 1,
+    "Id": 17203,
+    "Url": "https://blog.angular.io/angular-v12-is-now-available-32ed51fbfd49"
   }
 ]
