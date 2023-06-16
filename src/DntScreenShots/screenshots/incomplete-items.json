@@ -210,22 +210,22 @@
     "Url": "https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA/playlists"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 17128,
     "Url": "https://www.youtube.com/playlist?list=PLF1jhYUTnHo6oK14WD3D_abbluAj0aiRb"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 17096,
     "Url": "https://kalhorim.ir/posts/software/603"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 17088,
     "Url": "https://www.tlt21.com/why-software-engineers-should-become-ceos/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 17087,
     "Url": "https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI"
   }
