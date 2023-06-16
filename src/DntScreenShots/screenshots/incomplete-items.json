@@ -183,5 +183,10 @@
     "Retries": 1,
     "Id": 18803,
     "Url": "https://www.youtube.com/playlist?list=PLVr08O0wdS3GIMib2KvG48rFurfNBBP62"
+  },
+  {
+    "Retries": 1,
+    "Id": 18809,
+    "Url": "https://jkone27-3876.medium.com/compile-f-to-rust-22cf5aa9021"
   }
 ]
