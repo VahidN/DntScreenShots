@@ -190,12 +190,12 @@
     "Url": "https://jkone27-3876.medium.com/compile-f-to-rust-22cf5aa9021"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 17184,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/EF-Core"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 17176,
     "Url": "https://www.surveymonkey.com/stories/SM-GDSVMB2C/"
   },
@@ -203,5 +203,15 @@
     "Retries": 2,
     "Id": 17142,
     "Url": "https://www.youtube.com/playlist?list=PLe4QAeub-aw55MQhVdMqp777lCP8Orlko"
+  },
+  {
+    "Retries": 1,
+    "Id": 17130,
+    "Url": "https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA/playlists"
+  },
+  {
+    "Retries": 1,
+    "Id": 17128,
+    "Url": "https://www.youtube.com/playlist?list=PLF1jhYUTnHo6oK14WD3D_abbluAj0aiRb"
   }
 ]
