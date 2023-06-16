@@ -210,23 +210,38 @@
     "Url": "https://www.youtube.com/channel/UCRs-PO48PbbS0l7bBhbu5CA/playlists"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 17128,
     "Url": "https://www.youtube.com/playlist?list=PLF1jhYUTnHo6oK14WD3D_abbluAj0aiRb"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 17096,
     "Url": "https://kalhorim.ir/posts/software/603"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 17088,
     "Url": "https://www.tlt21.com/why-software-engineers-should-become-ceos/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 17087,
     "Url": "https://channel9.msdn.com/Shows/On-NET/A-Journey-to-NET-MAUI"
+  },
+  {
+    "Retries": 1,
+    "Id": 17061,
+    "Url": "https://twitter.com/shayrojansky/status/1372669765995655170"
+  },
+  {
+    "Retries": 1,
+    "Id": 17059,
+    "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Choices-in-Desktop-Development"
+  },
+  {
+    "Retries": 1,
+    "Id": 17058,
+    "Url": "https://tyrrrz.me:443/blog/expression-trees/"
   }
 ]
