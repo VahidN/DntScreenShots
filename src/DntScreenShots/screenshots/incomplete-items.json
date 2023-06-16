@@ -235,23 +235,33 @@
     "Url": "https://twitter.com/shayrojansky/status/1372669765995655170"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 17059,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Choices-in-Desktop-Development"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 17058,
     "Url": "https://tyrrrz.me:443/blog/expression-trees/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 17050,
     "Url": "https://bestofblazor.blog/series/blazor-weekly-newsletter?guid=none\u0026deviceId=fa9cac18-b1ea-41dc-a5cb-87eba2325523"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 17049,
     "Url": "https://blog.getbootstrap.com/2021/03/22/bootstrap-5-beta-3/"
+  },
+  {
+    "Retries": 1,
+    "Id": 17023,
+    "Url": "https://www.youtube.com/channel/UCVIcSx0JX1lBXnyezabutrA/playlists?view=50\u0026sort=dd\u0026shelf_id=1"
+  },
+  {
+    "Retries": 1,
+    "Id": 17016,
+    "Url": "https://mafshin.com/blog/azure-blob-storage-amazon-s3-dotnet-core-without-subscription/"
   }
 ]
