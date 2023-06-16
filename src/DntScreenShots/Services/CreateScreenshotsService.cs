@@ -58,17 +58,21 @@ public class CreateScreenshotsService : ICreateScreenshotsService
                     continue;
                 }
 
-                if (!_incompleteDownloadItemsService.ShouldProcessItem(downloadItem))
-                {
-                    _logger.LogInformation("Skipping an already processed and faulty URL -> `{Url}`", downloadItem.Url);
-                    continue;
-                }
-
                 var destFileName = Path.Combine(_screenshotsPathService.ScreenshotsFolderPath,
                                                 Invariant($"news-{downloadItem.Id}.jpg"));
                 if (File.Exists(destFileName))
                 {
                     _logger.LogInformation("Skipping an already processed URL -> `{Url}`", downloadItem.Url);
+                    continue;
+                }
+
+                if (!_incompleteDownloadItemsService.ShouldProcessItem(downloadItem))
+                {
+                    _logger.LogInformation("Skipping an already processed and faulty URL -> `{Url}`", downloadItem.Url);
+
+                    File.Move(_screenshotsPathService.NullImageFilePath, destFileName);
+                    _logger.LogInformation("`{DestFileName}` has been added.", destFileName);
+
                     continue;
                 }
 

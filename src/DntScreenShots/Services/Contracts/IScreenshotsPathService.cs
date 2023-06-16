@@ -8,4 +8,5 @@ public interface IScreenshotsPathService
     string TempOutputPngFilePath { get; }
     string TempOutputCompressedPngFilePath { get; }
     string IncompleteDownloadItemsPath { get; }
+    string NullImageFilePath { get; }
 }

@@ -24,7 +24,10 @@ public class ScreenshotsPathService : IScreenshotsPathService
                                                        screenShotConfig.TempOutputCompressedPngFileName);
         IncompleteDownloadItemsPath = Path.Combine(ScreenshotsFolderPath,
                                                    screenShotConfig.IncompleteDownloadItemsFileName);
+        NullImageFilePath = Path.Combine(ScreenshotsFolderPath, screenShotConfig.NullImageFileName);
     }
+
+    public string NullImageFilePath { get; }
 
     public string IncompleteDownloadItemsPath { get; }
 

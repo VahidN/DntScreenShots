@@ -13,4 +13,5 @@ public class ScreenShotConfig
     public TimeSpan WaitForExit { set; get; }
     public required string IncompleteDownloadItemsFileName { set; get; }
     public int AllowedRetries { set; get; }
+    public required string NullImageFileName { set; get; }
 }
