@@ -70,7 +70,7 @@ public class CreateScreenshotsService : ICreateScreenshotsService
                 {
                     _logger.LogInformation("Skipping an already processed and faulty URL -> `{Url}`", downloadItem.Url);
 
-                    File.Move(_screenshotsPathService.NullImageFilePath, destFileName);
+                    File.Copy(_screenshotsPathService.NullImageFilePath, destFileName);
                     _logger.LogInformation("`{DestFileName}` has been added.", destFileName);
 
                     continue;
