@@ -290,12 +290,12 @@
     "Url": "https://twitter.com/jordwalke/status/1347695301436456963"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 16934,
     "Url": "https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Tailwind-CSS"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 16910,
     "Url": "https://reactype.io/"
   }
