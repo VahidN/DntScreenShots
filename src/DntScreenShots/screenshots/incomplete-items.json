@@ -235,13 +235,23 @@
     "Url": "https://twitter.com/shayrojansky/status/1372669765995655170"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 17059,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Choices-in-Desktop-Development"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 17058,
     "Url": "https://tyrrrz.me:443/blog/expression-trees/"
+  },
+  {
+    "Retries": 1,
+    "Id": 17050,
+    "Url": "https://bestofblazor.blog/series/blazor-weekly-newsletter?guid=none\u0026deviceId=fa9cac18-b1ea-41dc-a5cb-87eba2325523"
+  },
+  {
+    "Retries": 1,
+    "Id": 17049,
+    "Url": "https://blog.getbootstrap.com/2021/03/22/bootstrap-5-beta-3/"
   }
 ]
