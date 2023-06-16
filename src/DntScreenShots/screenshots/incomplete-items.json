@@ -255,23 +255,43 @@
     "Url": "https://blog.getbootstrap.com/2021/03/22/bootstrap-5-beta-3/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 17023,
     "Url": "https://www.youtube.com/channel/UCVIcSx0JX1lBXnyezabutrA/playlists?view=50\u0026sort=dd\u0026shelf_id=1"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 17016,
     "Url": "https://mafshin.com/blog/azure-blob-storage-amazon-s3-dotnet-core-without-subscription/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16961,
     "Url": "https://api.text-mining.ir/swagger/index.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16960,
     "Url": "https://www.youtube.com/playlist?list=PLNqp92_EXZBIKO8lqN3089jgZUi-FUFXX"
+  },
+  {
+    "Retries": 1,
+    "Id": 16953,
+    "Url": "https://blazority.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16949,
+    "Url": "https://www.youtube.com/playlist?list=PL_NVFNExoAxclqXo9fLAeP0G2Qp56Fu8C"
+  },
+  {
+    "Retries": 1,
+    "Id": 16944,
+    "Url": "https://twitter.com/jordwalke/status/1347695301436456963"
+  },
+  {
+    "Retries": 1,
+    "Id": 16934,
+    "Url": "https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Tailwind-CSS"
   }
 ]
