@@ -300,7 +300,7 @@
     "Url": "https://reactype.io/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16880,
     "Url": "https://centocode.com/top-dying-programming-languages-of-this-year/"
   },
@@ -310,13 +310,33 @@
     "Url": "https://channel9.msdn.com/Shows/XamarinShow/Introducing-the-Xamarin-Community-Toolkit"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16859,
     "Url": "https://www.jerriepelser.com/blog/using-htmx-with-aspnet-core/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16857,
     "Url": "https://blog.snowfrog.dev/your-spa-is-not-the-front/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16844,
+    "Url": "http://recompile.ir/learning/database/%d9%85%d8%ad%d8%af%d9%88%d8%af%db%8c%d8%aa%d9%87%d8%a7-%d9%88-%d9%85%d8%ab%d8%a7%d9%84-%d8%a7%d8%b2-%da%af%d8%b1%d8%a7%d9%81-%d8%af%db%8c%d8%aa%d8%a7%d8%a8%db%8c%d8%b3-%d8%a8%d8%ae%d8%b4-%d8%b3%d9%88/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16843,
+    "Url": "https://blog.getbootstrap.com/2021/01/19/bootstrap-icons-4.6.0/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16840,
+    "Url": "https://twitter.com/RayRedacted/status/1348583635855810561"
+  },
+  {
+    "Retries": 1,
+    "Id": 16833,
+    "Url": "http://recompile.ir/learning/database/%d9%85%d8%b9%d9%85%d8%a7%d8%b1%db%8c-sql-server-graph-database-%d8%a8%d8%ae%d8%b4-%d8%af%d9%88%d9%85/"
   }
 ]
