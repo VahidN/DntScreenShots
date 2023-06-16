@@ -295,8 +295,28 @@
     "Url": "https://channel9.msdn.com/Shows/Web-Wednesday/What-is-Tailwind-CSS"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 16910,
     "Url": "https://reactype.io/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16880,
+    "Url": "https://centocode.com/top-dying-programming-languages-of-this-year/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16861,
+    "Url": "https://channel9.msdn.com/Shows/XamarinShow/Introducing-the-Xamarin-Community-Toolkit"
+  },
+  {
+    "Retries": 1,
+    "Id": 16859,
+    "Url": "https://www.jerriepelser.com/blog/using-htmx-with-aspnet-core/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16857,
+    "Url": "https://blog.snowfrog.dev/your-spa-is-not-the-front/"
   }
 ]
