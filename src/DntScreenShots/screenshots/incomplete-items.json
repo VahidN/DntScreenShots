@@ -545,7 +545,7 @@
     "Url": "https://jspaint.app/#local:e07f9602366a1"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16090,
     "Url": "http://assets.red-gate.com/solutions/database-devops/state-of-database-devops-2020.pdf?v=2"
   },
@@ -553,5 +553,10 @@
     "Retries": 1,
     "Id": 16087,
     "Url": "https://www.youtube.com/channel/UCntXGyc0ylNJKs60VSPcIyg/videos"
+  },
+  {
+    "Retries": 1,
+    "Id": 16071,
+    "Url": "https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf"
   }
 ]
