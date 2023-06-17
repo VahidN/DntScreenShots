@@ -520,13 +520,23 @@
     "Url": "https://archiveprogram.github.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 16216,
     "Url": "https://www.youtube.com/playlist?list=PLx8uyNNs1ri2MBx6BjPum5j9_MMdIfM9C"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16178,
     "Url": "https://www.tutorialist.io/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16156,
+    "Url": "https://www.programmableweb.com/news/vuejs-30-soon-to-be-generally-available/brief/2020/06/11"
+  },
+  {
+    "Retries": 1,
+    "Id": 16150,
+    "Url": "https://qsharp.community/blog/qsharp-entrypoint/"
   }
 ]
