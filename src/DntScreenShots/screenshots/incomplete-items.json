@@ -605,7 +605,7 @@
     "Url": "https://www.danylkoweb.com/downloads/RefactorHttpClientWithAspNetCore.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15869,
     "Url": "http://www.codeblocks.org/component/content/article/7-announcements/50-codeblocks-2003-is-here-"
   }
