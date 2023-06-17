@@ -515,8 +515,13 @@
     "Url": "https://livecodestream.dev/post/2020-07-18-10-productivity-tools-for-react-developers-in-2020/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16238,
     "Url": "https://archiveprogram.github.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16216,
+    "Url": "https://www.youtube.com/playlist?list=PLx8uyNNs1ri2MBx6BjPum5j9_MMdIfM9C"
   }
 ]
