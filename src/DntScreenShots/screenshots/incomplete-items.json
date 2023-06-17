@@ -530,18 +530,28 @@
     "Url": "https://www.tutorialist.io/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 16156,
     "Url": "https://www.programmableweb.com/news/vuejs-30-soon-to-be-generally-available/brief/2020/06/11"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 16150,
     "Url": "https://qsharp.community/blog/qsharp-entrypoint/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16112,
     "Url": "https://jspaint.app/#local:e07f9602366a1"
+  },
+  {
+    "Retries": 1,
+    "Id": 16090,
+    "Url": "http://assets.red-gate.com/solutions/database-devops/state-of-database-devops-2020.pdf?v=2"
+  },
+  {
+    "Retries": 1,
+    "Id": 16087,
+    "Url": "https://www.youtube.com/channel/UCntXGyc0ylNJKs60VSPcIyg/videos"
   }
 ]
