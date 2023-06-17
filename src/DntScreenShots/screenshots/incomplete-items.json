@@ -390,7 +390,7 @@
     "Url": "http://recompile.ir/learning/%d8%a7%d9%84%da%af%d9%88%d9%87%d8%a7%db%8c-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d8%a7%d8%b1%db%8c-structural-patterns/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 16633,
     "Url": "https://www.youtube.com/playlist?list=PLdo4fOcmZ0oVWop1HEOml2OdqbDs6IlcI"
   },
@@ -405,8 +405,13 @@
     "Url": "https://www.youtube.com/playlist?list=PL3Y-E4YSE4wZpWH8CXwPBI1F13KhkIDEx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 16601,
     "Url": "https://www.davidhayden.me/blog/openapi-and-swagger-ui-in-asp-net-core-5-web-api"
+  },
+  {
+    "Retries": 1,
+    "Id": 16585,
+    "Url": "https://tyrrrz.me:443/blog/reverse-engineering-youtube/"
   }
 ]
