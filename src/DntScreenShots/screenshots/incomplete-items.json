@@ -570,8 +570,13 @@
     "Url": "https://mybuild.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222020-05-19T00%253A00%253A00%252B04%253A30%2522%252C%2522to%2522%253A%25222020-05-21T23%253A59%253A00%252B04%253A30%2522%257D\u0026s=%257B%2522name%2522%253A%2522translate.refine.label.sort.relevance%2522%252C%2522type%2522%253A0%257D#top-anchor"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16012,
     "Url": "http://codebetter.com/patricksmacchia/2008/11/19/an-easy-and-efficient-way-to-improve-net-code-performances/"
+  },
+  {
+    "Retries": 1,
+    "Id": 15981,
+    "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part-4"
   }
 ]
