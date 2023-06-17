@@ -605,22 +605,22 @@
     "Url": "https://www.danylkoweb.com/downloads/RefactorHttpClientWithAspNetCore.pdf"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15869,
     "Url": "http://www.codeblocks.org/component/content/article/7-announcements/50-codeblocks-2003-is-here-"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15855,
     "Url": "https://covid19api.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15847,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Introduction-to-gRPC"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15843,
     "Url": "https://www.youtube.com/playlist?list=PL0mBf9PqXvktnhcfFtQtTRe0huw8wTO8g"
   },
@@ -628,5 +628,10 @@
     "Retries": 1,
     "Id": 15841,
     "Url": "https://twitter.com/shanselman/status/1240481950357315584"
+  },
+  {
+    "Retries": 1,
+    "Id": 15836,
+    "Url": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
   }
 ]
