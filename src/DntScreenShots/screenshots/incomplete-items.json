@@ -555,17 +555,17 @@
     "Url": "https://www.youtube.com/channel/UCntXGyc0ylNJKs60VSPcIyg/videos"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 16071,
     "Url": "https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 16045,
     "Url": "https://mybuild.microsoft.com/sessions/53ccd339-7cc0-4e66-bdb9-3eee6b270658?source=sessions"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 16044,
     "Url": "https://mybuild.microsoft.com/sessions?t=%257B%2522from%2522%253A%25222020-05-19T00%253A00%253A00%252B04%253A30%2522%252C%2522to%2522%253A%25222020-05-21T23%253A59%253A00%252B04%253A30%2522%257D\u0026s=%257B%2522name%2522%253A%2522translate.refine.label.sort.relevance%2522%252C%2522type%2522%253A0%257D#top-anchor"
   }
