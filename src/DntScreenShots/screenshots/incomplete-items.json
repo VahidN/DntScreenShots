@@ -440,7 +440,7 @@
     "Url": "https://honamic.dev/posts/11/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AF%D8%B1-aspnet-core-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-%D8%B1%D8%A7-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA-%DA%A9%D9%86%DB%8C%D9%85/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 16532,
     "Url": "https://www.adobe.com/products/flashplayer/end-of-life.html#"
   },
@@ -450,13 +450,23 @@
     "Url": "https://www.owllabs.com/state-of-remote-work/2020"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 16508,
     "Url": "http://recompile.ir/learning/refactoring/%d8%a8%d9%88%db%8c-%d8%a8%d8%af%d9%90-%da%a9%d8%af-bad-smells/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 16500,
     "Url": "http://recompile.ir/learning/refactoring/%da%86%d8%b7%d9%88%d8%b1-%d8%b1%db%8c%d9%81%da%a9%d8%aa%d9%88%d8%b1-%da%a9%d9%86%db%8c%d9%85%d8%9f/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16487,
+    "Url": "https://www.youtube.com/playlist?list=PL8h4jt35t1wjvwFnvcB2LlYL4jLRzRmoz"
+  },
+  {
+    "Retries": 1,
+    "Id": 16482,
+    "Url": "https://a11yresources.webflow.io"
   }
 ]
