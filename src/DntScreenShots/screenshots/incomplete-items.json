@@ -415,28 +415,38 @@
     "Url": "https://tyrrrz.me:443/blog/reverse-engineering-youtube/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16558,
     "Url": "https://honamic.dev/posts/17/%D9%85%D8%B9%D8%B1%D9%81%DB%8C-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-identity-jwtauhentication/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16557,
     "Url": "https://dotnetepics.azurewebsites.net/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16553,
     "Url": "http://recompile.ir/learning/%d8%af%d8%b3%d8%aa%d9%87-%d8%a8%d9%86%d8%af%db%8c-%d8%a7%d9%84%da%af%d9%88%d9%87%d8%a7%db%8c-%d8%b7%d8%b1%d8%a7%d8%ad%db%8c/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16550,
     "Url": "https://mag.quera.ir/advice-to-myself-when-starting-as-a-software-developer-sw815fxa0wyx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 16543,
     "Url": "https://honamic.dev/posts/11/%DA%86%DA%AF%D9%88%D9%86%D9%87-%D8%AF%D8%B1-aspnet-core-%D8%AF%D8%A7%D8%AF%D9%87-%D9%87%D8%A7-%D8%B1%D8%A7-%D9%86%D8%B8%D8%A7%D8%B1%D8%AA-%DA%A9%D9%86%DB%8C%D9%85/"
+  },
+  {
+    "Retries": 1,
+    "Id": 16532,
+    "Url": "https://www.adobe.com/products/flashplayer/end-of-life.html#"
+  },
+  {
+    "Retries": 1,
+    "Id": 16528,
+    "Url": "https://www.owllabs.com/state-of-remote-work/2020"
   }
 ]
