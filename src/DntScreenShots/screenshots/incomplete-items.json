@@ -580,27 +580,27 @@
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Entity-Framework-Core-Part-4"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15972,
     "Url": "http://bassam.ml/2020/04/introduction-to-c-8-free-ebook/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15954,
     "Url": "http://dl.nlai.ir/ui/forms/index.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15930,
     "Url": "https://mermaidjs.github.io/#/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15925,
     "Url": "https://www.ebooksworld.ir/post/index/585/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-asp-net-core-fundamentals-2019-by-scott-allen-pluralsight"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15921,
     "Url": "https://www.danylkoweb.com/downloads/RefactorHttpClientWithAspNetCore.pdf"
   }
