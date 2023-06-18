@@ -820,12 +820,12 @@
     "Url": "https://enterprisecraftsmanship.com/2018/09/10/defense-lazy-loading/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15145,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/AppCenter-for-WPF-and-WinForms"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15112,
     "Url": "https://virgool.io/hackintosh/post0007-v7pa47kispmq"
   }
