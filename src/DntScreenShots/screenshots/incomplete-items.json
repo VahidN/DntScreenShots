@@ -670,7 +670,7 @@
     "Url": "https://www.youtube.com/channel/UCxVYFZOyczyjZRaIiuuF0sQ/videos"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15693,
     "Url": "https://sirwan.info/archive/2020/01/25/Displaying-Secured-Images/"
   },
@@ -690,12 +690,12 @@
     "Url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15670,
     "Url": "https://angular-checklist.io/projects"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15654,
     "Url": "https://www.jetbrains.com/lp/mono/"
   }
