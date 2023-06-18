@@ -765,17 +765,17 @@
     "Url": "https://channel9.msdn.com/Shows/On-NET/IoT-support-for-NET-Core"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15368,
     "Url": "https://chistio.ir/wp-content/uploads/books/guidetodatamining_chistio.ir.pdf"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15348,
     "Url": "https://blog.ego-cms.com/asp-net-core-webpack-react/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15319,
     "Url": "https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56"
   }
