@@ -753,5 +753,15 @@
     "Retries": 2,
     "Id": 15468,
     "Url": "https://urbanonsoftware.com/nuget-packages"
+  },
+  {
+    "Retries": 1,
+    "Id": 15382,
+    "Url": "http://lennybacon.com/post/Updating-Visual-Studio-Installer-unattended-last-episode-hopefully"
+  },
+  {
+    "Retries": 1,
+    "Id": 15374,
+    "Url": "https://channel9.msdn.com/Shows/On-NET/IoT-support-for-NET-Core"
   }
 ]
