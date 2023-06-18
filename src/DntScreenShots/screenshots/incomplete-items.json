@@ -610,17 +610,17 @@
     "Url": "http://www.codeblocks.org/component/content/article/7-announcements/50-codeblocks-2003-is-here-"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15855,
     "Url": "https://covid19api.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15847,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Introduction-to-gRPC"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15843,
     "Url": "https://www.youtube.com/playlist?list=PL0mBf9PqXvktnhcfFtQtTRe0huw8wTO8g"
   },
@@ -630,13 +630,28 @@
     "Url": "https://twitter.com/shanselman/status/1240481950357315584"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15836,
     "Url": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15797,
     "Url": "https://www.filingdb.com/pdf-text-extraction"
+  },
+  {
+    "Retries": 1,
+    "Id": 15779,
+    "Url": "https://www.patriksvensson.se/2020/02/testing-stuff-with-windows-sandbox"
+  },
+  {
+    "Retries": 1,
+    "Id": 15766,
+    "Url": "https://www.youtube.com/playlist?list=PLFHLo5Y9d4JYJKdZEzDZIpb2-uOTGvTJ3"
+  },
+  {
+    "Retries": 1,
+    "Id": 15761,
+    "Url": "https://mobile.twitter.com/dotnet/status/1228351952477704193"
   }
 ]
