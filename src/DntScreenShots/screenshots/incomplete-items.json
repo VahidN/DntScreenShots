@@ -778,5 +778,20 @@
     "Retries": 3,
     "Id": 15319,
     "Url": "https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2019-edition-42ba2cab9e56"
+  },
+  {
+    "Retries": 1,
+    "Id": 15293,
+    "Url": "https://www.youtube.com/playlist?list=PLReL099Y5nRd04p81Q7p5TtyjCrj9tz1t"
+  },
+  {
+    "Retries": 1,
+    "Id": 15292,
+    "Url": "https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw/playlists"
+  },
+  {
+    "Retries": 1,
+    "Id": 15289,
+    "Url": "https://channel9.msdn.com/Series/MLNET/MLNET-Machine-Learning-Introduction-1-of-8"
   }
 ]
