@@ -660,13 +660,18 @@
     "Url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGeteXRzmn27mnlHKgOEACi2"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15742,
     "Url": "https://www.youtube.com/playlist?list=PLzHIrc5EQ2sv-PnKl7th73btoKozF6BYT"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15718,
     "Url": "https://www.youtube.com/channel/UCxVYFZOyczyjZRaIiuuF0sQ/videos"
+  },
+  {
+    "Retries": 1,
+    "Id": 15693,
+    "Url": "https://sirwan.info/archive/2020/01/25/Displaying-Secured-Images/"
   }
 ]
