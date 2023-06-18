@@ -660,7 +660,7 @@
     "Url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGeteXRzmn27mnlHKgOEACi2"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15742,
     "Url": "https://www.youtube.com/playlist?list=PLzHIrc5EQ2sv-PnKl7th73btoKozF6BYT"
   },
@@ -670,8 +670,28 @@
     "Url": "https://www.youtube.com/channel/UCxVYFZOyczyjZRaIiuuF0sQ/videos"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15693,
     "Url": "https://sirwan.info/archive/2020/01/25/Displaying-Secured-Images/"
+  },
+  {
+    "Retries": 1,
+    "Id": 15682,
+    "Url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3"
+  },
+  {
+    "Retries": 1,
+    "Id": 15681,
+    "Url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK"
+  },
+  {
+    "Retries": 1,
+    "Id": 15680,
+    "Url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A"
+  },
+  {
+    "Retries": 1,
+    "Id": 15670,
+    "Url": "https://angular-checklist.io/projects"
   }
 ]
