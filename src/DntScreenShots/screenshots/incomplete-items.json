@@ -725,32 +725,32 @@
     "Url": "https://www.microsoft.com/en-us/ignite"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15506,
     "Url": "https://soheilalizadeh.com/blog/http-request-response-logging-in-asp-net-core/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15504,
     "Url": "https://www.getrevue.co/profile/Andres-from-Jexia"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15503,
     "Url": "https://www.getrevue.co/profile/cloud-architecture"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15478,
     "Url": "https://examples.dev/articles/object-freeze-typescript-readonly/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15475,
     "Url": "https://evand.com/events/ddd-talks-2/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15468,
     "Url": "https://urbanonsoftware.com/nuget-packages"
   }
