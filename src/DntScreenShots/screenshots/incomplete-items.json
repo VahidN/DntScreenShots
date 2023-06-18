@@ -705,17 +705,17 @@
     "Url": "https://www.youtube.com/watch?v=a-Q3T6UV2K8"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15553,
     "Url": "https://g2b.ito.gov.ir/index.php/site/page/view/list_ip"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15540,
     "Url": "https://www.designasor.com/figma/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15539,
     "Url": "http://genfu.io/"
   }
