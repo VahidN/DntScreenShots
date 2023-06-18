@@ -820,13 +820,18 @@
     "Url": "https://enterprisecraftsmanship.com/2018/09/10/defense-lazy-loading/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15145,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/AppCenter-for-WPF-and-WinForms"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15112,
     "Url": "https://virgool.io/hackintosh/post0007-v7pa47kispmq"
+  },
+  {
+    "Retries": 1,
+    "Id": 15111,
+    "Url": "https://virgool.io/@hosseinkhani/%D9%86%D8%B5%D8%A8-%D9%88-%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-%D9%86%D8%B1%D9%85%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-jira-qam6itsqota1"
   }
 ]
