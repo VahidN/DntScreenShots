@@ -690,12 +690,12 @@
     "Url": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwisvxhZ135pogtX7_Oe3Q3A"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15670,
     "Url": "https://angular-checklist.io/projects"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15654,
     "Url": "https://www.jetbrains.com/lp/mono/"
   }
