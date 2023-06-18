@@ -695,8 +695,18 @@
     "Url": "https://angular-checklist.io/projects"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15654,
     "Url": "https://www.jetbrains.com/lp/mono/"
+  },
+  {
+    "Retries": 1,
+    "Id": 15566,
+    "Url": "https://www.youtube.com/watch?v=a-Q3T6UV2K8"
+  },
+  {
+    "Retries": 1,
+    "Id": 15553,
+    "Url": "https://g2b.ito.gov.ir/index.php/site/page/view/list_ip"
   }
 ]
