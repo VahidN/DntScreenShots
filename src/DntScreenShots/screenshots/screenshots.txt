@@ -31,6 +31,7 @@ news-15344.jpg
 news-15345.jpg
 news-15346.jpg
 news-15347.jpg
+news-15348.jpg
 news-15349.jpg
 news-15350.jpg
 news-15351.jpg
@@ -50,6 +51,7 @@ news-15364.jpg
 news-15365.jpg
 news-15366.jpg
 news-15367.jpg
+news-15368.jpg
 news-15369.jpg
 news-15370.jpg
 news-15371.jpg
