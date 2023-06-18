@@ -630,17 +630,17 @@
     "Url": "https://twitter.com/shanselman/status/1240481950357315584"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15836,
     "Url": "https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15797,
     "Url": "https://www.filingdb.com/pdf-text-extraction"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15779,
     "Url": "https://www.patriksvensson.se/2020/02/testing-stuff-with-windows-sandbox"
   },
@@ -653,5 +653,15 @@
     "Retries": 1,
     "Id": 15761,
     "Url": "https://mobile.twitter.com/dotnet/status/1228351952477704193"
+  },
+  {
+    "Retries": 1,
+    "Id": 15756,
+    "Url": "https://www.youtube.com/playlist?list=PL03Lrmd9CiGeteXRzmn27mnlHKgOEACi2"
+  },
+  {
+    "Retries": 1,
+    "Id": 15742,
+    "Url": "https://www.youtube.com/playlist?list=PLzHIrc5EQ2sv-PnKl7th73btoKozF6BYT"
   }
 ]
