@@ -705,18 +705,38 @@
     "Url": "https://www.youtube.com/watch?v=a-Q3T6UV2K8"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15553,
     "Url": "https://g2b.ito.gov.ir/index.php/site/page/view/list_ip"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15540,
     "Url": "https://www.designasor.com/figma/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 15539,
     "Url": "http://genfu.io/"
+  },
+  {
+    "Retries": 1,
+    "Id": 15511,
+    "Url": "https://www.microsoft.com/en-us/ignite"
+  },
+  {
+    "Retries": 1,
+    "Id": 15506,
+    "Url": "https://soheilalizadeh.com/blog/http-request-response-logging-in-asp-net-core/"
+  },
+  {
+    "Retries": 1,
+    "Id": 15504,
+    "Url": "https://www.getrevue.co/profile/Andres-from-Jexia"
+  },
+  {
+    "Retries": 1,
+    "Id": 15503,
+    "Url": "https://www.getrevue.co/profile/cloud-architecture"
   }
 ]
