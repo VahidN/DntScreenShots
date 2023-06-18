@@ -755,7 +755,7 @@
     "Url": "https://urbanonsoftware.com/nuget-packages"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 15382,
     "Url": "http://lennybacon.com/post/Updating-Visual-Studio-Installer-unattended-last-episode-hopefully"
   },
@@ -763,5 +763,15 @@
     "Retries": 1,
     "Id": 15374,
     "Url": "https://channel9.msdn.com/Shows/On-NET/IoT-support-for-NET-Core"
+  },
+  {
+    "Retries": 1,
+    "Id": 15368,
+    "Url": "https://chistio.ir/wp-content/uploads/books/guidetodatamining_chistio.ir.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 15348,
+    "Url": "https://blog.ego-cms.com/asp-net-core-webpack-react/"
   }
 ]
