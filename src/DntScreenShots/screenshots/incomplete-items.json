@@ -745,7 +745,7 @@
     "Url": "https://examples.dev/articles/object-freeze-typescript-readonly/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 15475,
     "Url": "https://evand.com/events/ddd-talks-2/"
   },
