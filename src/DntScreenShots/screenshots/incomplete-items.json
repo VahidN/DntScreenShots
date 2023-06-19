@@ -975,7 +975,7 @@
     "Url": "https://elmah.ir/post/good-error-message/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14646,
     "Url": "http://docs.identityserver.io/en/latest/"
   },
@@ -985,17 +985,17 @@
     "Url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgspNIlv1x2H5_cxSRm7B17"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14643,
     "Url": "https://channel9.msdn.com/Shows/On-NET/Machine-Learning-with-MLNET-10-from-Build-2019"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14633,
     "Url": "https://virgool.io/MobileLab/%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D9%87%D8%A7%DB%8C-%D8%AD%D9%84-%D8%AE%D8%B7%D8%A7%DB%8C-blocked-by-play-protect-h0zdcaedepkl"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14621,
     "Url": "https://mybuild.techcommunity.microsoft.com/home#top-anchor"
   }
