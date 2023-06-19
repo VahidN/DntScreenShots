@@ -880,12 +880,12 @@
     "Url": "https://www.jerriepelser.com/blog/using-ngrok-with-aspnet-core/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14847,
     "Url": "https://blogs.msmvps.com/bsonnino/2019/06/03/comparing-performance-between-wpf-net-and-net-core/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14835,
     "Url": "https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ"
   },
@@ -895,28 +895,38 @@
     "Url": "https://programmingwithmosh.com/general/3-reasons-apple-and-google-are-saying-no-to-college-degrees/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14812,
     "Url": "http://sanjesh.org/FullStory.aspx?gid=2\u0026id=6064"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14810,
     "Url": "https://www.youtube.com/playlist?list=PLLWMQd6PeGY3t63w-8MMIjIyYS7MsFcCi"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14809,
     "Url": "https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14807,
     "Url": "https://maherjendoubi.io/blazor-electron/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14804,
     "Url": "https://channel9.msdn.com/Shows/On-NET/Try-the-new-SystemTextJson-APIs"
+  },
+  {
+    "Retries": 1,
+    "Id": 14792,
+    "Url": "https://www.skylinetechnologies.com/Blog/Skyline-Blog/December_2018/async-await-configureawait"
+  },
+  {
+    "Retries": 1,
+    "Id": 14784,
+    "Url": "https://channel9.msdn.com/Shows/On-NET/Migrating-from-Entity-Framework-6-to-Core"
   }
 ]
