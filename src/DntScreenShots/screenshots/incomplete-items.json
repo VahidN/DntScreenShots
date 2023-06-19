@@ -850,13 +850,33 @@
     "Url": "https://aidigest.net/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14922,
     "Url": "https://blog.angularindepth.com/ngx-bootstrap-angular-ivy-is-here-834e52b8990f?gi=55fbc60ab3d"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14903,
     "Url": "https://marozed.ma/vue-cheatsheet/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14876,
+    "Url": "https://www.mongodb.com/atlas/full-text-search"
+  },
+  {
+    "Retries": 1,
+    "Id": 14864,
+    "Url": "https://channel9.msdn.com/Shows/5-Things/Five-Things-About-RxJS-and-Reactive-Programming"
+  },
+  {
+    "Retries": 1,
+    "Id": 14857,
+    "Url": "https://www.jerriepelser.com/blog/use-conveyor-access-iis-app-over-internet/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14856,
+    "Url": "https://www.jerriepelser.com/blog/using-ngrok-with-aspnet-core/"
   }
 ]
