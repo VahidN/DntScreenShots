@@ -1145,28 +1145,33 @@
     "Url": "http://www.irsdc2019.ir/fa/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14205,
     "Url": "https://virgool.io/@amirtaqiabadi/%DA%86%D9%87-%D9%BE%D8%AA%D8%B1%D9%86%D9%87%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D8%B2%D8%A8%D8%A7%D9%86-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D9%82%D8%B1%DB%8C%D9%86%D9%87-%D9%85%DB%8C%D8%B4%D9%88%D9%86%D8%AF-nndxy4hpqkhv"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14204,
     "Url": "https://virgool.io/@davooddehghan65/%DB%B1%DB%B5-%D9%86%DA%A9%D8%AA%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-ux-%D8%A8%D9%87%D8%AA%D8%B1-%D9%81%D8%B1%D9%85-%D9%87%D8%A7-%D8%AF%D8%B1-%D9%88%D8%A8-%DB%8C%D8%A7-app-hhzkkeglrauh"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14203,
     "Url": "https://virgool.io/@amirtaqiabadi/httpsvirgoolioamirtaqiabadi%DA%86%DA%A9-%D9%84%DB%8C%D8%B3%D8%AA-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%81%D8%B1%D9%85-%D8%AB%D8%A8%D8%AA-%D9%86%D8%A7%D9%85-h2ltubnmbjrv"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14202,
     "Url": "https://virgool.io/@arian.design/tejarat-dcvu3yzltigl"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14180,
     "Url": "https://www.basilica.ai"
+  },
+  {
+    "Retries": 1,
+    "Id": 14156,
+    "Url": "https://www.rikidev.com/networking-with-ceras-part-1/"
   }
 ]
