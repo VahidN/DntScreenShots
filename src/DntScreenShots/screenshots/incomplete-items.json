@@ -985,18 +985,28 @@
     "Url": "https://www.youtube.com/playlist?list=PLlrxD0HtieHgspNIlv1x2H5_cxSRm7B17"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14643,
     "Url": "https://channel9.msdn.com/Shows/On-NET/Machine-Learning-with-MLNET-10-from-Build-2019"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14633,
     "Url": "https://virgool.io/MobileLab/%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D9%87%D8%A7%DB%8C-%D8%AD%D9%84-%D8%AE%D8%B7%D8%A7%DB%8C-blocked-by-play-protect-h0zdcaedepkl"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14621,
     "Url": "https://mybuild.techcommunity.microsoft.com/home#top-anchor"
+  },
+  {
+    "Retries": 1,
+    "Id": 14586,
+    "Url": "https://virgool.io/@mortezadalil/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-cy1yjswqrfdx"
+  },
+  {
+    "Retries": 1,
+    "Id": 14574,
+    "Url": "http://msprogrammer.serviciipeweb.ro/2019/04/29/dotnet-cli-tools/"
   }
 ]
