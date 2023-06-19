@@ -1010,7 +1010,7 @@
     "Url": "http://msprogrammer.serviciipeweb.ro/2019/04/29/dotnet-cli-tools/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14564,
     "Url": "https://assets.thoughtworks.com/assets/technology-radar-vol-20-en.pdf"
   },
@@ -1020,13 +1020,33 @@
     "Url": "https://www.zoomit.ir/2019/4/27/335378/cafe-bazaar-users-data-hacked/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14546,
     "Url": "https://sirwan.info/archive/2019/04/09/Hosting-react-app-on-iis/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14543,
     "Url": "https://marketplace.visualstudio.com/items?itemName=BrianLagunas.ConvertProjectToNETCore3"
+  },
+  {
+    "Retries": 1,
+    "Id": 14510,
+    "Url": "http://devexpert.ir/javascript/%DA%A9%D8%AA%D8%A7%D8%A8-%D8%A2%D9%86%D9%84%D8%A7%DB%8C%D9%86-23-%D8%A7%D9%84%DA%AF%D9%88%DB%8C-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-gof-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%AC%D8%A7%D9%88%D8%A7/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14506,
+    "Url": "https://frontnet.eu/tutorial-how-to-build-a-web-application-using-asp-net-core-and-angular/amp/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14505,
+    "Url": "https://virgool.io/@faridfroozan/%D8%AA%D8%B1%D9%84%D9%88%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-cgcpr12attad"
+  },
+  {
+    "Retries": 1,
+    "Id": 14500,
+    "Url": "http://lennybacon.com/post/Update-all-Visual-Studio-instances-equal-or-above-2017-unattended"
   }
 ]
