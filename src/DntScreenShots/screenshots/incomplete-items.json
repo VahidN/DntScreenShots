@@ -1085,28 +1085,43 @@
     "Url": "https://www.lowjs.org"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14361,
     "Url": "https://ranjeet.dev:443/csharp-tips-that-you-may-not-know/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14353,
     "Url": "https://www.dntips.ir/file/userfile?name=Programmer-challenge-Result.pdf"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14340,
     "Url": "https://blog.cancobanoglu.net/2017/05/11/domain-centric-architectures-are-cool-but-why/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14337,
     "Url": "https://channel9.msdn.com/Shows/On-NET/Real-time-web-applications-with-ASPNET-Core-SignalR"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14318,
     "Url": "http://livegoogle.ir/web-mining/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14315,
+    "Url": "https://virgool.io/@mostafavakily/%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%DB%8C-%D8%A7%D8%B2-c-%D8%AF%D8%A7%D8%AA-%D9%86%D8%AA-jeuz30p30mez"
+  },
+  {
+    "Retries": 1,
+    "Id": 14311,
+    "Url": "https://www.youtube.com/playlist?list=PL3_YUnRN3Uhh5vywsT75JbQsB8eBpwm1y"
+  },
+  {
+    "Retries": 1,
+    "Id": 14310,
+    "Url": "https://www.youtube.com/playlist?list=PL3_YUnRN3Uhiz2HomrXKcaEW6b3pDhKTX"
   }
 ]
