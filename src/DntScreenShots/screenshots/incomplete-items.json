@@ -1005,8 +1005,18 @@
     "Url": "https://virgool.io/@mortezadalil/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%BE%D8%A7%DB%8C%D8%AA%D9%88%D9%86-%D8%B1%D8%A7%D9%87-%D8%A7%D9%86%D8%AF%D8%A7%D8%B2%DB%8C-cy1yjswqrfdx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14574,
     "Url": "http://msprogrammer.serviciipeweb.ro/2019/04/29/dotnet-cli-tools/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14564,
+    "Url": "https://assets.thoughtworks.com/assets/technology-radar-vol-20-en.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 14563,
+    "Url": "https://www.zoomit.ir/2019/4/27/335378/cafe-bazaar-users-data-hacked/"
   }
 ]
