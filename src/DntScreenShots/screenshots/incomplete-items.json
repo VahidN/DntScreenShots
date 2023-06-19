@@ -865,17 +865,17 @@
     "Url": "https://www.mongodb.com/atlas/full-text-search"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14864,
     "Url": "https://channel9.msdn.com/Shows/5-Things/Five-Things-About-RxJS-and-Reactive-Programming"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14857,
     "Url": "https://www.jerriepelser.com/blog/use-conveyor-access-iis-app-over-internet/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14856,
     "Url": "https://www.jerriepelser.com/blog/using-ngrok-with-aspnet-core/"
   }
