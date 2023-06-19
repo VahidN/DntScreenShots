@@ -865,18 +865,28 @@
     "Url": "https://www.mongodb.com/atlas/full-text-search"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14864,
     "Url": "https://channel9.msdn.com/Shows/5-Things/Five-Things-About-RxJS-and-Reactive-Programming"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14857,
     "Url": "https://www.jerriepelser.com/blog/use-conveyor-access-iis-app-over-internet/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14856,
     "Url": "https://www.jerriepelser.com/blog/using-ngrok-with-aspnet-core/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14847,
+    "Url": "https://blogs.msmvps.com/bsonnino/2019/06/03/comparing-performance-between-wpf-net-and-net-core/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14835,
+    "Url": "https://www.youtube.com/channel/UCfvJirlbRTN-bU9sMWMb_ZQ"
   }
 ]
