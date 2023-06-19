@@ -1170,7 +1170,7 @@
     "Url": "https://www.basilica.ai"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14156,
     "Url": "https://www.rikidev.com/networking-with-ceras-part-1/"
   },
@@ -1180,13 +1180,23 @@
     "Url": "https://www.youtube.com/playlist?list=PLhTMlT4SWRd4jXs2l5Unwak0BM8Lt6w3k"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14131,
     "Url": "http://www.devsanon.com/c/c-why-you-should-never-use-the-checked-keyword-unless-absolutely-necessary/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14128,
     "Url": "https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14109,
+    "Url": "https://rajabpour.net/?p=81"
+  },
+  {
+    "Retries": 1,
+    "Id": 14106,
+    "Url": "https://www.joshjahans.com/ditching-medium/"
   }
 ]
