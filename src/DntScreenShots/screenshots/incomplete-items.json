@@ -1055,18 +1055,23 @@
     "Url": "https://virgool.io/@mansourihosein/%D8%B1%D8%A7%D9%87%D9%86%D9%85%D8%A7%DB%8C-%D8%A8%D8%B1%D9%88%D8%B2-%D8%A8%D9%88%D8%AF%D9%86-%DB%8C%DA%A9-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%D9%86%D9%88%DB%8C%D8%B3-net-%D8%AF%D8%B1-%D8%B3%D8%A7%D9%84-1398-zi0wnggli7sp"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14462,
     "Url": "https://channel9.msdn.com/Events/Visual-Studio/Visual-Studio-2019-Launch-Event/Not-your-average-keynote"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14434,
     "Url": "http://bugopedia.ir/authorize-token?token=guest\u0026redirectedFrom=https://bugopedia.ir/paaxjsdctiws\u0026nightmode=false"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14420,
     "Url": "https://www.youtube.com/watch?v=kv5rvpB5rvs\u0026feature=youtu.be"
+  },
+  {
+    "Retries": 1,
+    "Id": 14409,
+    "Url": "https://intellij-support.jetbrains.com/hc/en-us/articles/206544869-Configuring-JVM-options-and-platform-properties"
   }
 ]
