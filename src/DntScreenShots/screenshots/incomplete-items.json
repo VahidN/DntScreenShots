@@ -930,28 +930,33 @@
     "Url": "https://channel9.msdn.com/Shows/On-NET/Migrating-from-Entity-Framework-6-to-Core"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14778,
     "Url": "https://maherjendoubi.io/dissecting-client-server-application/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14772,
     "Url": "http://tehran.irannsr.org/services/news/298700-%D9%86%D8%B3%D8%AE%D9%87-%D8%A7%D9%88%D9%84-%D8%B3%D9%86%D8%AF-%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%B3%D8%A7%D9%84-1398-%D9%85%D9%86%D8%AA%D8%B4%D8%B1.html?t=%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14740,
     "Url": "http://livegoogle.ir/datamining/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-deep-learning/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14724,
     "Url": "https://unwcf.com/posts/life-after-wcf/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14723,
     "Url": "https://unwcf.com/posts/wcf-vs-grpc/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14708,
+    "Url": "https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt1-What-is-DevOps"
   }
 ]
