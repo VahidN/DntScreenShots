@@ -1180,33 +1180,48 @@
     "Url": "https://www.youtube.com/playlist?list=PLhTMlT4SWRd4jXs2l5Unwak0BM8Lt6w3k"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14131,
     "Url": "http://www.devsanon.com/c/c-why-you-should-never-use-the-checked-keyword-unless-absolutely-necessary/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14128,
     "Url": "https://davidgom.es/porting-30k-lines-of-code-from-flow-to-typescript/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14109,
     "Url": "https://rajabpour.net/?p=81"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14106,
     "Url": "https://www.joshjahans.com/ditching-medium/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14090,
     "Url": "https://www.grapecity.com/en/blogs/using-the-dot-net-core-3.0-preview-with-wpf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14070,
     "Url": "http://livegoogle.ir/npm/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-npm-proxy-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-verdaccio/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14063,
+    "Url": "https://virgool.io/@alifallahi/7-%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%A7%D8%AB%DB%8C%D8%B1%DA%AF%D8%B0%D8%A7%D8%B1-%D8%AF%D8%B1-ux-btvkyrjgen5k"
+  },
+  {
+    "Retries": 1,
+    "Id": 14056,
+    "Url": "https://skaarp.com/tag/kotlin/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14054,
+    "Url": "https://blog.jeremylikness.com/mongodb-on-windows-in-minutes-with-docker-3e412f076762?gi=30f28b1f181"
   }
 ]
