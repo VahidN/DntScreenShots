@@ -1110,23 +1110,38 @@
     "Url": "http://livegoogle.ir/web-mining/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14315,
     "Url": "https://virgool.io/@mostafavakily/%D9%85%D8%AE%D8%AA%D8%B5%D8%B1%DB%8C-%D8%A7%D8%B2-c-%D8%AF%D8%A7%D8%AA-%D9%86%D8%AA-jeuz30p30mez"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14311,
     "Url": "https://www.youtube.com/playlist?list=PL3_YUnRN3Uhh5vywsT75JbQsB8eBpwm1y"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14310,
     "Url": "https://www.youtube.com/playlist?list=PL3_YUnRN3Uhiz2HomrXKcaEW6b3pDhKTX"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14272,
     "Url": "https://www.barbarianmeetscoding.com/blog/2019/02/24/vlog-new-series-on-vim-in-vscode/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14244,
+    "Url": "https://www.massivepixel.co/2019-02-12-razor-page-watcher/2019-02-12-razor-page-watcher/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14243,
+    "Url": "https://virgool.io/@mostafavakily/\u0627\u0644\u06AF\u0648\u06CC-\u0627\u0633\u062A\u0631\u0627\u062A\u0698\u06CC-\u0686\u06CC\u0633\u062A-jq6kbwkdtrof"
+  },
+  {
+    "Retries": 1,
+    "Id": 14234,
+    "Url": "http://www.irsdc2019.ir/fa/"
   }
 ]
