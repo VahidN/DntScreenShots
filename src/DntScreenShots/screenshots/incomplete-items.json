@@ -940,23 +940,38 @@
     "Url": "http://tehran.irannsr.org/services/news/298700-%D9%86%D8%B3%D8%AE%D9%87-%D8%A7%D9%88%D9%84-%D8%B3%D9%86%D8%AF-%D8%AA%D8%B9%D8%B1%D9%81%D9%87-%D8%B3%D8%A7%D9%84-1398-%D9%85%D9%86%D8%AA%D8%B4%D8%B1.html?t=%D8%A7%D8%AE%D8%A8%D8%A7%D8%B1-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%DB%8C%D9%87"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 14740,
     "Url": "http://livegoogle.ir/datamining/%DB%8C%D8%A7%D8%AF%DA%AF%DB%8C%D8%B1%DB%8C-%D8%B9%D9%85%DB%8C%D9%82-deep-learning/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14724,
     "Url": "https://unwcf.com/posts/life-after-wcf/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 14723,
     "Url": "https://unwcf.com/posts/wcf-vs-grpc/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 14708,
     "Url": "https://channel9.msdn.com/Shows/On-NET/DevOps-For-ASPNET-Developers-Pt1-What-is-DevOps"
+  },
+  {
+    "Retries": 1,
+    "Id": 14690,
+    "Url": "https://skaarp.com/tag/%d8%a2%d9%85%d9%88%d8%b2%d8%b4-%da%af%db%8c%d8%aa/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14683,
+    "Url": "https://www.nebbiatech.com/2019/05/16/git-branching-strategies/"
+  },
+  {
+    "Retries": 1,
+    "Id": 14678,
+    "Url": "https://elmah.ir/post/good-error-message/"
   }
 ]
