@@ -1465,33 +1465,43 @@
     "Url": "http://rickbergfalk.github.io/sqlpad/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13197,
     "Url": "https://www.jetbrains.com/research/devecosystem-2018/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13192,
     "Url": "https://goby-lang.org"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13191,
     "Url": "https://enterprisecraftsmanship.com/2018/06/13/ef-core-vs-nhibernate-ddd-perspective/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13176,
     "Url": "https://eng.uber.com/mysql-migration/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13175,
     "Url": "https://map.dggo.ir/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13174,
     "Url": "http://www.postsharp.net/blog/post/Announcing-PostSharp-60-RC"
+  },
+  {
+    "Retries": 1,
+    "Id": 13168,
+    "Url": "https://channel9.msdn.com/Shows/On-NET/Microservice-Architecture-with-ASPNET-Core"
+  },
+  {
+    "Retries": 1,
+    "Id": 13163,
+    "Url": "http://www.se-topics.ir/pageview?page=1"
   }
 ]
