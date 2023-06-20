@@ -1405,22 +1405,22 @@
     "Url": "https://www.mongodb.com/cloud/atlas"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13359,
     "Url": "https://gvfs.io"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13358,
     "Url": "https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13338,
     "Url": "https://matteofabbri.org/read/server-side-analytics"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13334,
     "Url": "http://cdn1.xamarin.com/webimages/assets/Xamarin-Case-Study-Siemens-Catchbook.pdf"
   },
