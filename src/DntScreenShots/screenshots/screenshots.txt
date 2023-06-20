@@ -60,6 +60,7 @@ news-13713.jpg
 news-13714.jpg
 news-13715.jpg
 news-13716.jpg
+news-13717.jpg
 news-13718.jpg
 news-13719.jpg
 news-13720.jpg
@@ -68,6 +69,7 @@ news-13722.jpg
 news-13723.jpg
 news-13724.jpg
 news-13725.jpg
+news-13726.jpg
 news-13727.jpg
 news-13728.jpg
 news-13729.jpg
@@ -80,6 +82,7 @@ news-13735.jpg
 news-13736.jpg
 news-13737.jpg
 news-13738.jpg
+news-13739.jpg
 news-13740.jpg
 news-13741.jpg
 news-13742.jpg
