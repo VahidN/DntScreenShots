@@ -1265,8 +1265,13 @@
     "Url": "http://materialtheme.arcsine.org/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13912,
     "Url": "https://appogram.io"
+  },
+  {
+    "Retries": 1,
+    "Id": 13900,
+    "Url": "https://blog.softwarepotential.com:443/porting-to-net-standard-2-0-part-1/"
   }
 ]
