@@ -1355,13 +1355,33 @@
     "Url": "http://www.codeblock.ir/article/49/continuous-integration---%d8%a8%d8%ae%d8%b4-%d8%a7%d9%88%d9%84---%d9%85%d9%81%d9%87%d9%88%d9%85"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13568,
     "Url": "https://virgool.io/@alihesari/what-language-to-start-programming-kyehobc3ryrn"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13557,
     "Url": "https://mega.nz/#F!eXgQlaLJ!Ky-mPPDvJkT9rlCaM2EJ-A"
+  },
+  {
+    "Retries": 1,
+    "Id": 13499,
+    "Url": "https://blog.csmac.nz/beefeater-guards-your/"
+  },
+  {
+    "Retries": 1,
+    "Id": 13496,
+    "Url": "http://naeemaei.ir/2018/07/21/edge-tables-in-sql-server/"
+  },
+  {
+    "Retries": 1,
+    "Id": 13492,
+    "Url": "https://virgool.io/Software/gitlab-y3ndheokrqdr"
+  },
+  {
+    "Retries": 1,
+    "Id": 13483,
+    "Url": "https://theinfogrid.com/tech/developers/angular/top-vscode-extensions-angular/"
   }
 ]
