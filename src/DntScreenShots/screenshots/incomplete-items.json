@@ -1255,8 +1255,18 @@
     "Url": "https://blog.oz-code.com/honest-review-of-visual-studio-2019-preview-1/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13968,
     "Url": "https://www.newyorker.com/magazine/2018/12/10/the-friendship-that-made-google-huge/amp"
+  },
+  {
+    "Retries": 1,
+    "Id": 13925,
+    "Url": "http://materialtheme.arcsine.org/"
+  },
+  {
+    "Retries": 1,
+    "Id": 13912,
+    "Url": "https://appogram.io"
   }
 ]
