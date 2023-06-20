@@ -1430,23 +1430,33 @@
     "Url": "https://www.technotification.com/2018/06/go-programming-language.html/amp"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13292,
     "Url": "https://ketchuphq.com"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13271,
     "Url": "http://harshw.com/implementing-dynamic-filtering-sorting-pagination-entityframework/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13263,
     "Url": "https://worldcup.sfg.io"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13253,
     "Url": "https://notechain.org"
+  },
+  {
+    "Retries": 1,
+    "Id": 13231,
+    "Url": "https://www.humankode.com/visual-studio-code/how-to-add-multiple-projects-in-visual-studio-code"
+  },
+  {
+    "Retries": 1,
+    "Id": 13228,
+    "Url": "https://rubikscode.net/2018/06/18/using-ml-net-introduction-to-machine-learning-and-ml-net/"
   }
 ]
