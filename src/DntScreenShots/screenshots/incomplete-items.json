@@ -1360,17 +1360,17 @@
     "Url": "https://virgool.io/@alihesari/what-language-to-start-programming-kyehobc3ryrn"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13557,
     "Url": "https://mega.nz/#F!eXgQlaLJ!Ky-mPPDvJkT9rlCaM2EJ-A"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13499,
     "Url": "https://blog.csmac.nz/beefeater-guards-your/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13496,
     "Url": "http://naeemaei.ir/2018/07/21/edge-tables-in-sql-server/"
   },
@@ -1380,8 +1380,13 @@
     "Url": "https://virgool.io/Software/gitlab-y3ndheokrqdr"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13483,
     "Url": "https://theinfogrid.com/tech/developers/angular/top-vscode-extensions-angular/"
+  },
+  {
+    "Retries": 1,
+    "Id": 13462,
+    "Url": "http://naeemaei.ir/2018/07/13/%D8%AC%D8%AF%D9%88%D9%84-%D9%87%D8%A7%DB%8C-%DA%AF%D8%B1%D8%A7%D9%81graph-tables-%D8%AF%D8%B1-sql-server-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%88%D9%84/"
   }
 ]
