@@ -1305,23 +1305,28 @@
     "Url": "http://naeemaei.ir/2018/10/19/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%B1%D8%A7%D9%87%DA%A9%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%DA%A9%D8%A7%D8%B1%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-entity-framework-core-2/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13795,
     "Url": "https://www.getjaco.com"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13763,
     "Url": "https://virgool.io/@peymanr34/%D9%88%DB%8C%DA%98%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D9%88%D8%AF%DB%8C%D9%88-%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA-%D8%B4%D8%AF-%D9%88-%D9%85%D8%B4%DA%A9%D9%84-dpi-scaling-%D8%A8%D8%B1%D8%B7%D8%B1%D9%81-%D8%B4%D8%AF-olcxi9io8vca"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13739,
     "Url": "https://package.studio"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13726,
     "Url": "http://t.me/Synergism"
+  },
+  {
+    "Retries": 1,
+    "Id": 13717,
+    "Url": "https://www.youtube.com/playlist?list=PLjC4UKOOcfDRR7NJB7xDVkzdVx1xI6LSi"
   }
 ]
