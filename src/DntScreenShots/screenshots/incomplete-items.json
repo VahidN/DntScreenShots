@@ -1265,13 +1265,23 @@
     "Url": "http://materialtheme.arcsine.org/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13912,
     "Url": "https://appogram.io"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13900,
     "Url": "https://blog.softwarepotential.com:443/porting-to-net-standard-2-0-part-1/"
+  },
+  {
+    "Retries": 1,
+    "Id": 13875,
+    "Url": "https://sharpgis.net/omds/NetStd21_WhatsNew.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 13872,
+    "Url": "http://1javan.com/2018/10/21/how-mac-os-launches-on-windows-10/"
   }
 ]
