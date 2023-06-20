@@ -1400,18 +1400,28 @@
     "Url": "https://enterprisecraftsmanship.com/2017/03/13/error-handling-exception-or-result/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13393,
     "Url": "https://www.mongodb.com/cloud/atlas"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13359,
     "Url": "https://gvfs.io"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13358,
     "Url": "https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git"
+  },
+  {
+    "Retries": 1,
+    "Id": 13338,
+    "Url": "https://matteofabbri.org/read/server-side-analytics"
+  },
+  {
+    "Retries": 1,
+    "Id": 13334,
+    "Url": "http://cdn1.xamarin.com/webimages/assets/Xamarin-Case-Study-Siemens-Catchbook.pdf"
   }
 ]
