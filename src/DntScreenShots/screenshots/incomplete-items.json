@@ -1430,8 +1430,23 @@
     "Url": "https://www.technotification.com/2018/06/go-programming-language.html/amp"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13292,
     "Url": "https://ketchuphq.com"
+  },
+  {
+    "Retries": 1,
+    "Id": 13271,
+    "Url": "http://harshw.com/implementing-dynamic-filtering-sorting-pagination-entityframework/"
+  },
+  {
+    "Retries": 1,
+    "Id": 13263,
+    "Url": "https://worldcup.sfg.io"
+  },
+  {
+    "Retries": 1,
+    "Id": 13253,
+    "Url": "https://notechain.org"
   }
 ]
