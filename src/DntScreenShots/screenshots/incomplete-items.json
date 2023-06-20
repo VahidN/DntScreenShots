@@ -1415,12 +1415,12 @@
     "Url": "https://faradars.org/courses/fvgit9609-managed-distributed-edition-using-git"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13338,
     "Url": "https://matteofabbri.org/read/server-side-analytics"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13334,
     "Url": "http://cdn1.xamarin.com/webimages/assets/Xamarin-Case-Study-Siemens-Catchbook.pdf"
   },
@@ -1428,5 +1428,10 @@
     "Retries": 1,
     "Id": 13309,
     "Url": "https://www.technotification.com/2018/06/go-programming-language.html/amp"
+  },
+  {
+    "Retries": 1,
+    "Id": 13292,
+    "Url": "https://ketchuphq.com"
   }
 ]
