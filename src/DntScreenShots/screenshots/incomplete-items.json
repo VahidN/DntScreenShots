@@ -1850,7 +1850,7 @@
     "Url": "https://www.angularjs4u.com/angularjs2/10-angular-2-chrome-browser-extensions/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12356,
     "Url": "https://centare.com/blog/2017/12/c_sharp_panel/"
   },
@@ -1860,27 +1860,27 @@
     "Url": "https://theinfogrid.com/tech/developers/javascript/2017-top-javascript-frontend-frameworks/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12330,
     "Url": "https://theinfogrid.com/tech/developers/php/visual-studio-code-top-5-extensions-php/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12323,
     "Url": "http://www.se-topics.ir/topicview?id=65"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12320,
     "Url": "http://www.omidnasri.com/\u0633\u06CC-\u0634\u0627\u0631\u067E-\u062A\u063A\u06CC\u06CC\u0631-\u0648\u0636\u0639\u06CC\u062A-\u0648\u06CC\u0646\u062F\u0648\u0632-\u0633\u0631\u0648\u06CC\u0633"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12315,
     "Url": "http://a4academics.com/interview-questions/52-dot-net-interview-questions/417-c-oops-interview-questions-and-answers?showall=\u0026limitstart="
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12310,
     "Url": "https://www.jerriepelser.com/blog/using-mariadb-with-aspnet-core/"
   }
