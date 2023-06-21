@@ -1810,43 +1810,53 @@
     "Url": "http://www.ebooksworld.ir/post/index/233/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-clean-architecture-a-craftsman-s-guide-to-software-structure-and-design"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12433,
     "Url": "https://www.angularjs4u.com/angularjs2/10-angular-2-progress-bars/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12420,
     "Url": "http://www.clipcode.net/training/clipcode-source-tour.pdf"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12418,
     "Url": "http://se-topics.ir/topicview?id=66"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12401,
     "Url": "https://stackoverflow.az1.qualtrics.com:443/jfe/form/SV_bedBQlMexcTr5WJ"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12399,
     "Url": "https://www.jimbobbennett.io/hiding-api-keys-from-git/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12397,
     "Url": "https://google.qualtrics.com/jfe/form/SV_9zf3lfLkJSaVlVH"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12396,
     "Url": "http://pars.ie/publications/papers/pre-prints/farsi-affix-collocation.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12388,
     "Url": "https://www.angularjs4u.com/angularjs2/10-angular-2-chrome-browser-extensions/"
+  },
+  {
+    "Retries": 1,
+    "Id": 12356,
+    "Url": "https://centare.com/blog/2017/12/c_sharp_panel/"
+  },
+  {
+    "Retries": 1,
+    "Id": 12355,
+    "Url": "https://theinfogrid.com/tech/developers/javascript/2017-top-javascript-frontend-frameworks/"
   }
 ]
