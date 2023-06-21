@@ -1530,18 +1530,28 @@
     "Url": "https://geeks.uniplaces.com/mastering-branches-in-git-f20cb2d0c51f?gi=c9bee0cd3f57"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13104,
     "Url": "http://gittrends.io/#/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13103,
     "Url": "http://www.howardlove.com/dancing-elephants-dangerous/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13084,
     "Url": "https://sirwan.info/archive/2018/05/28/TypeScript-and-Vue.js/"
+  },
+  {
+    "Retries": 1,
+    "Id": 13065,
+    "Url": "https://www.finbuckle.com/Blog/8/introduction-finbuckle-multitenant"
+  },
+  {
+    "Retries": 1,
+    "Id": 13056,
+    "Url": "http://easyautocomplete.com"
   }
 ]
