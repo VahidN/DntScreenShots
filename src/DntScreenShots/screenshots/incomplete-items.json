@@ -1665,47 +1665,47 @@
     "Url": "https://sixlabors.com/blog/beta-3-is-a-magic-number/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12770,
     "Url": "https://blogs.unity3d.com/2018/03/26/releasing-the-unity-c-source-code/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12766,
     "Url": "http://codeworks.it/blog/?p=680"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12765,
     "Url": "http://codeworks.it/blog/?p=659"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12757,
     "Url": "https://www.theverge.com/2018/3/25/17161398/facebook-mark-zuckerberg-apology-cambridge-analytica-full-page-newspapers-ads"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12756,
     "Url": "http://www.snappyjs.com/2018/03/25/vscode-extensions-for-javascript-developers/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12748,
     "Url": "http://elmah.ir/post/data-protection/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12743,
     "Url": "http://codeworks.it/blog/?p=635"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12742,
     "Url": "http://codeworks.it/blog/?p=608"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12735,
     "Url": "https://channel9.msdn.com/Shows/On-NET/Dustin-Campbell-C-Support-in-Visual-Studio-Code"
   },
@@ -1713,5 +1713,20 @@
     "Retries": 1,
     "Id": 12734,
     "Url": "https://docs.microsoft.com/en-us/visualstudio/extensibility/ux-guidelines/images-and-icons-for-visual-studio#BKMK_ImageUseInVisualStudio"
+  },
+  {
+    "Retries": 1,
+    "Id": 12729,
+    "Url": "https://blog.graph.cool/top-5-reasons-to-use-graphql-b60cfa683511?gi=4658dc7953b2"
+  },
+  {
+    "Retries": 1,
+    "Id": 12727,
+    "Url": "https://www.jerriepelser.com/books/airport-explorer"
+  },
+  {
+    "Retries": 1,
+    "Id": 12723,
+    "Url": "https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d?gi=34869f050e73"
   }
 ]
