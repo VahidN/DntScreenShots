@@ -1780,13 +1780,18 @@
     "Url": "http://www.ammyui.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12515,
     "Url": "http://crazygeeksblog.com/2017/10/implement-remote-validationserver-side-in-asp-net-mvc-5/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12513,
     "Url": "http://crazygeeksblog.com/2017/10/how-to-create-multi-lingual-website-in-asp-net-mvc/"
+  },
+  {
+    "Retries": 1,
+    "Id": 12492,
+    "Url": "https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/"
   }
 ]
