@@ -1730,12 +1730,12 @@
     "Url": "https://blog.angularindepth.com/angular-dependency-injection-and-tree-shakeable-tokens-4588a8f70d5d?gi=34869f050e73"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12695,
     "Url": "https://boxy-svg.com/app"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12678,
     "Url": "https://tahirnaushad.com/2017/08/16/asp-net-core-problem-solution-series/"
   }
