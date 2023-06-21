@@ -1540,18 +1540,33 @@
     "Url": "http://www.howardlove.com/dancing-elephants-dangerous/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13084,
     "Url": "https://sirwan.info/archive/2018/05/28/TypeScript-and-Vue.js/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13065,
     "Url": "https://www.finbuckle.com/Blog/8/introduction-finbuckle-multitenant"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13056,
     "Url": "http://easyautocomplete.com"
+  },
+  {
+    "Retries": 1,
+    "Id": 13038,
+    "Url": "https://blog.angularindepth.com/angular-ivy-change-detection-execution-are-you-prepared-ab68d4231f2c?gi=193c2ca32a94"
+  },
+  {
+    "Retries": 1,
+    "Id": 13029,
+    "Url": "https://www.techierathore.com/2018/05/xf-3-0-new-feature-create-wpf-application-using-xamarin-forms/"
+  },
+  {
+    "Retries": 1,
+    "Id": 13024,
+    "Url": "http://chinedungwu.com/50-freelance-websites-freelancers-find-jobs/"
   }
 ]
