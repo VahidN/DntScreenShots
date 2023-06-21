@@ -1765,12 +1765,12 @@
     "Url": "https://theinfogrid.com/tech/developers/angular/state-of-angular-february-2018/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12611,
     "Url": "https://channel9.msdn.com/Shows/On-NET/Brandon-Minnick-asyncawait-best-practices"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12603,
     "Url": "https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917?gi=e4cf07ad5b2c"
   }
