@@ -1615,33 +1615,38 @@
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Standard-Revisited"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12888,
     "Url": "http://www.programfaqs.com/faq/signalr-angular-how-to-add-bearer-token-to-http-headers/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12870,
     "Url": "https://escommunity.ir/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12865,
     "Url": "https://solidsoft.works/2018/03/07/hosting-a-wcf-service-from-an-aspnetcore-application/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12848,
     "Url": "http://sharkman.asuscomm.com/blog/an-introduction-to-adl/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12830,
     "Url": "https://connoratherton.com/loaders"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12823,
     "Url": "http://blog.backtory.com/1396/03/31/%D8%AF%D9%88%D8%B1-%D8%B2%D8%AF%D9%86-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%AD%D9%88%D8%B2%D9%87-%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A8%D9%87-%DA%A9%D9%85%DA%A9-%D8%A8%DA%A9%D8%AA%D9%88%D8%B1%DB%8C"
+  },
+  {
+    "Retries": 1,
+    "Id": 12800,
+    "Url": "https://angular-richtexteditors.azurewebsites.net/"
   }
 ]
