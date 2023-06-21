@@ -1740,17 +1740,17 @@
     "Url": "https://tahirnaushad.com/2017/08/16/asp-net-core-problem-solution-series/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12654,
     "Url": "https://gitential.com/accounts/6/projects/678?from=2017-11-01\u0026to=2018-02-28\u0026share=true"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12640,
     "Url": "https://channel9.msdn.com/Shows/5-Things/Episode-7-Five-Things-About-TypeScript"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12638,
     "Url": "https://javascriptreport.com/why-is-react-more-popular-than-angular/"
   },
@@ -1760,17 +1760,17 @@
     "Url": "http://aakinshin.net/blog/post/bdn-v0_10_13/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12624,
     "Url": "https://theinfogrid.com/tech/developers/angular/state-of-angular-february-2018/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12611,
     "Url": "https://channel9.msdn.com/Shows/On-NET/Brandon-Minnick-asyncawait-best-practices"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12603,
     "Url": "https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917?gi=e4cf07ad5b2c"
   }
