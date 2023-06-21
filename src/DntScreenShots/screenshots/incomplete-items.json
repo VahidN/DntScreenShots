@@ -1790,17 +1790,17 @@
     "Url": "http://crazygeeksblog.com/2017/10/how-to-create-multi-lingual-website-in-asp-net-mvc/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12492,
     "Url": "https://javascriptreport.com/the-ultimate-guide-to-javascript-frameworks/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12468,
     "Url": "https://research.hackerrank.com/developer-skills/2018/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12460,
     "Url": "https://www.jerriepelser.com/blog/using-sharex-for-blogging-screenshots/"
   },
@@ -1808,5 +1808,10 @@
     "Retries": 1,
     "Id": 12454,
     "Url": "http://www.ebooksworld.ir/post/index/233/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-clean-architecture-a-craftsman-s-guide-to-software-structure-and-design"
+  },
+  {
+    "Retries": 1,
+    "Id": 12433,
+    "Url": "https://www.angularjs4u.com/angularjs2/10-angular-2-progress-bars/"
   }
 ]
