@@ -1585,12 +1585,12 @@
     "Url": "https://channel9.msdn.com/events/Build/2018/BRK2155"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12963,
     "Url": "http://sirwan.info/archive/2018/05/02/Developing-Console-based-UI-in-C/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12922,
     "Url": "https://www.certcc.ir/news/12366"
   }
