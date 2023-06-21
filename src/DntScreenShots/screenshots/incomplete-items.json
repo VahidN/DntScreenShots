@@ -1515,32 +1515,32 @@
     "Url": "https://channel9.msdn.com/Events/Build/2018/BRK2139"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13121,
     "Url": "http://www.jsoftware.com"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13118,
     "Url": "http://mahdavipanah.com/blog/github-acquired-by-microsoft/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 13110,
     "Url": "https://geeks.uniplaces.com/mastering-branches-in-git-f20cb2d0c51f?gi=c9bee0cd3f57"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13104,
     "Url": "http://gittrends.io/#/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 13103,
     "Url": "http://www.howardlove.com/dancing-elephants-dangerous/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 13084,
     "Url": "https://sirwan.info/archive/2018/05/28/TypeScript-and-Vue.js/"
   }
