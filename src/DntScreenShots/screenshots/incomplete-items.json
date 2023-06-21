@@ -1773,5 +1773,20 @@
     "Retries": 4,
     "Id": 12603,
     "Url": "https://koukia.ca/a-microservices-implementation-journey-part-1-9f6471fe917?gi=e4cf07ad5b2c"
+  },
+  {
+    "Retries": 1,
+    "Id": 12532,
+    "Url": "http://www.ammyui.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 12515,
+    "Url": "http://crazygeeksblog.com/2017/10/implement-remote-validationserver-side-in-asp-net-mvc-5/"
+  },
+  {
+    "Retries": 1,
+    "Id": 12513,
+    "Url": "http://crazygeeksblog.com/2017/10/how-to-create-multi-lingual-website-in-asp-net-mvc/"
   }
 ]
