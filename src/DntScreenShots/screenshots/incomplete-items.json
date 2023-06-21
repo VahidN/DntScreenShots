@@ -1585,13 +1585,33 @@
     "Url": "https://channel9.msdn.com/events/Build/2018/BRK2155"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12963,
     "Url": "http://sirwan.info/archive/2018/05/02/Developing-Console-based-UI-in-C/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12922,
     "Url": "https://www.certcc.ir/news/12366"
+  },
+  {
+    "Retries": 1,
+    "Id": 12914,
+    "Url": "https://www.infoworld.com/article/3269032/application-development/7-books-you-must-read-to-be-a-real-software-developer.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 12912,
+    "Url": "https://www.dennyzhang.com/git-concepts"
+  },
+  {
+    "Retries": 1,
+    "Id": 12907,
+    "Url": "https://jmango360.com/wiki/mobile-app-vs-mobile-website-statistics/"
+  },
+  {
+    "Retries": 1,
+    "Id": 12905,
+    "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/NET-Standard-Revisited"
   }
 ]
