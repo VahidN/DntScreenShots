@@ -1940,18 +1940,23 @@
     "Url": "https://theinfogrid.com/tech/developers/angular/how-to-upgrade-your-angular-4-app-to-angular-5-0/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12170,
     "Url": "http://35.188.166.81/2017/10/31/frontend-developer-survey-2017/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12142,
     "Url": "https://blog.bridge.net/widgetoko-a-node-js-and-electron-application-written-in-c-1a2be480e4f9?gi=b48be2d7619"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12109,
     "Url": "http://tech.energyhelpline.com/optimising-nuget-update/"
+  },
+  {
+    "Retries": 1,
+    "Id": 12089,
+    "Url": "http://sirwan.info/archive/2017/06/06/Powershell-on-macOS/"
   }
 ]
