@@ -2230,13 +2230,18 @@
     "Url": "https://www.youtube.com/playlist?list=PLYMOUCVo86jFPCV6_u2m8P2NE2LSijvLN"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11543,
     "Url": "http://codersblog.ir/post/?id=2\u0026slug=%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%AE%D8%B7%D9%88%D8%B7-%D8%AF%D8%B1-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%88%D9%84"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11522,
     "Url": "https://shellmonger.com/2017/05/25/which-is-better-react-native-or-xamarin-forms/"
+  },
+  {
+    "Retries": 1,
+    "Id": 11504,
+    "Url": "https://twitter.com/StackOverflow/status/866776708149587968"
   }
 ]
