@@ -1930,13 +1930,18 @@
     "Url": "https://channel9.msdn.com/events/Connect/2017/T122"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12212,
     "Url": "https://apisof.net/catalog/System.Collections.IEnumerator"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12191,
     "Url": "https://theinfogrid.com/tech/developers/angular/how-to-upgrade-your-angular-4-app-to-angular-5-0/"
+  },
+  {
+    "Retries": 1,
+    "Id": 12170,
+    "Url": "http://35.188.166.81/2017/10/31/frontend-developer-survey-2017/"
   }
 ]
