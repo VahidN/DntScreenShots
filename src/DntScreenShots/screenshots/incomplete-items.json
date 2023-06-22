@@ -2050,38 +2050,58 @@
     "Url": "http://berneti.ir:80/blog/1008/%D8%A7%D8%B1%D8%AA%D9%82%D8%A7-%D8%A8%D9%87-dotnetcore-2"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11870,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Design-Patterns-Singleton"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11853,
     "Url": "https://jjude.com/gulp-guide/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11849,
     "Url": "https://blog.angularindepth.com/managing-rxjs-imports-with-tslint-828cdc66b5ee?gi=bdbc9cdb0c24"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11844,
     "Url": "http://alexpetralia.com/posts/2017/7/19/more-dangerous-subtleties-of-joins-in-sql?utm_source=dbweekly\u0026utm_medium=email"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11843,
     "Url": "http://www.jerriepelser.com/blog/using-vscode-for-csharp-development/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11840,
     "Url": "http://devex.ir/Home/ShowPost/102"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11832,
     "Url": "http://nosqliran.com"
+  },
+  {
+    "Retries": 1,
+    "Id": 11815,
+    "Url": "https://blog.angularindepth.com/this-is-how-angular-cli-webpack-delivers-your-css-styles-to-the-client-d4adf15c4975?gi=6e5a18a5ba7"
+  },
+  {
+    "Retries": 1,
+    "Id": 11810,
+    "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Git-Fundamentals"
+  },
+  {
+    "Retries": 1,
+    "Id": 11808,
+    "Url": "https://stu.ratcliffe.io/2017/07/20/vuejs-serverside-rendering-with-aspnet-core?utm_source=dotNET\u002BWeekly\u0026utm_campaign=4537655970-EMAIL_CAMPAIGN_2017_08_01\u0026utm_medium=email\u0026utm_term=0_cacef7f3d3-4537655970-458000573"
+  },
+  {
+    "Retries": 1,
+    "Id": 11799,
+    "Url": "http://hidevops.com/13/%D8%AF%D9%88%D8%A7%D9%BE%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA-%DA%86%D8%B1%D8%A7-%D8%A2%D9%86-%D8%B1%D8%A7-%D8%A7%D8%AC%D8%B1%D8%A7-%DA%A9%D9%86%DB%8C%D9%85-what-is-devops-why-should-imp-it/"
   }
 ]
