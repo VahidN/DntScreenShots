@@ -2105,18 +2105,33 @@
     "Url": "http://hidevops.com/13/%D8%AF%D9%88%D8%A7%D9%BE%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA-%DA%86%D8%B1%D8%A7-%D8%A2%D9%86-%D8%B1%D8%A7-%D8%A7%D8%AC%D8%B1%D8%A7-%DA%A9%D9%86%DB%8C%D9%85-what-is-devops-why-should-imp-it/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11793,
     "Url": "https://darsnameh.com/#"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11792,
     "Url": "https://docs.bit-framework.com/docs/design-backgrounds/server-sent-events-or-web-sockets.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11786,
     "Url": "https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 11768,
+    "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Design-Patterns-CommandMemento"
+  },
+  {
+    "Retries": 1,
+    "Id": 11765,
+    "Url": "http://codersblog.ir/post/?id=3\u0026slug=%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%AE%D8%B7%D9%88%D8%B7-%D8%AF%D8%B1-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D8%A8%D8%AE%D8%B4-%D8%AF%D9%88%D9%85"
+  },
+  {
+    "Retries": 1,
+    "Id": 11750,
+    "Url": "https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors"
   }
 ]
