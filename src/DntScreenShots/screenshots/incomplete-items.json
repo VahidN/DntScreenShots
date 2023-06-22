@@ -2010,28 +2010,38 @@
     "Url": "http://chl.onokumus.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11973,
     "Url": "https://channel9.msdn.com/Blogs/dotnet/Create-NET-App-on-Linux"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11972,
     "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11946,
     "Url": "http://www.ictstartups.ir/fa/content/successstory"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11923,
     "Url": "http://foreverframe.net/debugging-asp-net-core-apps-in-visual-studio-code/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11918,
     "Url": "https://docs.bit-framework.com/docs/good-to-know/visual-studio-speedup.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 11915,
+    "Url": "https://www.youtube.com/playlist?list=PL-72PPAq-3SXd6cBrI_8gu9LvExFUr_JH"
+  },
+  {
+    "Retries": 1,
+    "Id": 11907,
+    "Url": "http://berneti.ir/blog/1009/%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D8%B3%D8%A7%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-gradle"
   }
 ]
