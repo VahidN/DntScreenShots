@@ -49,6 +49,7 @@ news-11828.jpg
 news-11829.jpg
 news-11830.jpg
 news-11831.jpg
+news-11832.jpg
 news-11833.jpg
 news-11834.jpg
 news-11835.jpg
@@ -56,7 +57,10 @@ news-11836.jpg
 news-11837.jpg
 news-11838.jpg
 news-11839.jpg
+news-11840.jpg
 news-11842.jpg
+news-11843.jpg
+news-11844.jpg
 news-11845.jpg
 news-11846.jpg
 news-11847.jpg

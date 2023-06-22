@@ -2085,17 +2085,17 @@
     "Url": "http://nosqliran.com"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11815,
     "Url": "https://blog.angularindepth.com/this-is-how-angular-cli-webpack-delivers-your-css-styles-to-the-client-d4adf15c4975?gi=6e5a18a5ba7"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11810,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Git-Fundamentals"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11808,
     "Url": "https://stu.ratcliffe.io/2017/07/20/vuejs-serverside-rendering-with-aspnet-core?utm_source=dotNET\u002BWeekly\u0026utm_campaign=4537655970-EMAIL_CAMPAIGN_2017_08_01\u0026utm_medium=email\u0026utm_term=0_cacef7f3d3-4537655970-458000573"
   },
@@ -2105,17 +2105,17 @@
     "Url": "http://hidevops.com/13/%D8%AF%D9%88%D8%A7%D9%BE%D8%B3-%DA%86%DB%8C%D8%B3%D8%AA-%DA%86%D8%B1%D8%A7-%D8%A2%D9%86-%D8%B1%D8%A7-%D8%A7%D8%AC%D8%B1%D8%A7-%DA%A9%D9%86%DB%8C%D9%85-what-is-devops-why-should-imp-it/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11793,
     "Url": "https://darsnameh.com/#"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11792,
     "Url": "https://docs.bit-framework.com/docs/design-backgrounds/server-sent-events-or-web-sockets.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11786,
     "Url": "https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html"
   }
