@@ -2205,17 +2205,17 @@
     "Url": "http://ngbook.io/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11599,
     "Url": "https://www.youtube.com/playlist?list=PLwZVRWVJepJtK6UZD-m2VLU2k2V-O5OrG"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11591,
     "Url": "http://sirwan.info/SQL-Server-on-Linux-in-Docker-on-a-Mac"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11589,
     "Url": "http://omidnasri.com/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/%D8%B3%D9%88%D8%A7%D9%84-%D9%85%D8%B5%D8%A7%D8%AD%D8%A8%D9%87-%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AF%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%81%DB%8C%D8%B3-%D8%A8%D8%A7-%D9%85%D8%AA%D8%AF%D9%87%D8%A7%DB%8C-%D9%87%D9%85%D9%86%D8%A7%D9%85-%D8%AF%D8%B1-%D8%B3%DB%8C-%D8%B4%D8%A7%D8%B1%D9%BE"
   },
@@ -2228,5 +2228,15 @@
     "Retries": 1,
     "Id": 11556,
     "Url": "https://www.youtube.com/playlist?list=PLYMOUCVo86jFPCV6_u2m8P2NE2LSijvLN"
+  },
+  {
+    "Retries": 1,
+    "Id": 11543,
+    "Url": "http://codersblog.ir/post/?id=2\u0026slug=%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%AE%D8%B7%D9%88%D8%B7-%D8%AF%D8%B1-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%88%D9%84"
+  },
+  {
+    "Retries": 1,
+    "Id": 11522,
+    "Url": "https://shellmonger.com/2017/05/25/which-is-better-react-native-or-xamarin-forms/"
   }
 ]
