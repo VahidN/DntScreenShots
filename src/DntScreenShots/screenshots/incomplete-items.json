@@ -2120,17 +2120,17 @@
     "Url": "https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11768,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Design-Patterns-CommandMemento"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11765,
     "Url": "http://codersblog.ir/post/?id=3\u0026slug=%D8%AA%D8%B9%D8%AF%D8%A7%D8%AF-%D8%AE%D8%B7%D9%88%D8%B7-%D8%AF%D8%B1-%D8%AA%D9%88%D8%A7%D8%A8%D8%B9-%D8%A8%D8%AE%D8%B4-%D8%AF%D9%88%D9%85"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11750,
     "Url": "https://ryanchenkie.com/angular-authentication-using-the-http-client-and-http-interceptors"
   },
@@ -2140,27 +2140,27 @@
     "Url": "https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M\u0026utm_source=csharpdigest\u0026utm_medium=rss\u0026utm_campaign=featured"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11741,
     "Url": "https://code.headmelted.com/#platforms"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11740,
     "Url": "https://blog.sourced.tech/post/language_migrations/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11736,
     "Url": "https://channel9.msdn.com/Shows/XamarinShow/Snack-Pack-15-Upgrading-to-XamarinForms-to-NET-Standard"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11725,
     "Url": "http://www.monitis.com/blog/7-ways-to-decrease-your-web-page-load-time/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11723,
     "Url": "http://www.postsharp.net/blog/post/Announcing-PostSharp-50-RTM?utm_source=crm\u0026utm_medium=email\u0026utm_campaign=50rtm"
   }
