@@ -2140,28 +2140,38 @@
     "Url": "https://www.youtube.com/playlist?list=PLrW43fNmjaQVYF4zgsD0oL9Iv6u23PI6M\u0026utm_source=csharpdigest\u0026utm_medium=rss\u0026utm_campaign=featured"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11741,
     "Url": "https://code.headmelted.com/#platforms"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11740,
     "Url": "https://blog.sourced.tech/post/language_migrations/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11736,
     "Url": "https://channel9.msdn.com/Shows/XamarinShow/Snack-Pack-15-Upgrading-to-XamarinForms-to-NET-Standard"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11725,
     "Url": "http://www.monitis.com/blog/7-ways-to-decrease-your-web-page-load-time/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11723,
     "Url": "http://www.postsharp.net/blog/post/Announcing-PostSharp-50-RTM?utm_source=crm\u0026utm_medium=email\u0026utm_campaign=50rtm"
+  },
+  {
+    "Retries": 1,
+    "Id": 11671,
+    "Url": "http://se-topics.ir/topicview?id=63"
+  },
+  {
+    "Retries": 1,
+    "Id": 11664,
+    "Url": "http://eprint.iacr.org/2017/468.pdf?utm_source=dbweekly\u0026utm_medium=email"
   }
 ]
