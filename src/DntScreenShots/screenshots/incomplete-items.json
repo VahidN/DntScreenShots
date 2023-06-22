@@ -2270,17 +2270,17 @@
     "Url": "http://iranjobfair.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11394,
     "Url": "https://dev.office.com/blogs/general-availability-of-office-365-cdn"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11363,
     "Url": "http://anbox.io"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11353,
     "Url": "http://babakhani.github.io/PersianWebToolkit/"
   }
