@@ -1975,38 +1975,48 @@
     "Url": "http://www.omidnasri.com/%D8%AF%DB%8C%D8%A8%D8%A7%DA%AF-%DA%A9%D8%AF%D9%87%D8%A7%DB%8C-%D9%81%D8%B4%D8%B1%D8%AF%D9%87-%D8%AC%D8%A7%D9%88%D8%A7%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12050,
     "Url": "https://www.microsoft.com/net/download/thank-you/aspnet-ebook"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12031,
     "Url": "https://raygun.com/blog/increased-throughput-net-core/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12010,
     "Url": "http://se-topics.ir/topicview?id=64"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12007,
     "Url": "https://downloadly.ir/software/programming/telerik-1/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12006,
     "Url": "https://downloadly.ir/software/programming/microsoft-visual-studio/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11989,
     "Url": "https://s3-us-west-1.amazonaws.com/angular-university/mailing-list-downloads/JWT_Complete_Guide.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11986,
     "Url": "http://chl.onokumus.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 11973,
+    "Url": "https://channel9.msdn.com/Blogs/dotnet/Create-NET-App-on-Linux"
+  },
+  {
+    "Retries": 1,
+    "Id": 11972,
+    "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/Introducing-Razor-Pages"
   }
 ]
