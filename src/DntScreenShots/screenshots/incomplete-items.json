@@ -1925,8 +1925,18 @@
     "Url": "http://enterprisearchitect.ir/2017/11/19/devops-%D9%88-microservices/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12230,
     "Url": "https://channel9.msdn.com/events/Connect/2017/T122"
+  },
+  {
+    "Retries": 1,
+    "Id": 12212,
+    "Url": "https://apisof.net/catalog/System.Collections.IEnumerator"
+  },
+  {
+    "Retries": 1,
+    "Id": 12191,
+    "Url": "https://theinfogrid.com/tech/developers/angular/how-to-upgrade-your-angular-4-app-to-angular-5-0/"
   }
 ]
