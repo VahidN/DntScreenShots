@@ -1910,22 +1910,22 @@
     "Url": "https://borntolearn.mslearn.net/b/mva/posts/get-on-board-with-cross-platform-asp-net-core"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12280,
     "Url": "https://www.angularjs4u.com/tables/20-amazing-angular-4-tables/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12278,
     "Url": "https://www.nickzad.ir/progressive-web-apps-pwa/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12255,
     "Url": "http://enterprisearchitect.ir/2017/11/19/devops-%D9%88-microservices/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 12230,
     "Url": "https://channel9.msdn.com/events/Connect/2017/T122"
   }
