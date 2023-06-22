@@ -2165,13 +2165,28 @@
     "Url": "http://www.postsharp.net/blog/post/Announcing-PostSharp-50-RTM?utm_source=crm\u0026utm_medium=email\u0026utm_campaign=50rtm"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11671,
     "Url": "http://se-topics.ir/topicview?id=63"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11664,
     "Url": "http://eprint.iacr.org/2017/468.pdf?utm_source=dbweekly\u0026utm_medium=email"
+  },
+  {
+    "Retries": 1,
+    "Id": 11650,
+    "Url": "http://sqlblog.com/blogs/john_paul_cook/archive/2017/06/20/modeling-an-adjacency-list-hierarchy-with-sql-server-2017-graph-database.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 11647,
+    "Url": "http://2www.sqlblog.com/blogs/john_paul_cook/archive/2017/06/19/modeling-many-to-many-relationships-in-sql-server-2017-graph-database.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 11645,
+    "Url": "https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2017"
   }
 ]
