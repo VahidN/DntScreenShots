@@ -2040,27 +2040,27 @@
     "Url": "https://www.youtube.com/playlist?list=PL-72PPAq-3SXd6cBrI_8gu9LvExFUr_JH"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11907,
     "Url": "http://berneti.ir/blog/1009/%D8%B1%D8%A7%D9%87-%D8%AD%D9%84-%D8%B3%D8%A7%D8%AF%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%B1%D9%81%D8%B9-%D9%85%D8%B4%DA%A9%D9%84%D8%A7%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D9%85-gradle"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11893,
     "Url": "http://berneti.ir:80/blog/1008/%D8%A7%D8%B1%D8%AA%D9%82%D8%A7-%D8%A8%D9%87-dotnetcore-2"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11870,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Design-Patterns-Singleton"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11853,
     "Url": "https://jjude.com/gulp-guide/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11849,
     "Url": "https://blog.angularindepth.com/managing-rxjs-imports-with-tslint-828cdc66b5ee?gi=bdbc9cdb0c24"
   }
