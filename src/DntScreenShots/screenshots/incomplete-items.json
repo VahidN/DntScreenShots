@@ -2245,7 +2245,7 @@
     "Url": "https://twitter.com/StackOverflow/status/866776708149587968"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11493,
     "Url": "http://www.omidnasri.com/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/%D8%A7%D8%B4%DB%8C%D8%A7%D8%A1-%D8%A7%D9%86%D8%AA%D8%B2%D8%A7%D8%B9%DB%8C-%DB%8C%D8%A7-abstract-objects"
   },
@@ -2255,18 +2255,23 @@
     "Url": "https://www.youtube.com/playlist?list=PLOU2XLYxmsIKC8eODk_RNCWv3fBcLvMMy"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11467,
     "Url": "http://www.inversionofcontrol.co.uk/asp-net-core-2-0-thinking-about-the-future/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11422,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Rearchitecting-Visual-Studio-2017"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11415,
     "Url": "http://iranjobfair.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 11394,
+    "Url": "https://dev.office.com/blogs/general-availability-of-office-365-cdn"
   }
 ]
