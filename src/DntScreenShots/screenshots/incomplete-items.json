@@ -1920,12 +1920,12 @@
     "Url": "https://www.nickzad.ir/progressive-web-apps-pwa/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 12255,
     "Url": "http://enterprisearchitect.ir/2017/11/19/devops-%D9%88-microservices/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 12230,
     "Url": "https://channel9.msdn.com/events/Connect/2017/T122"
   }
