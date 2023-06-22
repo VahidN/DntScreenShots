@@ -2175,48 +2175,53 @@
     "Url": "http://eprint.iacr.org/2017/468.pdf?utm_source=dbweekly\u0026utm_medium=email"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11650,
     "Url": "http://sqlblog.com/blogs/john_paul_cook/archive/2017/06/20/modeling-an-adjacency-list-hierarchy-with-sql-server-2017-graph-database.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11647,
     "Url": "http://2www.sqlblog.com/blogs/john_paul_cook/archive/2017/06/19/modeling-many-to-many-relationships-in-sql-server-2017-graph-database.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11645,
     "Url": "https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2017"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11631,
     "Url": "http://www.soheilkarami.ir/%DA%A9%D8%AA%D8%A7%D8%A8-clean-coder/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11627,
     "Url": "https://channel9.msdn.com/Shows/Code-Conversations/Creating-your-own-Tag-Helpers"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11621,
     "Url": "http://ngbook.io/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11599,
     "Url": "https://www.youtube.com/playlist?list=PLwZVRWVJepJtK6UZD-m2VLU2k2V-O5OrG"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11591,
     "Url": "http://sirwan.info/SQL-Server-on-Linux-in-Docker-on-a-Mac"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11589,
     "Url": "http://omidnasri.com/%D9%85%D9%82%D8%A7%D9%84%D8%A7%D8%AA/%D8%B3%D9%88%D8%A7%D9%84-%D9%85%D8%B5%D8%A7%D8%AD%D8%A8%D9%87-%D9%BE%DB%8C%D8%A7%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AF%D9%88-%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%81%DB%8C%D8%B3-%D8%A8%D8%A7-%D9%85%D8%AA%D8%AF%D9%87%D8%A7%DB%8C-%D9%87%D9%85%D9%86%D8%A7%D9%85-%D8%AF%D8%B1-%D8%B3%DB%8C-%D8%B4%D8%A7%D8%B1%D9%BE"
+  },
+  {
+    "Retries": 1,
+    "Id": 11584,
+    "Url": "http://www.hishambinateya.com/theming-in-asp.net-core"
   }
 ]
