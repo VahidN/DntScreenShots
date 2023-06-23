@@ -2610,18 +2610,33 @@
     "Url": "https://www.echosteg.com/jquery-datatables-asp.net-mvc5-server-side"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10682,
     "Url": "https://channel9.msdn.com/Blogs/vsppstories/NoSQL-Database-Programming-in-NET-with-NosDB-Open-Source"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10674,
     "Url": "http://services.ce3c.be/ciprg/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10672,
     "Url": "https://proudmonkey.azurewebsites.net/asp-net-core-and-angular-2-code-venture-part-1/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10636,
+    "Url": "https://school.scotch.io/getting-started-with-angular-2"
+  },
+  {
+    "Retries": 1,
+    "Id": 10635,
+    "Url": "http://www.omidnasri.com/articles/%D9%88%D8%A7%DA%A9%D8%B4%DB%8C-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%81%D8%A7%DB%8C%D9%84-xml-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-jquery"
+  },
+  {
+    "Retries": 1,
+    "Id": 10628,
+    "Url": "http://www.infoworld.com/article/3122803/application-development/the-power-of-lazy-programming.html"
   }
 ]
