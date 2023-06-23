@@ -2285,22 +2285,22 @@
     "Url": "http://babakhani.github.io/PersianWebToolkit/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11304,
     "Url": "https://codeplex.codeplex.com/wikipage?title=Migrating%20to%20GitHub"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11281,
     "Url": "http://baboon.ir/%d9%be%d9%84%d8%a7%da%af%db%8c%d9%86-%d9%87%d8%a7%db%8c-%d8%ae%d9%88%d8%a8-vue/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11278,
     "Url": "http://android.hive.ir"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11273,
     "Url": "https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/eUAKwjihhBs/rpxMXjZHCQAJ"
   },
@@ -2310,17 +2310,17 @@
     "Url": "https://www.microsoft.com/en-us/download/details.aspx?id=54613\u0026WT.mc_id=DX_MVP4025064"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11249,
     "Url": "http://rodeo.yhat.com"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11235,
     "Url": "http://download.microsoft.com/download/7/6/8/768D3A52-460C-4B80-A94E-F239D14124E2/VisualStudio2017_ProductLaunchPoster.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11232,
     "Url": "http://mindsheets.ir/?p=271"
   },
@@ -2328,5 +2328,20 @@
     "Retries": 1,
     "Id": 11223,
     "Url": "http://hjson.org/"
+  },
+  {
+    "Retries": 1,
+    "Id": 11219,
+    "Url": "http://mindsheets.ir/?p=262"
+  },
+  {
+    "Retries": 1,
+    "Id": 11213,
+    "Url": "http://csharpoop.com/2016/08/27/4547/commandname-and-commandargument-in-asp/"
+  },
+  {
+    "Retries": 1,
+    "Id": 11207,
+    "Url": "https://cmdchallenge.com"
   }
 ]
