@@ -2625,17 +2625,17 @@
     "Url": "https://proudmonkey.azurewebsites.net/asp-net-core-and-angular-2-code-venture-part-1/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10636,
     "Url": "https://school.scotch.io/getting-started-with-angular-2"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10635,
     "Url": "http://www.omidnasri.com/articles/%D9%88%D8%A7%DA%A9%D8%B4%DB%8C-%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D9%81%D8%A7%DB%8C%D9%84-xml-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-jquery"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10628,
     "Url": "http://www.infoworld.com/article/3122803/application-development/the-power-of-lazy-programming.html"
   },
@@ -2645,28 +2645,48 @@
     "Url": "https://www.youtube.com/channel/UCzrskTiT_ObAk3xBkVxMz5g"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10608,
     "Url": "https://sebastian-mueller.net/post/angular-router-preloading-routes/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10588,
     "Url": "http://bestprogrammingbooks.com/2016/09/best-books-learn-angularjs-2/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10583,
     "Url": "http://vmtri.com/a-first-look-at-entity-framework-core-with-sqlite-database-on-ubuntu-linux/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10578,
     "Url": "http://www.omidnasri.com/articles/tostring-%DB%8C%D8%A7-convert-tostring"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10566,
     "Url": "http://www.omidnasri.com/articles/%D9%85%D8%AA%D8%AF-session-abandon-%D8%AF%D8%B1-asp-net"
+  },
+  {
+    "Retries": 1,
+    "Id": 10553,
+    "Url": "http://blog.falafel.com/getting-started-electron-typescript/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10552,
+    "Url": "http://aakinshin.net/en/blog/dotnet/stopwatch/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10550,
+    "Url": "http://berneti.ir/blog/1005/%D8%AE%D8%B7%D8%A7%DB%8C-linq-to-entities-only-supports-casting-edm-primitive-types-"
+  },
+  {
+    "Retries": 1,
+    "Id": 10546,
+    "Url": "http://www.omidnasri.com/articles/%D9%88%D8%A7%D8%AA%D8%B1%D9%85%D8%A7%D8%B1%DA%A9-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%85%D9%88%D9%84-%D8%B3%D8%A7%D9%81%D8%AA"
   }
 ]
