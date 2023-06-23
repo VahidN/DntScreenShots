@@ -2310,17 +2310,17 @@
     "Url": "https://www.microsoft.com/en-us/download/details.aspx?id=54613\u0026WT.mc_id=DX_MVP4025064"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11249,
     "Url": "http://rodeo.yhat.com"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11235,
     "Url": "http://download.microsoft.com/download/7/6/8/768D3A52-460C-4B80-A94E-F239D14124E2/VisualStudio2017_ProductLaunchPoster.pdf"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11232,
     "Url": "http://mindsheets.ir/?p=271"
   },
@@ -2330,18 +2330,23 @@
     "Url": "http://hjson.org/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11219,
     "Url": "http://mindsheets.ir/?p=262"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11213,
     "Url": "http://csharpoop.com/2016/08/27/4547/commandname-and-commandargument-in-asp/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 11207,
     "Url": "https://cmdchallenge.com"
+  },
+  {
+    "Retries": 1,
+    "Id": 11195,
+    "Url": "http://enterprisecraftsmanship.com/2014/11/08/domain-object-base-class/"
   }
 ]
