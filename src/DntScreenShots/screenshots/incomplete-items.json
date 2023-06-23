@@ -2585,28 +2585,43 @@
     "Url": "https://www.youtube.com/channel/UCEGUP3TJJfMsEM_1y8iviSQ"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10726,
     "Url": "http://www.omidnasri.com/articles/%D9%86%D8%B5%D8%A8-net-framework-3-5-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A7%D9%81%D9%84%D8%A7%DB%8C%D9%86"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10719,
     "Url": "http://www.omidnasri.com/articles/%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%DB%8C-%D8%AF%D8%B1-asp-net-mvc-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-jquery"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10706,
     "Url": "http://www.omidnasri.com/articles/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-query-shortcut-%D8%AF%D8%B1-ssms"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10702,
     "Url": "https://channel9.msdn.com/Shows/On-NET/Rowan-Miller-Entity-Framework-Core-11"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10695,
     "Url": "https://www.echosteg.com/jquery-datatables-asp.net-mvc5-server-side"
+  },
+  {
+    "Retries": 1,
+    "Id": 10682,
+    "Url": "https://channel9.msdn.com/Blogs/vsppstories/NoSQL-Database-Programming-in-NET-with-NosDB-Open-Source"
+  },
+  {
+    "Retries": 1,
+    "Id": 10674,
+    "Url": "http://services.ce3c.be/ciprg/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10672,
+    "Url": "https://proudmonkey.azurewebsites.net/asp-net-core-and-angular-2-code-venture-part-1/"
   }
 ]
