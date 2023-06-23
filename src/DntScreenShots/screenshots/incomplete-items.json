@@ -2495,32 +2495,32 @@
     "Url": "http://blog.qt.io/blog/2016/12/14/qt-5-7-1-released/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10888,
     "Url": "http://foss.ir/blog/842"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10887,
     "Url": "https://www.gurustop.net/newsletter/19"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10883,
     "Url": "https://labs.encoded.io/2016/12/08/asyncawait-with-angular/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10879,
     "Url": "http://se-topics.ir/topicview?id=55"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10878,
     "Url": "http://summits.ir/7-%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d8%b9%d8%a7%d9%84%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1-%d8%aa%db%8c%d9%85%db%8c-%d9%88-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10875,
     "Url": "http://bookkhan.com/Articles/Details/1"
   },
@@ -2530,8 +2530,28 @@
     "Url": "http://blog.cafebazaar.ir/1393/11/29/android-versions-and-devices-statistics-in-iran-based-on-bazaar-analytics"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10853,
     "Url": "http://se-topics.ir/topicview?id=54"
+  },
+  {
+    "Retries": 1,
+    "Id": 10841,
+    "Url": "http://www.aminsaghi.ir/%d9%85%d9%84%d8%a7%d8%ad%d8%b8%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%d8%a7%db%8c%db%8c-%d8%af%d8%b1-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-entity-framework/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10840,
+    "Url": "http://www.webkooshan.com/%D8%AA%D9%85%D8%A7%D9%85-%DA%86%DB%8C%D8%B2%DB%8C-%DA%A9%D9%87-html5-data-attribute-%D8%A8%D8%AF%D8%A7%D9%86%DB%8C%D8%AF/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10834,
+    "Url": "http://www.se-topics.ir/topicview?id=53"
+  },
+  {
+    "Retries": 1,
+    "Id": 10832,
+    "Url": "http://www.omidnasri.com/articles/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%DA%AF%DB%8C%DA%A9"
   }
 ]
