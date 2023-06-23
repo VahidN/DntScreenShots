@@ -2565,18 +2565,33 @@
     "Url": "http://www.omidnasri.com/articles/%D8%AA%DA%A9%D9%87-%DA%A9%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%DB%8C%D8%AF-%D8%AC%DB%8C-%DA%A9%D9%88%D9%8A%D8%B1%DB%8C-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%88%D9%84"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10800,
     "Url": "https://thedon.me/2016/11/17/visual-studio-for-mac-quick-look/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10785,
     "Url": "https://vmware.github.io/clarity/index.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10770,
     "Url": "http://www.omidnasri.com/articles/%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%DB%8C%DA%A9-%D9%BE%D9%84%D8%A7%DA%AF%DB%8C%D9%86-%D8%B3%D8%A7%D8%AF%D9%87-%D8%AC%DB%8C-%DA%A9%D9%88%D9%8A%D8%B1%DB%8C"
+  },
+  {
+    "Retries": 1,
+    "Id": 10729,
+    "Url": "https://www.youtube.com/channel/UCEGUP3TJJfMsEM_1y8iviSQ"
+  },
+  {
+    "Retries": 1,
+    "Id": 10726,
+    "Url": "http://www.omidnasri.com/articles/%D9%86%D8%B5%D8%A8-net-framework-3-5-%D8%A8%D9%87-%D8%B5%D9%88%D8%B1%D8%AA-%D8%A7%D9%81%D9%84%D8%A7%DB%8C%D9%86"
+  },
+  {
+    "Retries": 1,
+    "Id": 10719,
+    "Url": "http://www.omidnasri.com/articles/%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%DB%8C-%D8%AF%D8%B1-asp-net-mvc-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-jquery"
   }
 ]
