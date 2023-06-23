@@ -2465,27 +2465,27 @@
     "Url": "http://www.se-topics.ir/topicview?id=57"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10929,
     "Url": "http://foss.ir/blog/844"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10924,
     "Url": "http://se-topics.ir/topicview?id=56"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10918,
     "Url": "http://baboon.ir/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d9%87%d8%a7%db%8c-%d9%85%d9%81%db%8c%d8%af/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10914,
     "Url": "http://blog.falafel.com/mvc-areas-with-asp-net-core/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10912,
     "Url": "http://git.coderz.ir/en/latest/index.html"
   },
@@ -2495,33 +2495,43 @@
     "Url": "http://blog.qt.io/blog/2016/12/14/qt-5-7-1-released/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10888,
     "Url": "http://foss.ir/blog/842"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10887,
     "Url": "https://www.gurustop.net/newsletter/19"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10883,
     "Url": "https://labs.encoded.io/2016/12/08/asyncawait-with-angular/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10879,
     "Url": "http://se-topics.ir/topicview?id=55"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10878,
     "Url": "http://summits.ir/7-%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1-%d8%b9%d8%a7%d9%84%db%8c-%d8%a8%d8%b1%d8%a7%db%8c-%da%a9%d8%a7%d8%b1-%d8%aa%db%8c%d9%85%db%8c-%d9%88-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d9%86%d9%88%db%8c%d8%b3"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10875,
     "Url": "http://bookkhan.com/Articles/Details/1"
+  },
+  {
+    "Retries": 1,
+    "Id": 10871,
+    "Url": "http://blog.cafebazaar.ir/1393/11/29/android-versions-and-devices-statistics-in-iran-based-on-bazaar-analytics"
+  },
+  {
+    "Retries": 1,
+    "Id": 10853,
+    "Url": "http://se-topics.ir/topicview?id=54"
   }
 ]
