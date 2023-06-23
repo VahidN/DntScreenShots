@@ -2690,22 +2690,22 @@
     "Url": "http://www.omidnasri.com/articles/%D9%88%D8%A7%D8%AA%D8%B1%D9%85%D8%A7%D8%B1%DA%A9-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%85%D9%88%D9%84-%D8%B3%D8%A7%D9%81%D8%AA"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10540,
     "Url": "http://www.omidnasri.com/articles/%DA%A9%D9%84%D8%A7%D8%B3-%D9%87%D8%A7%DB%8C-%D9%85%D9%87%D8%B1-%D9%88-%D9%85%D9%88%D9%85-%D8%B4%D8%AF%D9%87-%DB%8C%D8%A7-sealed-classes"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10530,
     "Url": "http://www.omidnasri.com/articles/%D8%B1%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D8%AC%D9%88%D8%AF-%D8%AC%D9%87%D8%AA-%D9%86%D9%85%D8%A7%DB%8C%D8%B4-%D8%B9%DA%A9%D8%B3-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%85%D9%88%D9%84-%D8%B3%D8%A7%D9%81%D8%AA"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10520,
     "Url": "https://paulund.co.uk/back-to-top-javascript"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10518,
     "Url": "http://en.\u0647\u0634\u0627\u0645.com/post/create-configurable-error-pages-in-aspnet-core"
   },
@@ -2715,13 +2715,23 @@
     "Url": "http://jobfair.sharif.ir/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10503,
     "Url": "http://www.omidnasri.com/articles/%DA%A9%D8%A7%D9%85%D9%BE%D9%88%D9%86%D9%86%D8%AA-text-in-cells-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%85%D9%88%D9%84-%D8%B3%D8%A7%D9%81%D8%AA"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10500,
     "Url": "http://www.omidnasri.com/articles/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87"
+  },
+  {
+    "Retries": 1,
+    "Id": 10481,
+    "Url": "https://farnian.com/blog/40-seo-myth/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10480,
+    "Url": "http://www.maherjendoubi.io/new-asp-net-core-feature-coming-to-1-1-better-integration-of-3rd-party-ioc-containers-in-startup-class/"
   }
 ]
