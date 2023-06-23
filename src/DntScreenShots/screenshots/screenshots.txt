@@ -42,8 +42,10 @@ news-11226.jpg
 news-11229.jpg
 news-11230.jpg
 news-11231.jpg
+news-11232.jpg
 news-11233.jpg
 news-11234.jpg
+news-11235.jpg
 news-11236.jpg
 news-11237.jpg
 news-11238.jpg
@@ -57,6 +59,7 @@ news-11245.jpg
 news-11246.jpg
 news-11247.jpg
 news-11248.jpg
+news-11249.jpg
 news-11250.jpg
 news-11251.jpg
 news-11252.jpg

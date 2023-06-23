@@ -2330,22 +2330,22 @@
     "Url": "http://hjson.org/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11219,
     "Url": "http://mindsheets.ir/?p=262"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11213,
     "Url": "http://csharpoop.com/2016/08/27/4547/commandname-and-commandargument-in-asp/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11207,
     "Url": "https://cmdchallenge.com"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11195,
     "Url": "http://enterprisecraftsmanship.com/2014/11/08/domain-object-base-class/"
   }
