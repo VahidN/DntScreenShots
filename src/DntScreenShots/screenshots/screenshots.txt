@@ -59,6 +59,7 @@ news-10781.jpg
 news-10782.jpg
 news-10783.jpg
 news-10784.jpg
+news-10785.jpg
 news-10786.jpg
 news-10787.jpg
 news-10788.jpg
@@ -73,6 +74,7 @@ news-10796.jpg
 news-10797.jpg
 news-10798.jpg
 news-10799.jpg
+news-10800.jpg
 news-10801.jpg
 news-10802.jpg
 news-10803.jpg
