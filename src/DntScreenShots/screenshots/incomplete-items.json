@@ -2455,13 +2455,23 @@
     "Url": "https://laracasts.com/series/es6-cliffsnotes"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10980,
     "Url": "http://baboon.ir/%d9%85%d8%b9%d8%b1%d9%81%db%8c-%d9%85%d8%a7%da%98%d9%88%d9%84-pure-angular-treeview/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10963,
     "Url": "http://www.se-topics.ir/topicview?id=57"
+  },
+  {
+    "Retries": 1,
+    "Id": 10929,
+    "Url": "http://foss.ir/blog/844"
+  },
+  {
+    "Retries": 1,
+    "Id": 10924,
+    "Url": "http://se-topics.ir/topicview?id=56"
   }
 ]
