@@ -2535,33 +2535,38 @@
     "Url": "http://se-topics.ir/topicview?id=54"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10841,
     "Url": "http://www.aminsaghi.ir/%d9%85%d9%84%d8%a7%d8%ad%d8%b8%d8%a7%d8%aa-%da%a9%d8%a7%d8%b1%d8%a7%db%8c%db%8c-%d8%af%d8%b1-%d8%a7%d8%b1%d8%aa%d8%a8%d8%a7%d8%b7-%d8%a8%d8%a7-entity-framework/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10840,
     "Url": "http://www.webkooshan.com/%D8%AA%D9%85%D8%A7%D9%85-%DA%86%DB%8C%D8%B2%DB%8C-%DA%A9%D9%87-html5-data-attribute-%D8%A8%D8%AF%D8%A7%D9%86%DB%8C%D8%AF/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10834,
     "Url": "http://www.se-topics.ir/topicview?id=53"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10832,
     "Url": "http://www.omidnasri.com/articles/%D9%BE%D8%A7%D8%AF%DA%A9%D8%B3%D8%AA-%D8%B1%D8%A7%D8%AF%DB%8C%D9%88-%DA%AF%DB%8C%DA%A9"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10829,
     "Url": "http://atl.co.ug/big/asp-net-web-api-2-2-simple-file-upload/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10825,
     "Url": "http://www.omidnasri.com/articles/%D8%AA%DA%A9%D9%87-%DA%A9%D8%AF%D9%87%D8%A7%DB%8C-%D9%85%D9%81%DB%8C%D8%AF-%D8%AC%DB%8C-%DA%A9%D9%88%D9%8A%D8%B1%DB%8C-%D8%A8%D8%AE%D8%B4-%D8%A7%D9%88%D9%84"
+  },
+  {
+    "Retries": 1,
+    "Id": 10800,
+    "Url": "https://thedon.me/2016/11/17/visual-studio-for-mac-quick-look/"
   }
 ]
