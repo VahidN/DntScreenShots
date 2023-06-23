@@ -2370,43 +2370,58 @@
     "Url": "http://enterprisecraftsmanship.com/2017/02/16/on-automappers/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11106,
     "Url": "http://www.omidnasri.com/articles/constructor-chaining-in-c-sharp"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 11104,
     "Url": "http://MindSheets.ir/?p=223"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11088,
     "Url": "http://mindsheets.ir/?p=214"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11082,
     "Url": "http://MindSheets.ir/?p=206"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11081,
     "Url": "http://www.omidnasri.com/articles/Automatically-Running-Unit-Test-After-Build-Success-in-Visual-Studio"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11080,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/SOLID-Design-Patterns"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11079,
     "Url": "http://MindSheets.ir/?p=198"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 11073,
     "Url": "https://offsec.ir/blog/2017/02/%DA%A9%D9%84%D8%A7%D9%87-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1%DB%8C-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF%DB%8C-%D8%A8%D9%87-%D8%B3%D8%A8%DA%A9-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C/"
+  },
+  {
+    "Retries": 1,
+    "Id": 11059,
+    "Url": "http://musicforprogramming.net/?c=fortysix"
+  },
+  {
+    "Retries": 1,
+    "Id": 11054,
+    "Url": "https://groups.google.com/forum/#!msg/persian-computing/az0zo9akOM8/HMVVxjJWBgAJ"
+  },
+  {
+    "Retries": 1,
+    "Id": 11053,
+    "Url": "http://sqldownunder.azurewebsites.net/Resources/SDUTools"
   }
 ]
