@@ -2348,5 +2348,10 @@
     "Retries": 2,
     "Id": 11195,
     "Url": "http://enterprisecraftsmanship.com/2014/11/08/domain-object-base-class/"
+  },
+  {
+    "Retries": 1,
+    "Id": 11165,
+    "Url": "http://benjii.me/2017/02/send-email-using-asp-net-core/"
   }
 ]
