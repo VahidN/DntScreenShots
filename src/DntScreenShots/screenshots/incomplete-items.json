@@ -2785,37 +2785,37 @@
     "Url": "https://www.microsoft.com/en-us/download/details.aspx?id=53338"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10415,
     "Url": "http://coopsblog.wales/Blog/ViewBlog/Getting-Data-Using-Interface-with-Winforms?utm_source=DNK-161180\u0026utm_medium=DNK-161180\u0026utm_content=DNK-161180\u0026utm_campaign=DNK-161180"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10405,
     "Url": "https://icanhasdot.net/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10404,
     "Url": "http://www.webneshan.com/Article/38/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%DA%AF%D8%B1%D8%A7-(Responsive)-%DB%8C%D8%A7-%D8%A7%D9%86%D8%B7%D8%A8%D8%A7%D9%82-%DA%AF%D8%B1%D8%A7-(Adaptive)%D8%9F-%DA%A9%D8%AF%D9%88%D9%85-%D8%A8%D9%87%D8%AA%D8%B1%D9%87%D8%9F"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10403,
     "Url": "http://proudmonkey.azurewebsites.net/asp-net-donts-and-dos/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10391,
     "Url": "http://proudmonkey.azurewebsites.net/asp-net-core-building-a-real-time-online-poll-system-with-signalr-2-jquery-ef-core-core-mvc-and-web-api-2/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10384,
     "Url": "http://berneti.ir/blog/8/%D8%B1%D9%81%D8%B9-%D8%AE%D8%B7%D8%A7%DB%8C-could-not-load-file-or-assembly-or-one-of-its-dependencies-"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10383,
     "Url": "http://berneti.ir/blog/7/%D8%B1%D9%81%D8%B9-%D8%AE%D8%B7%D8%A7%DB%8C-nuget-package-s-that-are-missing-"
   }
