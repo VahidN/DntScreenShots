@@ -3110,7 +3110,7 @@
     "Url": "http://www.ebooksworld.ir/post/index/178/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-switching-to-angular-2"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9968,
     "Url": "http://www.syntaxsuccess.com/viewarticle/lazy-loading-in-angular-2.0"
   },
@@ -3120,13 +3120,23 @@
     "Url": "https://www.youtube.com/playlist?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9955,
     "Url": "http://docsmsftblog.azurewebsites.net/teamblog/introducing-docs-microsoft-com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9943,
     "Url": "http://blog.backand.com/angular-2-vs-react/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9918,
+    "Url": "https://gooroo.io/GoorooTHINK/Article/16623/One-Weird-Trick-To-Improve-Web-Performance/21564#.VyBZOPiLncc"
+  },
+  {
+    "Retries": 1,
+    "Id": 9906,
+    "Url": "https://paulund.co.uk/https-everywhere"
   }
 ]
