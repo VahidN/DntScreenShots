@@ -2865,12 +2865,12 @@
     "Url": "http://mindsheets.ir/?p=177"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10309,
     "Url": "http://download.microsoft.com/download/8/3/6/8360731A-A27C-4684-BC88-FC7B5849A133/SQL_Server_2016_In_Memory_OLTP_White_Paper.pdf"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10308,
     "Url": "http://ngmigrate.telerik.com/"
   },
@@ -2880,17 +2880,17 @@
     "Url": "https://www.microsoft.com/en-us/download/details.aspx?id=53168"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10305,
     "Url": "https://raygun.com/blog/2016/07/top-10-web-performance-killers/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10277,
     "Url": "http://blog.goyello.com/2016/06/30/visual-studio-code-vs-webstorm/?utm_source=DNK-154865\u0026utm_medium=DNK-154865\u0026utm_content=DNK-154865\u0026utm_campaign=DNK-154865"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10265,
     "Url": "http://blog.debugme.eu/front-end-web-developer-tools/"
   }
