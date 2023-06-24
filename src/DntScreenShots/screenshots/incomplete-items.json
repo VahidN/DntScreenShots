@@ -3065,27 +3065,27 @@
     "Url": "http://fa.mohsen.es/post/4/%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1-asp-net-core"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10049,
     "Url": "http://omnidb.com.br/en_index.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10039,
     "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-TypeScript-2"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10036,
     "Url": "http://www.angulartypescript.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10035,
     "Url": "https://angular-academy.io/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10016,
     "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction"
   },
@@ -3095,13 +3095,23 @@
     "Url": "http://www.shahrsakhtafzar.com/fa/news/technology/8080-google-discards-iranian-sanctions"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10005,
     "Url": "https://blog.sstorie.com/self-hosting-an-angular-2-website-in-a-windows-service-using-webpack/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10004,
     "Url": "http://www.omidnasri.com/articles/%D8%A7%D9%85%D9%88%D8%B2%D8%B4-sqlcmd-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-sqlcmd"
+  },
+  {
+    "Retries": 1,
+    "Id": 9976,
+    "Url": "http://www.ebooksworld.ir/post/index/178/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-switching-to-angular-2"
+  },
+  {
+    "Retries": 1,
+    "Id": 9968,
+    "Url": "http://www.syntaxsuccess.com/viewarticle/lazy-loading-in-angular-2.0"
   }
 ]
