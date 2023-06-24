@@ -2935,23 +2935,38 @@
     "Url": "http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10224,
     "Url": "https://oren.codes/2016/06/23/portable-is-dead-long-live-netstandard/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10223,
     "Url": "http://www.pgbovine.net/migrating-legacy-codebase-to-typescript.htm"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10206,
     "Url": "http://blog.qt.io/blog/2016/06/16/qt-5-7-released/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10196,
     "Url": "http://en.\u0647\u0634\u0627\u0645.com/post/build-customizable-language-switcher-tag-helper-with-bootstrap"
+  },
+  {
+    "Retries": 1,
+    "Id": 10191,
+    "Url": "http://www.omidnasri.com/articles/%D9%88%DB%8C%D8%B1%D8%A7%DB%8C%D8%B4-%D9%86%D8%B8%D8%B1-%DB%8C%DA%A9-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AF%D8%B1-tfs"
+  },
+  {
+    "Retries": 1,
+    "Id": 10190,
+    "Url": "http://fa.mohsen.es/post/6/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-asp-net-core-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%86-controller"
+  },
+  {
+    "Retries": 1,
+    "Id": 10187,
+    "Url": "https://paulund.co.uk/list-countries-json"
   }
 ]
