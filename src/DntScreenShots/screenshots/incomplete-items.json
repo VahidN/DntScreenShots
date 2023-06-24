@@ -3170,22 +3170,22 @@
     "Url": "https://dotnet.github.io/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9849,
     "Url": "http://msud.ir/nbpersian/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9838,
     "Url": "https://telegram.me/JavaDaily"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9837,
     "Url": "http://www.omidnasri.com/%D8%A8%D9%84%D8%A7%DA%AF/%D8%B1%D8%B2%D9%88%D9%85%D9%87-%DA%86%DB%8C%D8%B3%D8%AA"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9831,
     "Url": "https://periscopedata.com/blog//getting-started-with-regular-expressions.html"
   },
