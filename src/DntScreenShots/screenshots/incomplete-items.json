@@ -3195,32 +3195,32 @@
     "Url": "https://www.microsoft.com/en-us/download/details.aspx?id=28362\u0026WT.mc_id=rss_alldownloads_devresources"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9816,
     "Url": "http://www.inversionofcontrol.co.uk/install-issues-for-asp-net-5-rc1/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9809,
     "Url": "http://www.paulund.co.uk/capitalize-first-letter-string-javascript"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9805,
     "Url": "http://www.sochix.ru:80/how-to-send-messages-to-telegram-from-c/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9799,
     "Url": "http://blogs.unity3d.com/2015/05/06/an-introduction-to-ilcpp-internals/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9792,
     "Url": "http://itsec.persianblog.ir/post/524"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9779,
     "Url": "http://ui.toread.ir/issue/031/"
   },
@@ -3228,5 +3228,25 @@
     "Retries": 1,
     "Id": 9772,
     "Url": "http://the-oliver.com/free-ebook-visual-studio-code-tipps-tricks-vol-1-englishgerman/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9761,
+    "Url": "https://assets.thoughtworks.com/assets/technology-radar-apr-2016-en.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 9755,
+    "Url": "http://www.omidnasri.com/c-programming/%DB%8C%D8%A7%D9%81%D8%AA%D9%86-public-ip-%D9%88-remote-ip-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%DB%8C-%D8%B4%D8%A7%D8%B1%D9%BE"
+  },
+  {
+    "Retries": 1,
+    "Id": 9747,
+    "Url": "http://www.php-compiler.net"
+  },
+  {
+    "Retries": 1,
+    "Id": 9745,
+    "Url": "http://www.omidnasri.com/asp-net-mvc/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-%DA%A9%D8%B1%D8%AF%D9%86-cut-copy-%D9%88-paste-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-jquery"
   }
 ]
