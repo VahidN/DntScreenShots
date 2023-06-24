@@ -3050,38 +3050,48 @@
     "Url": "http://www.dev-frame.com/1395/03/%D8%A7%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC-%D8%A2%D9%85%D8%A7%D8%B1-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87%E2%80%8C%D9%86/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10072,
     "Url": "http://mvcgrid.net/demo/paging"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10055,
     "Url": "http://use-r.ir/2016/05/functions-in-r/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10052,
     "Url": "http://fa.mohsen.es/post/4/%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1-asp-net-core"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10049,
     "Url": "http://omnidb.com.br/en_index.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10039,
     "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-TypeScript-2"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10036,
     "Url": "http://www.angulartypescript.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10035,
     "Url": "https://angular-academy.io/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10016,
+    "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction"
+  },
+  {
+    "Retries": 1,
+    "Id": 10009,
+    "Url": "http://www.shahrsakhtafzar.com/fa/news/technology/8080-google-discards-iranian-sanctions"
   }
 ]
