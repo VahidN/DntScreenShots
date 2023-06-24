@@ -2725,57 +2725,57 @@
     "Url": "http://www.omidnasri.com/articles/%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10481,
     "Url": "https://farnian.com/blog/40-seo-myth/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10480,
     "Url": "http://www.maherjendoubi.io/new-asp-net-core-feature-coming-to-1-1-better-integration-of-3rd-party-ioc-containers-in-startup-class/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10464,
     "Url": "http://fizzylogic.nl/2016/02/07/TypeScript-Internal-vs-External-Modules/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10458,
     "Url": "https://shellmonger.com/2016/08/14/why-im-leaving-react-behind/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10457,
     "Url": "https://infinum.co/the-capsized-eight/articles/top-5-android-libraries-every-android-developer-should-know-about"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10451,
     "Url": "http://www.artifextech.com/blog/using-npoco-micro-orm-with-asp-net-core-1/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10446,
     "Url": "https://go.veeam.com/powershell-study-guide"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10445,
     "Url": "https://channel9.msdn.com/Blogs/One-Dev-Minute/Implementing-Web-Notifications"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10440,
     "Url": "http://flipclockjs.com"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10437,
     "Url": "http://www.omidnasri.com/articles/%D9%81%D8%B1%D9%85%D8%AA-%D9%88%D8%A7%D8%AD%D8%AF%D9%87%D8%A7%DB%8C-%D9%BE%D9%88%D9%84%DB%8C-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%DB%8C%D9%85%D9%88%D9%84-%D8%B3%D8%A7%D9%81%D8%AA"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10433,
     "Url": "http://www.aminsaghi.ir/?p=485\u0026lang=fa"
   },
@@ -2783,5 +2783,25 @@
     "Retries": 1,
     "Id": 10423,
     "Url": "https://www.microsoft.com/en-us/download/details.aspx?id=53338"
+  },
+  {
+    "Retries": 1,
+    "Id": 10415,
+    "Url": "http://coopsblog.wales/Blog/ViewBlog/Getting-Data-Using-Interface-with-Winforms?utm_source=DNK-161180\u0026utm_medium=DNK-161180\u0026utm_content=DNK-161180\u0026utm_campaign=DNK-161180"
+  },
+  {
+    "Retries": 1,
+    "Id": 10405,
+    "Url": "https://icanhasdot.net/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10404,
+    "Url": "http://www.webneshan.com/Article/38/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D9%88%D8%A7%DA%A9%D9%86%D8%B4-%DA%AF%D8%B1%D8%A7-(Responsive)-%DB%8C%D8%A7-%D8%A7%D9%86%D8%B7%D8%A8%D8%A7%D9%82-%DA%AF%D8%B1%D8%A7-(Adaptive)%D8%9F-%DA%A9%D8%AF%D9%88%D9%85-%D8%A8%D9%87%D8%AA%D8%B1%D9%87%D8%9F"
+  },
+  {
+    "Retries": 1,
+    "Id": 10403,
+    "Url": "http://proudmonkey.azurewebsites.net/asp-net-donts-and-dos/"
   }
 ]
