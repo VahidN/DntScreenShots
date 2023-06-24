@@ -3095,12 +3095,12 @@
     "Url": "http://www.shahrsakhtafzar.com/fa/news/technology/8080-google-discards-iranian-sanctions"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10005,
     "Url": "https://blog.sstorie.com/self-hosting-an-angular-2-website-in-a-windows-service-using-webpack/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10004,
     "Url": "http://www.omidnasri.com/articles/%D8%A7%D9%85%D9%88%D8%B2%D8%B4-sqlcmd-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84-%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%D8%A8%D8%A7-%D9%BE%D8%A7%DB%8C%DA%AF%D8%A7%D9%87-%D8%AF%D8%A7%D8%AF%D9%87-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1-sqlcmd"
   },
@@ -3110,7 +3110,7 @@
     "Url": "http://www.ebooksworld.ir/post/index/178/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-switching-to-angular-2"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9968,
     "Url": "http://www.syntaxsuccess.com/viewarticle/lazy-loading-in-angular-2.0"
   },
@@ -3120,12 +3120,12 @@
     "Url": "https://www.youtube.com/playlist?list=PLOETEcp3DkCq788xapkP_OU-78jhTf68j"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9955,
     "Url": "http://docsmsftblog.azurewebsites.net/teamblog/introducing-docs-microsoft-com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9943,
     "Url": "http://blog.backand.com/angular-2-vs-react/"
   }
