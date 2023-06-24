@@ -2955,22 +2955,22 @@
     "Url": "http://en.\u0647\u0634\u0627\u0645.com/post/build-customizable-language-switcher-tag-helper-with-bootstrap"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10191,
     "Url": "http://www.omidnasri.com/articles/%D9%88%DB%8C%D8%B1%D8%A7%DB%8C%D8%B4-%D9%86%D8%B8%D8%B1-%DB%8C%DA%A9-%D8%B1%D9%88%DB%8C%D8%AF%D8%A7%D8%AF-%D8%AF%D8%B1-tfs"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10190,
     "Url": "http://fa.mohsen.es/post/6/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D8%A7%D8%B2-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AF%D8%B1-asp-net-core-%D8%A7%D9%81%D8%B2%D9%88%D8%AF%D9%86-controller"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10187,
     "Url": "https://paulund.co.uk/list-countries-json"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10176,
     "Url": "https://blog.simpleblend.net/functional-javascript-concepts-currying/?utm_source=JSK-46768\u0026utm_medium=JSK-46768\u0026utm_content=JSK-46768\u0026utm_campaign=JSK-46768"
   },
@@ -2980,22 +2980,22 @@
     "Url": "http://devdocs.io/angular~2.0_typescript/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10173,
     "Url": "http://blog.falafel.com/introduction-angular-2-series/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10172,
     "Url": "http://fotolia.ir/5933-%d8%aa%d8%b4%d8%ae%db%8c%d8%b5-%d9%84%d8%b1%d8%b2%d8%b4-%d9%85%d9%88%d8%a8%d8%a7%db%8c%d9%84-%d8%a8%d8%a7-jquery/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 10165,
     "Url": "http://www.davidniciforovic.com/2016/02/03/building-a-single-page-todo-app-with-mean-including-angular-2/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10153,
     "Url": "https://download.microsoft.com/download/0/9/2/092A7541-D553-4958-A98E-5C9672024126/301959_IntroSQLServer.pdf"
   },
@@ -3010,7 +3010,7 @@
     "Url": "http://tphangout.com/angular-2-desktop-apps-with-electron/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10139,
     "Url": "http://kerryritter.com/updating-or-replacing-entities-in-entity-framework-6/"
   }
