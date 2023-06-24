@@ -3195,23 +3195,38 @@
     "Url": "https://www.microsoft.com/en-us/download/details.aspx?id=28362\u0026WT.mc_id=rss_alldownloads_devresources"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9816,
     "Url": "http://www.inversionofcontrol.co.uk/install-issues-for-asp-net-5-rc1/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9809,
     "Url": "http://www.paulund.co.uk/capitalize-first-letter-string-javascript"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9805,
     "Url": "http://www.sochix.ru:80/how-to-send-messages-to-telegram-from-c/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9799,
     "Url": "http://blogs.unity3d.com/2015/05/06/an-introduction-to-ilcpp-internals/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9792,
+    "Url": "http://itsec.persianblog.ir/post/524"
+  },
+  {
+    "Retries": 1,
+    "Id": 9779,
+    "Url": "http://ui.toread.ir/issue/031/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9772,
+    "Url": "http://the-oliver.com/free-ebook-visual-studio-code-tipps-tricks-vol-1-englishgerman/"
   }
 ]
