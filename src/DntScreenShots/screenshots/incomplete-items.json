@@ -3175,17 +3175,17 @@
     "Url": "http://msud.ir/nbpersian/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9838,
     "Url": "https://telegram.me/JavaDaily"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9837,
     "Url": "http://www.omidnasri.com/%D8%A8%D9%84%D8%A7%DA%AF/%D8%B1%D8%B2%D9%88%D9%85%D9%87-%DA%86%DB%8C%D8%B3%D8%AA"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9831,
     "Url": "https://periscopedata.com/blog//getting-started-with-regular-expressions.html"
   },
@@ -3193,5 +3193,25 @@
     "Retries": 1,
     "Id": 9826,
     "Url": "https://www.microsoft.com/en-us/download/details.aspx?id=28362\u0026WT.mc_id=rss_alldownloads_devresources"
+  },
+  {
+    "Retries": 1,
+    "Id": 9816,
+    "Url": "http://www.inversionofcontrol.co.uk/install-issues-for-asp-net-5-rc1/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9809,
+    "Url": "http://www.paulund.co.uk/capitalize-first-letter-string-javascript"
+  },
+  {
+    "Retries": 1,
+    "Id": 9805,
+    "Url": "http://www.sochix.ru:80/how-to-send-messages-to-telegram-from-c/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9799,
+    "Url": "http://blogs.unity3d.com/2015/05/06/an-introduction-to-ilcpp-internals/"
   }
 ]
