@@ -3265,38 +3265,53 @@
     "Url": "https://blog.cesanta.com/iot-foundation-what-is-an-iot-platform"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9718,
     "Url": "https://linqjs.codeplex.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9693,
     "Url": "https://quickleft.com/blog/best-practices-project-management/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9692,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Web-Extension-Pack"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9690,
     "Url": "http://www.paulund.co.uk/create-show-password-button"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9687,
     "Url": "http://www.erikbergman.net/2016/03/10/high-speed-applications-parallelism-in-net-part-1/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9677,
     "Url": "http://www.learnasync.net/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9669,
     "Url": "http://kliant.com/resources/category/videos"
+  },
+  {
+    "Retries": 1,
+    "Id": 9659,
+    "Url": "https://tra38.gitbooks.io/essential-copying-and-pasting-from-stack-overflow/content/index.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 9649,
+    "Url": "http://blog.peachpie.io/2016/03/intro.html?m=1"
+  },
+  {
+    "Retries": 1,
+    "Id": 9648,
+    "Url": "https://webassets.mongodb.com/RDBMStoMongoDBMigration.pdf"
   }
 ]
