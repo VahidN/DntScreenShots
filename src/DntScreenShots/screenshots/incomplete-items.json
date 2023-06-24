@@ -2810,38 +2810,58 @@
     "Url": "http://proudmonkey.azurewebsites.net/asp-net-core-building-a-real-time-online-poll-system-with-signalr-2-jquery-ef-core-core-mvc-and-web-api-2/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10384,
     "Url": "http://berneti.ir/blog/8/%D8%B1%D9%81%D8%B9-%D8%AE%D8%B7%D8%A7%DB%8C-could-not-load-file-or-assembly-or-one-of-its-dependencies-"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 10383,
     "Url": "http://berneti.ir/blog/7/%D8%B1%D9%81%D8%B9-%D8%AE%D8%B7%D8%A7%DB%8C-nuget-package-s-that-are-missing-"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10368,
     "Url": "http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10367,
     "Url": "http://www.omidnasri.com/articles/%D9%88%D8%A7%DA%98%D9%87-%D9%86%D8%A7%D9%85%D9%87-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10363,
     "Url": "http://www.ebooksworld.ir/post/index/181/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-ng-book-2"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10358,
     "Url": "http://www.omidnasri.com/articles/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%85%D8%AE%D8%A7%D8%B2%D9%86-%D8%A7%D8%B2-bitbucket-%D8%A8%D9%87-github"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 10354,
     "Url": "https://devblog.dymel.pl/2016/07/21/why-you-should-not-use-tfs/?utm_source=DNK-157715\u0026utm_medium=DNK-157715\u0026utm_content=DNK-157715\u0026utm_campaign=DNK-157715"
+  },
+  {
+    "Retries": 1,
+    "Id": 10340,
+    "Url": "http://berneti.ir/blog/5/%D9%85%D9%86%D9%82%D8%B6%DB%8C-%D8%B4%D8%AF%D9%86-%D8%B3%D8%B4%D9%86-session-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1-%D8%B2%D9%88%D8%AF%D8%AA%D8%B1-%D8%A7%D8%B2-%D8%B2%D9%85%D8%A7%D9%86-%D8%AA%D8%A7%DB%8C%DB%8C%D9%86-%D8%B4%D8%AF%D9%87"
+  },
+  {
+    "Retries": 1,
+    "Id": 10337,
+    "Url": "https://www.stevefenton.co.uk/2012/11/compiling-vs-transpiling/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10329,
+    "Url": "https://blog.scrum.org/8-best-practices-start-scrum-project/"
+  },
+  {
+    "Retries": 1,
+    "Id": 10327,
+    "Url": "http://mindsheets.ir/?p=177"
   }
 ]
