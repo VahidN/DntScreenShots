@@ -3250,7 +3250,7 @@
     "Url": "http://www.omidnasri.com/asp-net-mvc/%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84-%DA%A9%D8%B1%D8%AF%D9%86-cut-copy-%D9%88-paste-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-jquery"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9741,
     "Url": "https://sci-hub.io/"
   },
@@ -3260,33 +3260,43 @@
     "Url": "http://community.sharpdevelop.net/blogs/christophwille/archive/2016/04/01/refactoring-essentials-4-0-comes-with-roslyn-code-converter.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9730,
     "Url": "https://blog.cesanta.com/iot-foundation-what-is-an-iot-platform"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9718,
     "Url": "https://linqjs.codeplex.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9693,
     "Url": "https://quickleft.com/blog/best-practices-project-management/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9692,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Web-Extension-Pack"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9690,
     "Url": "http://www.paulund.co.uk/create-show-password-button"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9687,
     "Url": "http://www.erikbergman.net/2016/03/10/high-speed-applications-parallelism-in-net-part-1/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9677,
+    "Url": "http://www.learnasync.net/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9669,
+    "Url": "http://kliant.com/resources/category/videos"
   }
 ]
