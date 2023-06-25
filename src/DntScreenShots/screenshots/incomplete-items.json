@@ -3430,18 +3430,33 @@
     "Url": "http://www.kamalhamidi.ir/blog-3"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9368,
     "Url": "https://github.algolia.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9339,
     "Url": "https://periscopedata.com/blog//string-parsing-in-sql.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9309,
     "Url": "https://lennybacon.com/post/2016/02/07/update-all-argumentnullexceptions-to-nameof-syntax"
+  },
+  {
+    "Retries": 1,
+    "Id": 9304,
+    "Url": "http://www.omidnasri.com/fa/Reader/cc570901-0057-4470-8527-661c5fa90de5/%D8%A7%D8%AD%D8%B2%D8%A7%D8%B1-%D9%87%D9%88%DB%8C%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B4%D8%A8%DA%A9%D9%87-StackExchange-%D8%AF%D8%B1-ASP-Net-MVC"
+  },
+  {
+    "Retries": 1,
+    "Id": 9299,
+    "Url": "http://www.omidnasri.com/fa/Reader/52f6f884-ffa8-492a-bff9-e1e0fab03902/%D8%A7%D8%AD%D8%B2%D8%A7%D8%B1-%D9%87%D9%88%DB%8C%D8%AA-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%A7%D9%86-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B4%D8%A8%DA%A9%D9%87-LinkedIn-%D8%AF%D8%B1-ASP-Net-MVC"
+  },
+  {
+    "Retries": 1,
+    "Id": 9292,
+    "Url": "https://www.crittercism.com/2016/01/a-guide-to-building-your-first-windows-app/"
   }
 ]
