@@ -3335,28 +3335,38 @@
     "Url": "http://use-r.ir/2016/02/what-is-r/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9578,
     "Url": "http://demo.wpchunk.com/rplm/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9577,
     "Url": "http://zoozoo-cms.com/bootstrap-html-builder/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9570,
     "Url": "http://sqlblog.com/blogs/greg_low/archive/2016/03/02/between-vs-and.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9547,
     "Url": "http://blogs.msdn.com/b/martinkearn/archive/2016/03/08/using-the-stack-overflow-api-in-asp-net-core-1-0.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9542,
     "Url": "http://blog.asteropesystems.com/windows-server-2016-containers-setting-up-an-iis-base-image-and-creating-containers-to-run-a-website/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9503,
+    "Url": "http://www.boostagile.com/user-stories-part-1-what-are-user-stories/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9490,
+    "Url": "http://www.inversionofcontrol.co.uk/asp-net-core-1-0-routing-under-the-hood/"
   }
 ]
