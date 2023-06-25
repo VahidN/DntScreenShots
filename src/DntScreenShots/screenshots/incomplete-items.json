@@ -3590,23 +3590,63 @@
     "Url": "http://techorgan.com/java-2/ninja-web-framework-tutorial-part-1/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9090,
     "Url": "http://www.omidnasri.com/fa/Reader/0744e725-a7c3-482f-ad85-11ed0199ee65/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-Stimulsoft-%D8%AF%D8%B1-ASP-Net-MVC"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9075,
     "Url": "http://blogs.msdn.com/b/rds/archive/2016/01/11/remote-desktop-protocol-rdp-10-avc-h-264-improvements-in-windows-10-and-windows-server-2016-technical-preview.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9066,
     "Url": "http://blogs.msdn.com/b/cdndevs/archive/2016/01/06/submitting-your-first-pull-request.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9040,
     "Url": "http://blogs.msdn.com/b/bharry/archive/2016/01/08/team-explorer-everywhere-14-0-2-released.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 9039,
+    "Url": "https://telegram.me/uxitten"
+  },
+  {
+    "Retries": 1,
+    "Id": 9038,
+    "Url": "https://telegram.me/webly"
+  },
+  {
+    "Retries": 1,
+    "Id": 9037,
+    "Url": "http://www.omidnasri.com/fa/Reader/7c91b737-c8bc-41cd-a051-5f4859e08d24/%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%DB%8C-%D8%A2%D8%AF%D8%B1%D8%B3-%D8%A7%DB%8C%D9%85%DB%8C%D9%84-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D8%AC%D8%A7%D9%88%D8%A7%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA"
+  },
+  {
+    "Retries": 1,
+    "Id": 9033,
+    "Url": "https://gooroo.io/GoorooTHINK/Article/16344/Programming-languages--salaries-and-demand-3rd-Quarter-2015/19265#.Vo-ArFmJ33B"
+  },
+  {
+    "Retries": 1,
+    "Id": 9025,
+    "Url": "https://quickleft.com/blog/javascript-plain-english-functions-closures/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9024,
+    "Url": "http://blogs.msdn.com/b/webdev/archive/2016/01/06/task-runners-in-visual-studio-2015.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 9021,
+    "Url": "http://www.omidnasri.com/fa/Reader/6d979f2a-0b9b-487f-9cc8-55486d83e142/%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D9%88-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF-%D9%85%D8%AA%D8%A7%D8%AA%DA%AF%E2%80%8C%D9%87%D8%A7-Meta-Tags--%D8%AF%D8%B1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%88%D8%A8"
+  },
+  {
+    "Retries": 1,
+    "Id": 9016,
+    "Url": "http://developer.telerik.com/featured/native-code-is-bad-for-you/"
   }
 ]
