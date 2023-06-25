@@ -3430,13 +3430,18 @@
     "Url": "http://www.kamalhamidi.ir/blog-3"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9368,
     "Url": "https://github.algolia.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9339,
     "Url": "https://periscopedata.com/blog//string-parsing-in-sql.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 9309,
+    "Url": "https://lennybacon.com/post/2016/02/07/update-all-argumentnullexceptions-to-nameof-syntax"
   }
 ]
