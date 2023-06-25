@@ -3610,43 +3610,63 @@
     "Url": "http://blogs.msdn.com/b/bharry/archive/2016/01/08/team-explorer-everywhere-14-0-2-released.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9039,
     "Url": "https://telegram.me/uxitten"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9038,
     "Url": "https://telegram.me/webly"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9037,
     "Url": "http://www.omidnasri.com/fa/Reader/7c91b737-c8bc-41cd-a051-5f4859e08d24/%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%D8%B3%D9%86%D8%AC%DB%8C-%D8%A2%D8%AF%D8%B1%D8%B3-%D8%A7%DB%8C%D9%85%DB%8C%D9%84-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D8%B2%D8%A8%D8%A7%D9%86-%D8%AC%D8%A7%D9%88%D8%A7%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9033,
     "Url": "https://gooroo.io/GoorooTHINK/Article/16344/Programming-languages--salaries-and-demand-3rd-Quarter-2015/19265#.Vo-ArFmJ33B"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9025,
     "Url": "https://quickleft.com/blog/javascript-plain-english-functions-closures/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9024,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2016/01/06/task-runners-in-visual-studio-2015.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9021,
     "Url": "http://www.omidnasri.com/fa/Reader/6d979f2a-0b9b-487f-9cc8-55486d83e142/%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D9%88-%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%D8%AF-%D9%85%D8%AA%D8%A7%D8%AA%DA%AF%E2%80%8C%D9%87%D8%A7-Meta-Tags--%D8%AF%D8%B1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%88%D8%A8"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9016,
     "Url": "http://developer.telerik.com/featured/native-code-is-bad-for-you/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9007,
+    "Url": "http://www.baboon.ir/%d8%aa%d8%b1%d8%ac%d9%85%d9%87-%da%a9%d8%aa%d8%a7%d8%a8-node-js-by-example-%d9%81%d8%b5%d9%84-%d8%b3%d9%88%d9%85/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9006,
+    "Url": "http://clockdatetimepicker.codeplex.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9002,
+    "Url": "http://bedlamandclash.com/2015/12/26/how-roslyn-turned-a-month-of-mind-numbing-boredom-into-an-entertaining-week/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8996,
+    "Url": "http://www.omidnasri.com/fa/Reader/affcb9f5-2a65-47dd-bbd9-bf5d9978c75e/%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D9%88-%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%A7%D9%85%D9%84-MIME-Types"
   }
 ]
