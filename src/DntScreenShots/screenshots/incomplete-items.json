@@ -3320,18 +3320,33 @@
     "Url": "http://blog.qt.io/blog/2016/03/16/qt-5-6-released/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9602,
     "Url": "https://periscopedata.com/blog//analyzing-your-email-with-sql.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9598,
     "Url": "http://paintstrap.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9581,
     "Url": "http://use-r.ir/2016/02/what-is-r/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9578,
+    "Url": "http://demo.wpchunk.com/rplm/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9577,
+    "Url": "http://zoozoo-cms.com/bootstrap-html-builder/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9570,
+    "Url": "http://sqlblog.com/blogs/greg_low/archive/2016/03/02/between-vs-and.aspx"
   }
 ]
