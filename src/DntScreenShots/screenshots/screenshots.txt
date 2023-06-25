@@ -7232,6 +7232,7 @@ news-9062.jpg
 news-9063.jpg
 news-9064.jpg
 news-9065.jpg
+news-9066.jpg
 news-9067.jpg
 news-9068.jpg
 news-9069.jpg
@@ -7240,6 +7241,7 @@ news-9071.jpg
 news-9072.jpg
 news-9073.jpg
 news-9074.jpg
+news-9075.jpg
 news-9076.jpg
 news-9077.jpg
 news-9078.jpg
@@ -7253,6 +7255,7 @@ news-9086.jpg
 news-9087.jpg
 news-9088.jpg
 news-9089.jpg
+news-9090.jpg
 news-9091.jpg
 news-9092.jpg
 news-9093.jpg
