@@ -3420,18 +3420,23 @@
     "Url": "https://www.youtube.com/playlist?list=PL3Y-E4YSE4wY1MQ5Vbly8NCashHUDHnk_"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9411,
     "Url": "http://blogs.msdn.com/b/cdndevs/archive/2016/02/17/coffee-and-code-visual-studio-for-java-developers.aspx?utm_source=feedburner\u0026amp;amp;utm_medium=feed\u0026amp;amp;utm_campaign=Feed%3A\u002BCanDevs\u002B%28Canadian\u002BDevelopers%29"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9406,
     "Url": "http://www.kamalhamidi.ir/blog-3"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9368,
     "Url": "https://github.algolia.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 9339,
+    "Url": "https://periscopedata.com/blog//string-parsing-in-sql.html"
   }
 ]
