@@ -3470,57 +3470,57 @@
     "Url": "http://blogs.msdn.com/b/sqlserverfaq/archive/2010/05/27/guid-vs-int-debate.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9253,
     "Url": "https://jexus.codeplex.com/releases/view/138373"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9251,
     "Url": "http://philipbuuck.com/why-learn-to-program-in-c"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9247,
     "Url": "https://oren.codes/2016/01/30/announcing-humanizer-2-0/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9244,
     "Url": "https://connect.microsoft.com/SQLServer/feedback/details/2251948/add-persian-report-culture-for-sql-server-mobile-report-publisher"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9238,
     "Url": "http://www.omidnasri.com/fa/Reader/4e9098b2-069e-4ea1-979f-2ab06ed3c1a3/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4-%D8%B3%D8%A7%DB%8C%D8%AA%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%AF%D8%B2%D8%AF-%D9%85%D8%AD%D8%AA%D9%88%D8%A7-%D8%A8%D9%87-%DA%AF%D9%88%DA%AF%D9%84"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9232,
     "Url": "http://blogs.msdn.com/b/typescript/archive/2016/01/28/announcing-typescript-1-8-beta.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9216,
     "Url": "http://blogs.tedneward.com/post/how-do-you-learn/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9213,
     "Url": "http://www.omidnasri.com/fa/Reader/d822fa3e-b6c1-4747-98fe-982a4b640147/\u067E\u06CC\u0627\u062F\u0647-\u0633\u0627\u0632\u06CC-User-Lockouts-\u062F\u0631-ASP-Net-MVC"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9209,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2016/01/26/microsoft-net-framework-4-6-1-is-available-on-windows-update-and-wsus.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9206,
     "Url": "http://blogs.msmvps.com/deborahk/angular-1-x-to-angular-2-quick-reference/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9199,
     "Url": "https://borntolearn.mslearn.net/b/mva/archive/2016/01/08/9-new-windows-10-courses-for-developers-8-short-ones-and-1-long-one"
   }
