@@ -3380,37 +3380,37 @@
     "Url": "http://www.365cons.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9463,
     "Url": "https://www.youtube.com/playlist?list=PL3Y-E4YSE4wbv-goey2eH1oWyw_kbCx0e"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9455,
     "Url": "http://instasharp.org/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9448,
     "Url": "http://dotnetliberty.com/index.php/2016/02/22/moq-on-net-core/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9440,
     "Url": "http://www.barbarianmeetscoding.com/blog/2016/02/21/start-using-es6-es2015-in-your-project-with-babel-and-gulp/?utm_source=feedburner\u0026utm_medium=feed\u0026utm_campaign=Feed%3A\u002BBarbarianMeetsCoding\u002B%28Barbarian\u002BMeets\u002BCoding%29"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9434,
     "Url": "http://blog.wolksoftware.com/setting-up-your-typescript-vs-code-development-environment"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9430,
     "Url": "http://www.tugberkugurlu.com/archive/managing-sql-server-express-localdb-instances-through-sqllocaldb-exe-utility-tool"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9429,
     "Url": "http://blogs.msdn.com/b/stevelasker/archive/2016/02/18/f5-developing-in-docker-containers-version-0-10-of-docker-tools-for-visual-studio.aspx"
   },
@@ -3420,12 +3420,12 @@
     "Url": "https://www.youtube.com/playlist?list=PL3Y-E4YSE4wY1MQ5Vbly8NCashHUDHnk_"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9411,
     "Url": "http://blogs.msdn.com/b/cdndevs/archive/2016/02/17/coffee-and-code-visual-studio-for-java-developers.aspx?utm_source=feedburner\u0026amp;amp;utm_medium=feed\u0026amp;amp;utm_campaign=Feed%3A\u002BCanDevs\u002B%28Canadian\u002BDevelopers%29"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9406,
     "Url": "http://www.kamalhamidi.ir/blog-3"
   }
