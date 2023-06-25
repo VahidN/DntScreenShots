@@ -3290,12 +3290,12 @@
     "Url": "http://www.erikbergman.net/2016/03/10/high-speed-applications-parallelism-in-net-part-1/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9677,
     "Url": "http://www.learnasync.net/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 9669,
     "Url": "http://kliant.com/resources/category/videos"
   },
@@ -3305,13 +3305,18 @@
     "Url": "https://tra38.gitbooks.io/essential-copying-and-pasting-from-stack-overflow/content/index.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9649,
     "Url": "http://blog.peachpie.io/2016/03/intro.html?m=1"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9648,
     "Url": "https://webassets.mongodb.com/RDBMStoMongoDBMigration.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 9618,
+    "Url": "http://blog.qt.io/blog/2016/03/16/qt-5-6-released/"
   }
 ]
