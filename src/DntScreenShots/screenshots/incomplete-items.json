@@ -3670,53 +3670,63 @@
     "Url": "http://www.omidnasri.com/fa/Reader/affcb9f5-2a65-47dd-bbd9-bf5d9978c75e/%D8%AA%D8%B9%D8%B1%DB%8C%D9%81-%D9%88-%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%A7%D9%85%D9%84-MIME-Types"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8990,
     "Url": "http://blog.falafel.com/31-days-testcomplete-mobile/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8982,
     "Url": "http://www.omidnasri.com/fa/Reader/71413c1a-d65d-43b4-af9a-23269f7aca96/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%BE%D9%84%D8%A7%DA%AF%DB%8C%D9%86-Intro-Js-%D8%AF%D8%B1-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D9%88%D8%A8"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8977,
     "Url": "https://periscopedata.com/blog//how-to-use-views.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8975,
     "Url": "https://quickleft.com/blog/top-10-blog-posts-of-2015/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8971,
     "Url": "http://www.omidnasri.com/fa/Reader/ca2e368f-bd61-4ca9-96cd-a29e74f9a1b2/%D9%84%DB%8C%D8%B3%D8%AA-%DA%A9%D8%AF%D9%87%D8%A7%DB%8C-%D9%88%D8%B6%D8%B9%DB%8C%D8%AA-HTTP"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8966,
     "Url": "http://blog.falafel.com/entity-framework-enum-flags/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8965,
     "Url": "http://www.omidnasri.com/fa/Reader/aaf20a5b-cd59-41eb-a664-d0328a0b8c70/%D8%A7%D9%84%D8%B2%D8%A7%D9%85%DB%8C-%DA%A9%D8%B1%D8%AF%D9%86-WWW-%D8%AF%D8%B1-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C-%D8%A2%D8%AF%D8%B1%D8%B3-%D8%B3%D8%A7%DB%8C%D8%AA-%D8%A8%D8%A7-%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%D9%81%D8%A7%DB%8C%D9%84-web-config"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8962,
     "Url": "http://www.omidnasri.com/fa/Reader/f900f865-267e-4ad7-93c2-621e85a5efe0/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF-%D8%B5%D9%81%D8%AD%D8%A7%D8%AA-%D8%AF%D8%A7%DB%8C%D9%86%D8%A7%D9%85%DB%8C%DA%A9-%D8%AF%D8%B1-ASP-Net-MVC"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8950,
     "Url": "http://fairpixels.co/free_logos/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8943,
     "Url": "http://www.akkadia.org/drepper/cpumemory.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 8930,
+    "Url": "http://blogs.msdn.com/b/microsoft_press/archive/2015/12/22/free-ebook-introducing-microsoft-sql-server-2016-mission-critical-applications-deeper-insights-hyperscale-cloud-preview-edition.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8928,
+    "Url": "http://blog.backand.com/real-time-apps-with-angularjs/"
   }
 ]
