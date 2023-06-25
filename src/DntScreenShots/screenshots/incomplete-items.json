@@ -3575,17 +3575,17 @@
     "Url": "http://www.tugberkugurlu.com/archive/nginx-reverse-proxy-and-load-balancing-for-asp-net-5-applications-with-docker-compose"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9130,
     "Url": "https://docs.google.com/presentation/d/1O6ozzZHHxGzU-McpvEG09hl7K6oQDd2Taw0FOlnxJc8/preview?slide=id.gfcb549fb3_0_6"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 9118,
     "Url": "http://dotnetexpert.ir/Blog/1394/10/25/windows-authentication-%D8%AF%D8%B1-aspnet-%D9%88-%D8%B1%D9%81%D8%AA%D8%A7%D8%B1-%D9%87%D8%A7%DB%8C-%D8%AC%D8%A7%D9%84%D8%A8-active-directory"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 9101,
     "Url": "http://techorgan.com/java-2/ninja-web-framework-tutorial-part-1/"
   }
