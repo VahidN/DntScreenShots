@@ -3765,43 +3765,58 @@
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/12/10/the-net-journey-recapping-the-last-year.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8882,
     "Url": "http://sivalabs.in/thinking-of-moving-from-windows-to-linux/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8879,
     "Url": "http://blogs.msdn.com/b/user_ed/archive/2015/12/16/why-are-there-so-many-programming-languages.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8877,
     "Url": "http://blogs.msdn.com/b/user_ed/archive/2015/12/16/where-did-basic-come-from.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8854,
     "Url": "http://www.postsharp.net/blog/post/Announcing-PostSharp-42-RTM"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8847,
     "Url": "http://www.codecasestudy.com/2015/12/angularjs-token-authentication-using.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8846,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/12/09/support-ending-for-the-net-framework-4-4-5-and-4-5-1.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8837,
     "Url": "https://anglesharp.github.io/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8834,
     "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2015/12/08/announcing-the-git-credential-manager-for-windows-1-0.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8818,
+    "Url": "http://www.certifiedsoftwarearchitect.com/channel9"
+  },
+  {
+    "Retries": 1,
+    "Id": 8815,
+    "Url": "https://app.vssps.visualstudio.com/_signin?realm=myprodscussu1.app.vssubscriptions.visualstudio.com\u0026reply_to=https%3A%2F%2Fmyprodscussu1.app.vssubscriptions.visualstudio.com%2FDashboard\u0026redirect=1\u0026context=eyJodCI6MywiaGlkIjoiN2QxNmE5OTUtMDA0Mi1kMGZhLWRhZGQtYTQ4YzUzYWRkYjllIiwicXMiOnt9LCJyciI6IiIsInZoIjoiIiwiY3YiOiIiLCJjcyI6IiJ90#ctx=eyJTaWduSW5Db29raWVEb21haW5zIjpbImh0dHBzOi8vbG9naW4ud2luZG93cy5uZXQiXX01"
+  },
+  {
+    "Retries": 1,
+    "Id": 8807,
+    "Url": "https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox/"
   }
 ]
