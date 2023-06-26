@@ -3955,33 +3955,38 @@
     "Url": "https://assets.thoughtworks.com/assets/technology-radar-nov-2015-en.pdf"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8633,
     "Url": "http://blog.nordeus.com/dev-ops/postgresql-locking-revealed.htm"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8624,
     "Url": "http://dotnetliberty.com/index.php/2015/10/25/asp-net-5-running-in-docker-on-windows/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8623,
     "Url": "http://dotnetliberty.com/index.php/2015/11/06/asp-net-5-logging-framework/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8610,
     "Url": "http://developer.telerik.com/featured/will-angular-2-be-a-success-you-bet/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8608,
     "Url": "http://www.barbarianmeetscoding.com/blog/2015/11/04/barbaric-tip-of-the-week-improve-your-visual-studio-web-dev-fu-with-web-extension-pack/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8602,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-Extensions-Part-2?ocid=relatedentry"
+  },
+  {
+    "Retries": 1,
+    "Id": 8593,
+    "Url": "http://www.forbes.com/pictures/ekhf45fejjg/azg5dlnnm3bpzx4kdinxlupk/"
   }
 ]
