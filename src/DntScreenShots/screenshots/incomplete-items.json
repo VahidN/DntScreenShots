@@ -3985,43 +3985,53 @@
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-Extensions-Part-2?ocid=relatedentry"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8593,
     "Url": "http://www.forbes.com/pictures/ekhf45fejjg/azg5dlnnm3bpzx4kdinxlupk/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8576,
     "Url": "http://windowscenter.ir/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C/29138-10-%D8%AA%DA%A9%D9%86%D9%88%D9%84%D9%88%DA%98%DB%8C-%DA%A9%D9%87-%D8%AC%D8%A7%D9%86-%D9%85%DB%8C-%DA%A9%D9%8E%D9%86%D9%86%D8%AF%D8%8C-%D8%A7%D9%85%D8%A7-%D9%86%D9%85%DB%8C-%D9%85%DB%8C%D8%B1%D9%86/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8566,
     "Url": "http://blog.falafel.com/github-integration-in-visual-studio-2015/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8558,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/10/29/visual-studio-update-1-rc.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8557,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/10/29/announcing-net-framework-4-6-1-rc.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8555,
     "Url": "http://www.oracle.com/webfolder/technetwork/jet/index.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8550,
     "Url": "http://blog.falafel.com/intellitest-day-28-visual-studio-2015/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8546,
     "Url": "http://www.forbes.com/forbes/welcome/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8527,
+    "Url": "http://www.davidhayden.me/blog/asp-net-mvc-6-dependency-injection"
+  },
+  {
+    "Retries": 1,
+    "Id": 8526,
+    "Url": "https://gitter.im/behzad888/Aurelia-fa"
   }
 ]
