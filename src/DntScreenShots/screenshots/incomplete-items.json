@@ -3845,72 +3845,72 @@
     "Url": "http://dotnetliberty.com/index.php/2015/11/23/asp-net-5-beta-8-to-rc1-annotated-diff/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8734,
     "Url": "http://www.microsoft.com/en-us/download/details.aspx?id=49996"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8721,
     "Url": "http://zurb.com/article/1416/foundation-6-is-here"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8714,
     "Url": "http://blog.durandal.io/2015/11/20/aurelia-beta-week-day-5-aurelia-interface/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8713,
     "Url": "http://blog.durandal.io/2015/11/19/aurelia-beta-week-day-4-ecosystem/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8712,
     "Url": "http://blog.durandal.io/2015/11/18/aurelia-beta-week-day-3-documentation/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8707,
     "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2015/11/19/breakpoint-generator-extension.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8704,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/11/18/node-js-tools-1-1-for-visual-studio-released.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8703,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/11/18/announcing-asp-net-5-release-candidate-1.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8701,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/11/18/entity-framework-7-rc1-available.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8700,
     "Url": "http://www.dmtk.io/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8697,
     "Url": "http://blog.durandal.io/2015/11/17/aurelia-beta-week-day-2-plugins/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8693,
     "Url": "http://blog.durandal.io/2015/11/16/aurelia-beta-week-day-1-the-beta-is-here/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8690,
     "Url": "http://xamarin-persian.ir/1394/08/25/%d8%a7%d9%81%d8%b2%d9%88%d8%af%d9%86-%d9%82%d8%a7%d8%a8%d9%84%db%8c%d8%aa-%d9%be%d8%b1%d8%af%d8%a7%d8%ae%d8%aa-%d8%af%d8%b1%d9%88%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%a7%db%8c-%d8%a8%d8%a7/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8684,
     "Url": "http://ameliowright.com/blog/posts/on_automating_kendo_with_selenium_js"
   },
@@ -3920,7 +3920,7 @@
     "Url": "https://news.vice.com/article/windows-31-is-still-alive-and-it-just-killed-a-french-airport"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8678,
     "Url": "http://blog.falafel.com/get-your-windows-10-developer-ebook-here/"
   }
