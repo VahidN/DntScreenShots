@@ -4055,33 +4055,63 @@
     "Url": "http://blogs.msdn.com/b/netmfteam/archive/2015/10/21/net-micro-framework-4-4-is-now-available.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8475,
     "Url": "http://blog.brunoscopelliti.com/form-validation-the-angularjs-way/#custom-validation-through-custom-directives"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8471,
     "Url": "http://1pezeshk.com/archives/2014/12/introduction-to-kids-programming-languages.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8465,
     "Url": "http://blogs.msdn.com/b/powershell/archive/2015/10/19/openssh-for-windows-update.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8462,
     "Url": "http://www.swensensoftware.com/im-only-resting"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8459,
     "Url": "http://in-bank.ir/SitePages/Home.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8454,
     "Url": "http://blog.durandal.io/2015/10/13/aurelia-mid-october-2015-releases-performance-and-portable-javascript/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8449,
+    "Url": "http://blog.wolksoftware.com/working-with-react-and-typescript"
+  },
+  {
+    "Retries": 1,
+    "Id": 8447,
+    "Url": "http://rastikerdar.github.io/mirza-font/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8443,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/10/14/new-visual-studio-tools-for-apache-cordova-documentation-site-and-beginner-s-guide.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8442,
+    "Url": "http://blogs.msdn.com/b/webdev/archive/2015/10/15/announcing-availability-of-asp-net-5-beta8.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8441,
+    "Url": "http://blogs.msdn.com/b/adonet/archive/2015/10/15/ef7-beta-8-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8439,
+    "Url": "https://www.microsoftvirtualacademy.com/en-US/training-courses/developer-productivity-what-s-new-in-c-6-8733?l=VBfRDaS1_904984382"
   }
 ]
