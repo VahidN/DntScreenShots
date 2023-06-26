@@ -4090,58 +4090,88 @@
     "Url": "http://blog.wolksoftware.com/working-with-react-and-typescript"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8447,
     "Url": "http://rastikerdar.github.io/mirza-font/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8443,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/10/14/new-visual-studio-tools-for-apache-cordova-documentation-site-and-beginner-s-guide.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8442,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/10/15/announcing-availability-of-asp-net-5-beta8.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8441,
     "Url": "http://blogs.msdn.com/b/adonet/archive/2015/10/15/ef7-beta-8-available.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8439,
     "Url": "https://www.microsoftvirtualacademy.com/en-US/training-courses/developer-productivity-what-s-new-in-c-6-8733?l=VBfRDaS1_904984382"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8424,
     "Url": "http://fayde.io/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8422,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Building-Extensions-Part-1"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8414,
     "Url": "http://akhoshbakht.ir/%d9%86%d9%82%d8%b4-%d9%85%d8%af%db%8c%d8%b1-%d8%aa%d8%b6%d9%85%db%8c%d9%86-%da%a9%db%8c%d9%81%db%8c%d8%aa-%d8%af%d8%b1-%da%86%d8%a7%d8%a8%da%a9/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8405,
     "Url": "http://blog.wolksoftware.com/decorators-metadata-reflection-in-typescript-from-novice-to-expert-part-4"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8404,
     "Url": "http://devbanter.com/2015/10/08/how-to-recover-from-programmers-burnout/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8398,
     "Url": "https://www.compose.io/articles/what-postgresql-has-over-other-open-source-sql-databases/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8397,
+    "Url": "http://akhoshbakht.ir/%da%86%da%af%d9%88%d9%86%d9%87-%d9%88%d8%a7%d8%b1%d8%af-%da%a9%d8%a7%d8%b1-%d8%aa%d8%b3%d8%aa-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%b4%d9%88%db%8c%d9%85/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8396,
+    "Url": "http://akhoshbakht.ir/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1%d9%87%d8%a7%db%8c-%d9%85%d9%81%db%8c%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%aa%d8%b3%d8%aa-%d9%88%d8%a8%d8%b3%d8%a7%db%8c%d8%aa-%d8%af%d8%b1-%d9%85%d9%88%d8%a8%d8%a7%db%8c/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8395,
+    "Url": "http://akhoshbakht.ir/bdd-best-practice/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8392,
+    "Url": "http://akhoshbakht.ir/agile-test-strategy-template-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8388,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/10/06/now-available-visual-studio-tools-for-apache-cordova-update-3.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8387,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/10/08/visual-studio-2015-update-1-ctp.aspx"
   }
 ]
