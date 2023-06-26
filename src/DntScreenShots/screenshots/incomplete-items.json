@@ -4035,12 +4035,12 @@
     "Url": "https://gitter.im/behzad888/Aurelia-fa"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8511,
     "Url": "http://blogs.msdn.com/b/eternalcoding/archive/2015/10/21/using-javascript-frameworks-from-your-c-uwp-application.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8508,
     "Url": "http://www.se-topics.ir/topicview?id=44"
   },
@@ -4050,8 +4050,38 @@
     "Url": "http://www.ebooksworld.ir/post/index/167/%d8%af%d8%a7%d9%86%d9%84%d9%88%d8%af-%da%a9%d8%aa%d8%a7%d8%a8-%d9%81%d8%a7%d8%b1%d8%b3%db%8c-%d9%85%d9%82%d8%af%d9%85%d9%87-%d8%a7%db%8c-%d8%a8%d8%b1-microsoft-entity-framework-code-first"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8504,
     "Url": "http://blogs.msdn.com/b/netmfteam/archive/2015/10/21/net-micro-framework-4-4-is-now-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8475,
+    "Url": "http://blog.brunoscopelliti.com/form-validation-the-angularjs-way/#custom-validation-through-custom-directives"
+  },
+  {
+    "Retries": 1,
+    "Id": 8471,
+    "Url": "http://1pezeshk.com/archives/2014/12/introduction-to-kids-programming-languages.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 8465,
+    "Url": "http://blogs.msdn.com/b/powershell/archive/2015/10/19/openssh-for-windows-update.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8462,
+    "Url": "http://www.swensensoftware.com/im-only-resting"
+  },
+  {
+    "Retries": 1,
+    "Id": 8459,
+    "Url": "http://in-bank.ir/SitePages/Home.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8454,
+    "Url": "http://blog.durandal.io/2015/10/13/aurelia-mid-october-2015-releases-performance-and-portable-javascript/"
   }
 ]
