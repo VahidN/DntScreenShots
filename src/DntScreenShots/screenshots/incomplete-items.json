@@ -4265,43 +4265,68 @@
     "Url": "http://blogs.msdn.com/b/cdndevs/archive/2015/09/09/visual-studio-2015-now-supports-cobol-and-you-can-make-desktop-and-web-apps-with-it.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8228,
     "Url": "http://blog.falafel.com/get-your-xamarin-android-ebook-here/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8213,
     "Url": "http://dierg.com/flavr/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8193,
     "Url": "https://iksna.com/software/407-taskulu"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8184,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/09/04/introducing-microsoft-asp-net-webhooks-preview.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8182,
     "Url": "https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8172,
     "Url": "https://efmappingapi.codeplex.com/documentation"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8167,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Multithreaded-Debugging"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8166,
     "Url": "http://blogs.msdn.com/b/typescript/archive/2015/09/02/announcing-typescript-1-6-beta-react-jsx-better-error-checking-and-more.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8164,
+    "Url": "http://blogs.msdn.com/b/webdev/archive/2015/09/02/announcing-availability-of-asp-net-5-beta7.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8160,
+    "Url": "http://www.androidhive.info/2015/04/android-getting-started-with-material-design/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8153,
+    "Url": "http://www.sound-photo.com/microsoft/microsoft.htm"
+  },
+  {
+    "Retries": 1,
+    "Id": 8150,
+    "Url": "http://www.ticketbase.com/events/angelhack-iran-2015"
+  },
+  {
+    "Retries": 1,
+    "Id": 8146,
+    "Url": "http://farhadi.ir/projects/jalalijscalendar/"
   }
 ]

@@ -7195,6 +7195,21 @@ news-18824.jpg
 news-18825.jpg
 news-18826.jpg
 news-18827.jpg
+news-8147.jpg
+news-8148.jpg
+news-8149.jpg
+news-8151.jpg
+news-8152.jpg
+news-8154.jpg
+news-8155.jpg
+news-8156.jpg
+news-8157.jpg
+news-8158.jpg
+news-8159.jpg
+news-8161.jpg
+news-8162.jpg
+news-8163.jpg
+news-8165.jpg
 news-8168.jpg
 news-8169.jpg
 news-8170.jpg
@@ -7250,6 +7265,7 @@ news-8224.jpg
 news-8225.jpg
 news-8226.jpg
 news-8227.jpg
+news-8229.jpg
 news-8230.jpg
 news-8231.jpg
 news-8232.jpg
@@ -7261,6 +7277,7 @@ news-8237.jpg
 news-8238.jpg
 news-8239.jpg
 news-8240.jpg
+news-8241.jpg
 news-8242.jpg
 news-8243.jpg
 news-8244.jpg
