@@ -3800,17 +3800,17 @@
     "Url": "https://anglesharp.github.io/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8834,
     "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2015/12/08/announcing-the-git-credential-manager-for-windows-1-0.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8818,
     "Url": "http://www.certifiedsoftwarearchitect.com/channel9"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8815,
     "Url": "https://app.vssps.visualstudio.com/_signin?realm=myprodscussu1.app.vssubscriptions.visualstudio.com\u0026reply_to=https%3A%2F%2Fmyprodscussu1.app.vssubscriptions.visualstudio.com%2FDashboard\u0026redirect=1\u0026context=eyJodCI6MywiaGlkIjoiN2QxNmE5OTUtMDA0Mi1kMGZhLWRhZGQtYTQ4YzUzYWRkYjllIiwicXMiOnt9LCJyciI6IiIsInZoIjoiIiwiY3YiOiIiLCJjcyI6IiJ90#ctx=eyJTaWduSW5Db29raWVEb21haW5zIjpbImh0dHBzOi8vbG9naW4ud2luZG93cy5uZXQiXX01"
   },
@@ -3820,8 +3820,13 @@
     "Url": "https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8799,
     "Url": "http://blogs.msdn.com/b/bharry/archive/2015/11/30/vs-2015-update-1-and-tfs-2015-update-1-are-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8774,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/11/30/visual-studio-update-1-rtm.aspx"
   }
 ]
