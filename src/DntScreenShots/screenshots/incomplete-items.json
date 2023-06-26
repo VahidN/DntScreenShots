@@ -3730,53 +3730,73 @@
     "Url": "http://blog.backand.com/real-time-apps-with-angularjs/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8915,
     "Url": "http://blogs.msdn.com/b/cdndevs/archive/2015/12/21/visual-studio-code-debugger-for-chrome-extension.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8909,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/12/15/installing-the-unreal-engine-in-visual-studio.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8905,
     "Url": "http://stevenpemberton.net/blog/2015/12/19/Let-it-snow-FSharp-Advent-2015/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8900,
     "Url": "http://learnbi.ir/1394/08/16/post-60/%D8%B9%D9%88%D8%A7%D9%85%D9%84-%D8%AD%DB%8C%D8%A7%D8%AA%DB%8C-%D8%AF%D8%B1-%D9%85%D9%88%D9%81%D9%82%DB%8C%D8%AA-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%87%D9%88%D8%B4-%D8%AA%D8%AC%D8%A7%D8%B1%DB%8C-Critical-Success-Factors-"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8895,
     "Url": "http://blogs.msdn.com/b/webtopics/archive/2015/12/17/troubleshooting-asp-net5-website-in-iis.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8894,
     "Url": "http://www.programmableweb.com/news/angular-2.0-hits-beta-brings-major-changes-to-javascript-framework/2015/12/17"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8890,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/12/10/the-net-journey-recapping-the-last-year.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8882,
     "Url": "http://sivalabs.in/thinking-of-moving-from-windows-to-linux/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8879,
     "Url": "http://blogs.msdn.com/b/user_ed/archive/2015/12/16/why-are-there-so-many-programming-languages.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8877,
     "Url": "http://blogs.msdn.com/b/user_ed/archive/2015/12/16/where-did-basic-come-from.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8854,
+    "Url": "http://www.postsharp.net/blog/post/Announcing-PostSharp-42-RTM"
+  },
+  {
+    "Retries": 1,
+    "Id": 8847,
+    "Url": "http://www.codecasestudy.com/2015/12/angularjs-token-authentication-using.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 8846,
+    "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/12/09/support-ending-for-the-net-framework-4-4-5-and-4-5-1.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8837,
+    "Url": "https://anglesharp.github.io/"
   }
 ]
