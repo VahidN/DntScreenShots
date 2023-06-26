@@ -3820,28 +3820,48 @@
     "Url": "https://developer.ibm.com/swift/2015/12/03/introducing-the-ibm-swift-sandbox/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8799,
     "Url": "http://blogs.msdn.com/b/bharry/archive/2015/11/30/vs-2015-update-1-and-tfs-2015-update-1-are-available.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8774,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/11/30/visual-studio-update-1-rtm.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8754,
     "Url": "https://quickleft.com/blog/six-things-know-wordpress-moving-javascript/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8751,
     "Url": "http://cpp-lang.io/30-years-of-cpp-bjarne-stroustrup/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8740,
     "Url": "http://dotnetliberty.com/index.php/2015/11/23/asp-net-5-beta-8-to-rc1-annotated-diff/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8734,
+    "Url": "http://www.microsoft.com/en-us/download/details.aspx?id=49996"
+  },
+  {
+    "Retries": 1,
+    "Id": 8721,
+    "Url": "http://zurb.com/article/1416/foundation-6-is-here"
+  },
+  {
+    "Retries": 1,
+    "Id": 8714,
+    "Url": "http://blog.durandal.io/2015/11/20/aurelia-beta-week-day-5-aurelia-interface/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8713,
+    "Url": "http://blog.durandal.io/2015/11/19/aurelia-beta-week-day-4-ecosystem/"
   }
 ]
