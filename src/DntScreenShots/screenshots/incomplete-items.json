@@ -4210,13 +4210,28 @@
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/09/28/introducing-u-sql.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8313,
     "Url": "http://blog.appannie.com/5-tips-to-increase-your-user-acquisition-roi/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8304,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/09/15/sending-webhooks-with-asp-net-webhooks-preview.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8300,
+    "Url": "http://blogs.msdn.com/b/webdev/archive/2012/08/15/oauth-openid-support-for-webforms-mvc-and-webpages.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8288,
+    "Url": "http://www.danyow.net/es7-async-await-with-aurelia/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8280,
+    "Url": "http://blogs.msdn.com/b/typescript/archive/2015/09/16/announcing-typescript-1-6.aspx"
   }
 ]
