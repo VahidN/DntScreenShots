@@ -4220,18 +4220,33 @@
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/09/15/sending-webhooks-with-asp-net-webhooks-preview.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8300,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2012/08/15/oauth-openid-support-for-webforms-mvc-and-webpages.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8288,
     "Url": "http://www.danyow.net/es7-async-await-with-aurelia/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8280,
     "Url": "http://blogs.msdn.com/b/typescript/archive/2015/09/16/announcing-typescript-1-6.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8274,
+    "Url": "https://www.microsoftvirtualacademy.com/en-US/training-courses/introduction-to-asp-net-5-13786?l=7CEf97pXB_6601937557"
+  },
+  {
+    "Retries": 1,
+    "Id": 8272,
+    "Url": "http://mindsheets.ir/?p=150"
+  },
+  {
+    "Retries": 1,
+    "Id": 8257,
+    "Url": "http://blogs.msdn.com/b/vscode/archive/2015/09/11/vscode-documentation-moves-to-github.aspx"
   }
 ]
