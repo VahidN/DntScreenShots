@@ -3905,12 +3905,12 @@
     "Url": "http://blog.durandal.io/2015/11/16/aurelia-beta-week-day-1-the-beta-is-here/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8690,
     "Url": "http://xamarin-persian.ir/1394/08/25/%d8%a7%d9%81%d8%b2%d9%88%d8%af%d9%86-%d9%82%d8%a7%d8%a8%d9%84%db%8c%d8%aa-%d9%be%d8%b1%d8%af%d8%a7%d8%ae%d8%aa-%d8%af%d8%b1%d9%88%d9%86-%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d9%87-%d8%a7%db%8c-%d8%a8%d8%a7/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8684,
     "Url": "http://ameliowright.com/blog/posts/on_automating_kendo_with_selenium_js"
   },
@@ -3920,13 +3920,38 @@
     "Url": "https://news.vice.com/article/windows-31-is-still-alive-and-it-just-killed-a-french-airport"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8678,
     "Url": "http://blog.falafel.com/get-your-windows-10-developer-ebook-here/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8674,
     "Url": "http://berneti.ir/blog/2/%D9%85%D8%B4%DA%A9%D9%84-%D8%A7%D8%B6%D8%A7%D9%81%D9%87-%DA%A9%D8%B1%D8%AF%D9%86-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%DB%8C-%D8%A7%D8%B2-%D9%82%D8%A8%D9%84-%D8%B3%D8%A7%D8%AE%D8%AA%D9%87-%D8%B4%D8%AF%D9%87-%D8%AF%D8%B1-tfs"
+  },
+  {
+    "Retries": 1,
+    "Id": 8661,
+    "Url": "https://mscblogs.blob.core.windows.net/media/wesleybakker/MS/Index.htm"
+  },
+  {
+    "Retries": 1,
+    "Id": 8660,
+    "Url": "https://mscblogs.blob.core.windows.net/media/wesleybakker/TS/index.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 8658,
+    "Url": "http://xamarin-persian.ir/1394/08/19/\u0622\u0645\u0648\u0632\u0634-\u0648\u06CC\u062F\u0626\u0648\u06CC\u06CC-\u0646\u0635\u0628-\u0632\u0627\u0645\u0627\u0631\u06CC\u0646/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8655,
+    "Url": "https://channel9.msdn.com/Shows/C9-GoingNative/VC-Bytes-3-1-New-Improved-Faster-Database-Engine-in-VS-2015-Update-1"
+  },
+  {
+    "Retries": 1,
+    "Id": 8648,
+    "Url": "https://assets.thoughtworks.com/assets/technology-radar-nov-2015-en.pdf"
   }
 ]
