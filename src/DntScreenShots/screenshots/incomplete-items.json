@@ -4145,38 +4145,58 @@
     "Url": "https://www.compose.io/articles/what-postgresql-has-over-other-open-source-sql-databases/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8397,
     "Url": "http://akhoshbakht.ir/%da%86%da%af%d9%88%d9%86%d9%87-%d9%88%d8%a7%d8%b1%d8%af-%da%a9%d8%a7%d8%b1-%d8%aa%d8%b3%d8%aa-%d9%86%d8%b1%d9%85-%d8%a7%d9%81%d8%b2%d8%a7%d8%b1-%d8%b4%d9%88%db%8c%d9%85/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8396,
     "Url": "http://akhoshbakht.ir/%d8%a7%d8%a8%d8%b2%d8%a7%d8%b1%d9%87%d8%a7%db%8c-%d9%85%d9%81%db%8c%d8%af-%d8%a8%d8%b1%d8%a7%db%8c-%d8%aa%d8%b3%d8%aa-%d9%88%d8%a8%d8%b3%d8%a7%db%8c%d8%aa-%d8%af%d8%b1-%d9%85%d9%88%d8%a8%d8%a7%db%8c/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8395,
     "Url": "http://akhoshbakht.ir/bdd-best-practice/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8392,
     "Url": "http://akhoshbakht.ir/agile-test-strategy-template-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8388,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/10/06/now-available-visual-studio-tools-for-apache-cordova-update-3.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8387,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/10/08/visual-studio-2015-update-1-ctp.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8372,
     "Url": "http://silviomoreto.github.io/bootstrap-select/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8371,
+    "Url": "https://www.microsoftvirtualacademy.com/en-US/training-courses/creating-dynamic-webpages-with-knockout-13919?l=cVMxBjzbB_2001937557"
+  },
+  {
+    "Retries": 1,
+    "Id": 8357,
+    "Url": "http://blog.falafel.com/31-days-of-visual-studio-2015-tricks-and-treats/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8353,
+    "Url": "http://blogs.msdn.com/b/eternalcoding/archive/2015/09/30/javascript-goes-to-asynchronous-city.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8351,
+    "Url": "http://www.hooshnews.com/paper/subject/555/%D8%A8%D8%A7-10-%D9%86%D8%A7%D8%A8%D8%BA%D9%87-%D8%A7%DB%8C-%DA%A9%D9%87-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%B1%D8%A7-%DA%A9%D9%86%D8%A7%D8%B1-%DA%AF%D8%B0%D8%A7%D8%B4%D8%AA%D9%86%D8%AF-%D8%A2%D8%B4%D9%86%D8%A7-%D8%B4%D9%88%DB%8C%D8%AF"
   }
 ]
