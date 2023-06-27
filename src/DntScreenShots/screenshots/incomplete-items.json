@@ -4795,17 +4795,17 @@
     "Url": "http://blogs.msdn.com/b/astebner/archive/2015/06/17/10622271.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7673,
     "Url": "http://dailyjs.com/2015/06/18/standard-ecma-262-6th-edition-june-2015/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7671,
     "Url": "http://blogs.msdn.com/b/msgulfcommunity/archive/2015/06/17/custom-tag-helpers-in-asp-net-5.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7667,
     "Url": "http://oren.codes/2015/06/09/pcls-net-core-dnx-and-uwp/"
   },
@@ -4815,12 +4815,12 @@
     "Url": "https://www.google.com/landing/now/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7646,
     "Url": "http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Whats-New-in-C-6?wt.mc_id=EntriesInArea"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7645,
     "Url": "http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Whats-New-in-Visual-Basic-14"
   }

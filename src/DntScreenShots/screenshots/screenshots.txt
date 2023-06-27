@@ -7199,6 +7199,7 @@ news-18828.jpg
 news-18829.jpg
 news-7644.jpg
 news-7647.jpg
+news-7648.jpg
 news-7649.jpg
 news-7650.jpg
 news-7651.jpg
@@ -7245,12 +7246,15 @@ news-7695.jpg
 news-7696.jpg
 news-7697.jpg
 news-7698.jpg
+news-7699.jpg
 news-7700.jpg
 news-7701.jpg
 news-7702.jpg
 news-7703.jpg
 news-7704.jpg
+news-7705.jpg
 news-7706.jpg
+news-7707.jpg
 news-7708.jpg
 news-7709.jpg
 news-7711.jpg
