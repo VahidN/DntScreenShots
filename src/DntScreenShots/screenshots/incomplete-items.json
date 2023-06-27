@@ -4685,33 +4685,63 @@
     "Url": "https://www.antipattern.io/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7816,
     "Url": "http://pretotyping.ir/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7814,
     "Url": "http://www.barbarianmeetscoding.com/blog/2015/07/09/mastering-the-arcane-art-of-javascript-mancy-for-c-sharp-developers-chapter-7-using-linq-in-javascript/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7794,
     "Url": "http://blogs.msdn.com/b/mssmallbiz/archive/2015/07/07/i-m-giving-away-millions-of-free-microsoft-ebooks-again-including-windows-10-windows-8-1-windows-8-windows-7-office-2013-office-365-sharepoint-2013-dynamics-crm-powershell-exchange-server-lync-2013-system-center-azure-clo.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7792,
     "Url": "http://blogs.msdn.com/b/vscode/archive/2015/07/06/visual-studio-code-july-update-0-5-0.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7788,
     "Url": "http://www.jerriepelser.com/blog/creating-test-data-with-nbuilder-and-faker"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7784,
     "Url": "http://cardinalcore.co.uk/2015/01/28/ioc-battle-in-2015-results-using-ninject-think-again/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7777,
+    "Url": "http://proudmonkey.azurewebsites.net/10-reasons-why-asp-net-is-not-worth-choosing-for/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7775,
+    "Url": "http://asphelps.com/Asp.Net/TaskScheduler.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7772,
+    "Url": "http://proudmonkey.azurewebsites.net/asp-net-5-getting-started-with-mvc-6/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7767,
+    "Url": "http://blogs.msdn.com/b/webdev/archive/2015/06/30/asp-net-5-beta5-now-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7765,
+    "Url": "https://vld.codeplex.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7763,
+    "Url": "http://www.atreen.com/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B4%D9%86%D8%A7%D8%AE%D8%AA-%D8%AF%D8%B1%D9%87-%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86/"
   }
 ]
