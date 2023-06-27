@@ -4305,53 +4305,63 @@
     "Url": "http://blogs.msdn.com/b/typescript/archive/2015/09/02/announcing-typescript-1-6-beta-react-jsx-better-error-checking-and-more.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8164,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/09/02/announcing-availability-of-asp-net-5-beta7.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8160,
     "Url": "http://www.androidhive.info/2015/04/android-getting-started-with-material-design/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8153,
     "Url": "http://www.sound-photo.com/microsoft/microsoft.htm"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8150,
     "Url": "http://www.ticketbase.com/events/angelhack-iran-2015"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8146,
     "Url": "http://farhadi.ir/projects/jalalijscalendar/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8129,
     "Url": "http://blogs.msdn.com/b/bharry/archive/2015/08/27/vs-2012-update-5-has-been-released.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8126,
     "Url": "https://sqlcetoolbox.codeplex.com/releases"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8121,
     "Url": "http://www.10youtube.com/watch?v=qI_g07C_Q5I"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8115,
     "Url": "https://www.microsoftvirtualacademy.com/en-US/training-courses/a-developer-s-guide-to-windows-10-12618"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8110,
     "Url": "https://media.readthedocs.org/pdf/ef/latest/ef.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 8100,
+    "Url": "http://www.materialup.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8095,
+    "Url": "http://barname-nevis.com/post/97/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-wcf-wcf-hosting/"
   }
 ]
