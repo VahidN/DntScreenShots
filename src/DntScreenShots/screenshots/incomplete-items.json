@@ -4745,38 +4745,53 @@
     "Url": "http://www.atreen.com/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-%D8%B4%D9%86%D8%A7%D8%AE%D8%AA-%D8%AF%D8%B1%D9%87-%DB%8C-%D8%B3%DB%8C%D9%84%DB%8C%DA%A9%D9%88%D9%86/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7757,
     "Url": "http://jahanshahloo.ir/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7754,
     "Url": "http://ageeknotes.com/1394/04/06/%DA%86%D8%B1%D8%A7-%D9%85%D8%B3%D8%AA%D9%86%D8%AF-%D9%81%D9%86%DB%8C/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7753,
     "Url": "http://vsrefactoringessentials.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7746,
     "Url": "http://idevcenter.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7731,
     "Url": "http://blogs.msdn.com/b/vscode/archive/2015/06/23/visual-studio-code-and-docker.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7725,
     "Url": "http://www.datazen.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7724,
     "Url": "http://blog.blazing-skies.com/2015/02/26/getting-entity-framework-6-and-asp-net-identity-2-to-play-ball-with-mysql/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7707,
+    "Url": "http://blogs.msdn.com/b/martinkearn/archive/2015/06/17/using-httpclient-with-asp-net-5-0.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7705,
+    "Url": "http://www.projectoxford.ai/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7699,
+    "Url": "http://blogs.msdn.com/b/astebner/archive/2015/06/17/10622271.aspx"
   }
 ]
