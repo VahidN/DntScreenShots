@@ -4780,18 +4780,28 @@
     "Url": "http://blog.blazing-skies.com/2015/02/26/getting-entity-framework-6-and-asp-net-identity-2-to-play-ball-with-mysql/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7707,
     "Url": "http://blogs.msdn.com/b/martinkearn/archive/2015/06/17/using-httpclient-with-asp-net-5-0.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7705,
     "Url": "http://www.projectoxford.ai/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7699,
     "Url": "http://blogs.msdn.com/b/astebner/archive/2015/06/17/10622271.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7673,
+    "Url": "http://dailyjs.com/2015/06/18/standard-ecma-262-6th-edition-june-2015/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7671,
+    "Url": "http://blogs.msdn.com/b/msgulfcommunity/archive/2015/06/17/custom-tag-helpers-in-asp-net-5.aspx"
   }
 ]
