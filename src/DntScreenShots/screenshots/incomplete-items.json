@@ -4460,12 +4460,12 @@
     "Url": "http://dotnetexpert.ir/Blog/1394/5/9/%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D9%BE%D8%A7%DB%8C%D9%87-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF-android"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7989,
     "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/SQL-Generation-Improvements-in-Entity-Framework-7"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7988,
     "Url": "http://MindSheets.ir/?p=130"
   },
@@ -4475,33 +4475,43 @@
     "Url": "http://www.bigdata.ir/2015/08/%D9%81%D9%86%D8%A7%D9%88%D8%B1%DB%8C%D9%87%D8%A7%DB%8C-%D8%AD%D9%88%D8%B2%D9%87-%DA%A9%D9%84%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF%D9%87-%D8%AF%D8%B1-%DB%8C%DA%A9-%D9%86%DA%AF%D8%A7%D9%87/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7983,
     "Url": "http://blog.falafel.com/git-branching-basics/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7981,
     "Url": "http://www.allaboutagile.com/how-to-implement-scrum-in-10-easy-steps/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7978,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7975,
     "Url": "http://roocket.ir/articles/angularjs-for-webdesigners"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7972,
     "Url": "http://blog.falafel.com/hello-windows-10-getting-started-developing/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7971,
     "Url": "http://blog.falafel.com/31-days-of-xamarin-android-day-1-introduction-and-installation/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7969,
+    "Url": "http://www.jerriepelser.com/blog/unit-testing-with-fake-dbset-nbuilder"
+  },
+  {
+    "Retries": 1,
+    "Id": 7967,
+    "Url": "http://blog.falafel.com/31-days-of-xamarin-android/"
   }
 ]
