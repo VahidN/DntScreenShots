@@ -4825,38 +4825,78 @@
     "Url": "http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Whats-New-in-Visual-Basic-14"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7642,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/06/10/javascript-editor-improvements-in-visual-studio-2015.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7636,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/06/11/cool-web-forms-features-in-2015-async-model-binding.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7634,
     "Url": "http://www.easyicon.net/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7608,
     "Url": "http://blog.durandal.io/2015/06/09/aurelia-early-june-release/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7604,
     "Url": "https://gooroo.io/GoorooTHINK/Article/16199/Angular-JS-Backbonejs-or-Emberjs--Which-should-you-choose/14347?utm_content=buffercf8c0\u0026utm_medium=social\u0026utm_source=twitter.com\u0026utm_campaign=buffer#.VXZ62ka4Exs"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7603,
     "Url": "http://blogs.msdn.com/b/mvpawardprogram/archive/2015/06/03/ten-awesome-features-of-visual-studio-code.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7581,
     "Url": "http://illusiana.net/osm/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7568,
+    "Url": "http://codedroid12.com/superRetroid/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7565,
+    "Url": "http://blogs.msdn.com/b/vscode/archive/2015/06/02/visual-studio-code-update-1-0-3-0.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7563,
+    "Url": "http://blogs.msdn.com/b/sqlsecurity/archive/2015/06/04/getting-started-with-always-encrypted.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7560,
+    "Url": "http://blogs.msdn.com/b/powershell/archive/2015/06/03/looking-forward-microsoft-support-for-secure-shell-ssh.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7556,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/06/01/tools-for-apache-cordova-samples-and-docs.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7552,
+    "Url": "http://blogs.msdn.com/b/ukhe/archive/2015/06/02/windows-10-release-date-announced-for-july-29th.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7551,
+    "Url": "http://blog.durandal.io/2015/05/20/porting-an-angular-2-0-app-to-aurelia/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7550,
+    "Url": "http://codedroid12.com/boomer/"
   }
 ]
