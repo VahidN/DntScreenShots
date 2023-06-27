@@ -4330,38 +4330,43 @@
     "Url": "http://farhadi.ir/projects/jalalijscalendar/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8129,
     "Url": "http://blogs.msdn.com/b/bharry/archive/2015/08/27/vs-2012-update-5-has-been-released.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8126,
     "Url": "https://sqlcetoolbox.codeplex.com/releases"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8121,
     "Url": "http://www.10youtube.com/watch?v=qI_g07C_Q5I"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8115,
     "Url": "https://www.microsoftvirtualacademy.com/en-US/training-courses/a-developer-s-guide-to-windows-10-12618"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8110,
     "Url": "https://media.readthedocs.org/pdf/ef/latest/ef.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8100,
     "Url": "http://www.materialup.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8095,
     "Url": "http://barname-nevis.com/post/97/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-wcf-wcf-hosting/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8085,
+    "Url": "http://voidmain.ir/1394/05/31/%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%DA%A9%D8%B1%D8%AF%D9%86-constant-%D8%A8%D8%A7-static-read-only/"
   }
 ]
