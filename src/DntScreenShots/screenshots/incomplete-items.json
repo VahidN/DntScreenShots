@@ -4580,13 +4580,33 @@
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-2015-RTM"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7908,
     "Url": "http://fa.mohsen.es/post/2/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-gulp-%D8%AF%D8%B1-visual-studio-2015"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7905,
     "Url": "http://skydevelop.ir/post/3295/\u0645\u0633\u062A\u0646\u062F\u0633\u0627\u0632\u06CC-\u062E\u0648\u062F\u06A9\u0627\u0631-asp-net-web-api-\u0628\u0648\u0633\u06CC\u0644\u0647-swagger"
+  },
+  {
+    "Retries": 1,
+    "Id": 7882,
+    "Url": "http://mmenu.frebsite.nl/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7881,
+    "Url": "http://blogs.msdn.com/b/sql_server_team/archive/2015/07/22/ms15-058-sql-server-security-bulletin-released.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7878,
+    "Url": "http://dotnetexpert.ir/Blog/1394/4/31/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-bower-%D8%AF%D8%B1-%D9%88%DB%8C%DA%98%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%AF%DB%8C%D9%88-2013"
+  },
+  {
+    "Retries": 1,
+    "Id": 7877,
+    "Url": "http://mindsheets.ir/?p=111"
   }
 ]
