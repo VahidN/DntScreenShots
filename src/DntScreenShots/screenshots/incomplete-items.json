@@ -4940,23 +4940,33 @@
     "Url": "http://teeleh.ir/blog/filternet.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7497,
     "Url": "http://customizr.net/icons/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7490,
     "Url": "http://jszen.com/best-way-to-get-unique-values-of-an-array-in-javascript.7.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7489,
     "Url": "http://jszen.com/using-prototype-to-define-javascript-class-is-better.1.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7482,
     "Url": "http://www.shareddev.net/2014/10/combine-angularjs-templates-in-aspnet.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 7437,
+    "Url": "http://blogs.msdn.com/b/sqlreleaseservices/archive/2015/05/15/sql-server-2014-service-pack-1-is-now-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7436,
+    "Url": "http://blog.webkid.io/replacing-jquery-with-d3/"
   }
 ]
