@@ -4795,17 +4795,17 @@
     "Url": "http://blogs.msdn.com/b/astebner/archive/2015/06/17/10622271.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7673,
     "Url": "http://dailyjs.com/2015/06/18/standard-ecma-262-6th-edition-june-2015/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7671,
     "Url": "http://blogs.msdn.com/b/msgulfcommunity/archive/2015/06/17/custom-tag-helpers-in-asp-net-5.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7667,
     "Url": "http://oren.codes/2015/06/09/pcls-net-core-dnx-and-uwp/"
   },
@@ -4815,13 +4815,28 @@
     "Url": "https://www.google.com/landing/now/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7646,
     "Url": "http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Whats-New-in-C-6?wt.mc_id=EntriesInArea"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7645,
     "Url": "http://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Whats-New-in-Visual-Basic-14"
+  },
+  {
+    "Retries": 1,
+    "Id": 7642,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/06/10/javascript-editor-improvements-in-visual-studio-2015.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7636,
+    "Url": "http://blogs.msdn.com/b/webdev/archive/2015/06/11/cool-web-forms-features-in-2015-async-model-binding.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7634,
+    "Url": "http://www.easyicon.net/"
   }
 ]
