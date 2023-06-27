@@ -4280,58 +4280,78 @@
     "Url": "https://iksna.com/software/407-taskulu"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8184,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/09/04/introducing-microsoft-asp-net-webhooks-preview.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8182,
     "Url": "https://www.humankode.com/security/how-a-bug-in-visual-studio-2015-exposed-my-source-code-on-github-and-cost-me-6500-in-a-few-hours"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8172,
     "Url": "https://efmappingapi.codeplex.com/documentation"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8167,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Multithreaded-Debugging"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8166,
     "Url": "http://blogs.msdn.com/b/typescript/archive/2015/09/02/announcing-typescript-1-6-beta-react-jsx-better-error-checking-and-more.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8164,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/09/02/announcing-availability-of-asp-net-5-beta7.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8160,
     "Url": "http://www.androidhive.info/2015/04/android-getting-started-with-material-design/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8153,
     "Url": "http://www.sound-photo.com/microsoft/microsoft.htm"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8150,
     "Url": "http://www.ticketbase.com/events/angelhack-iran-2015"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8146,
     "Url": "http://farhadi.ir/projects/jalalijscalendar/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8129,
     "Url": "http://blogs.msdn.com/b/bharry/archive/2015/08/27/vs-2012-update-5-has-been-released.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8126,
+    "Url": "https://sqlcetoolbox.codeplex.com/releases"
+  },
+  {
+    "Retries": 1,
+    "Id": 8121,
+    "Url": "http://www.10youtube.com/watch?v=qI_g07C_Q5I"
+  },
+  {
+    "Retries": 1,
+    "Id": 8115,
+    "Url": "https://www.microsoftvirtualacademy.com/en-US/training-courses/a-developer-s-guide-to-windows-10-12618"
+  },
+  {
+    "Retries": 1,
+    "Id": 8110,
+    "Url": "https://media.readthedocs.org/pdf/ef/latest/ef.pdf"
   }
 ]
