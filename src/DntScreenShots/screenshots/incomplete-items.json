@@ -4610,32 +4610,32 @@
     "Url": "http://mindsheets.ir/?p=111"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7873,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/07/20/announcing-the-rtm-of-visual-f-4-0.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7870,
     "Url": "http://blogs.msdn.com/b/adonet/archive/2015/07/20/entity-framework-and-visual-studio-2015-rtm.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7869,
     "Url": "http://blogs.msdn.com/b/typescript/archive/2015/07/20/announcing-typescript-1-5.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7868,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/07/20/announcing-asp-net-4-6-and-asp-net-5-beta-5-in-visual-studio-2015-release.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7866,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/07/20/visual-studio-2015-and-visual-studio-2013-update-5-released.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7865,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/07/20/announcing-net-framework-4-6.aspx"
   },
@@ -4645,43 +4645,53 @@
     "Url": "https://www.visualstudio.com/downloads/download-visual-studio-vs"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7862,
     "Url": "http://mindsheets.ir/?p=107"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7860,
     "Url": "http://blog.alex-mercer.com/post/techstacks"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7858,
     "Url": "http://xmlautocomplete.codeplex.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7856,
     "Url": "http://itsec.persianblog.ir/post/455"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7849,
     "Url": "http://xamarin-persian.ir/1394/04/25/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%86%D8%B5%D8%A8-%D8%B2%D8%A7%D9%85%D8%A7%D8%B1%DB%8C%D9%86-%D8%AF%D8%B3%D8%AA%DB%8C/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7848,
     "Url": "http://www.se-topics.ir/topicview?id=41"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7843,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/07/15/new-version-of-asp-net-merge-tool.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7830,
     "Url": "https://www.antipattern.io/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7816,
+    "Url": "http://pretotyping.ir/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7814,
+    "Url": "http://www.barbarianmeetscoding.com/blog/2015/07/09/mastering-the-arcane-art-of-javascript-mancy-for-c-sharp-developers-chapter-7-using-linq-in-javascript/"
   }
 ]
