@@ -4515,67 +4515,67 @@
     "Url": "http://blog.falafel.com/31-days-of-xamarin-android/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7952,
     "Url": "http://tech-journals.com/jonow/2011/05/19/avoiding-magic-strings-in-asp-net-mvc-authorize-filters"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7950,
     "Url": "http://timsneath.azurewebsites.net/visual-studio-2015-updated-setup/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7949,
     "Url": "http://blogs.msdn.com/b/directx/archive/2015/07/29/windows-10-and-directx-12-released.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7944,
     "Url": "http://mindsheets.ir/?p=125"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7940,
     "Url": "http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7934,
     "Url": "http://blogs.msdn.com/b/premier_developer/archive/2015/07/28/net-lifecycle-roadmap-and-announcements.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7932,
     "Url": "http://mrbool.com/course/android-course-learn-android-programming-step-by-step/420"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7931,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/07/27/announcing-availability-of-asp-net-5-beta-6.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7929,
     "Url": "http://xamarin-persian.ir/1394/05/06/\u0645\u0642\u062F\u0645\u0647-\u0627\u06CC-\u0628\u0631-\u0632\u0627\u0645\u0627\u0631\u06CC\u0646-\u0648\u06CC\u062F\u0626\u0648/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7928,
     "Url": "http://www.datazen.com/overview/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7927,
     "Url": "http://dotnetexpert.ir/Blog/1394/5/3/%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-%DA%AF%D8%B1%D8%A7%D9%81%DB%8C%DA%A9-%D8%A8%D9%87-%DA%A9%D9%85%DA%A9-sass-%D9%88-%D9%88%DB%8C%DA%98%D9%88%D8%A7%D9%84-%D8%A7%D8%B3%D8%AA%D8%AF%DB%8C%D9%88"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7925,
     "Url": "http://mindsheets.ir/?p=118"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7919,
     "Url": "https://channel9.msdn.com/Shows/Visual-Studio-Toolbox/Visual-Studio-2015-RTM"
   }
