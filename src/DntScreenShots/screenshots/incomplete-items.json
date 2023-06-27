@@ -4365,48 +4365,68 @@
     "Url": "http://barname-nevis.com/post/97/%D8%A7%D9%86%D9%88%D8%A7%D8%B9-%D9%85%DB%8C%D8%B2%D8%A8%D8%A7%D9%86%DB%8C-%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-wcf-wcf-hosting/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 8085,
     "Url": "http://voidmain.ir/1394/05/31/%D8%AC%D8%A7%DB%8C%DA%AF%D8%B2%DB%8C%D9%86-%DA%A9%D8%B1%D8%AF%D9%86-constant-%D8%A8%D8%A7-static-read-only/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8075,
     "Url": "http://www.deanhume.com/Home/BlogPost/a-basic-guide-to-the-fetch-api/10129"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 8074,
     "Url": "http://MindSheets.ir/?p=136"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8050,
     "Url": "http://m.hiapphere.com/apk-sqlite_editor"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8049,
     "Url": "http://blogs.msdn.com/b/cdndevs/archive/2015/08/14/intel-just-open-sourced-stephen-hawking-s-speech-system-and-it-s-a-net-4-5-winforms-app.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8046,
     "Url": "http://simplelucene.codeplex.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8043,
     "Url": "http://winterdom.com/2015/08/whats-new-in-iis-10-0"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8042,
     "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/Shadow-Properties-in-Entity-Framework-7"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 8035,
     "Url": "http://e-shahrvand.com/1394/05/win10-and-15-universal-apps/"
+  },
+  {
+    "Retries": 1,
+    "Id": 8024,
+    "Url": "http://blogs.msdn.com/b/cdndevs/archive/2015/08/06/a-complete-guide-to-the-mvc-6-tag-helpers.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 8016,
+    "Url": "https://channel9.msdn.com/Blogs/Seth-Juarez/Key-Generation-Strategies-in-Entity-Framework-7"
+  },
+  {
+    "Retries": 1,
+    "Id": 8014,
+    "Url": "http://www.se-topics.ir/topicview?id=42"
+  },
+  {
+    "Retries": 1,
+    "Id": 8009,
+    "Url": "http://www.bigdata.ir/2015/08/svm-%DB%8C%D8%A7-%D9%85%D8%A7%D8%B4%DB%8C%D9%86-%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86-%D8%A8%D9%87-%D8%B2%D8%A8%D8%A7%D9%86-%D8%B3%D8%A7%D8%AF%D9%87/"
   }
 ]
