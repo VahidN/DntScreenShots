@@ -5335,28 +5335,48 @@
     "Url": "http://www.dotnetspan.com/2014/12/opensource-gridview-control-for-aspnet-mvc5.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6976,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/03/12/a-preview-of-angular-2-and-typescript-in-visual-studio.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6972,
     "Url": "http://wpfautocomplete.codeplex.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6964,
     "Url": "http://resharper-support.jetbrains.com/entries/23865776-How-can-I-temporary-disable-turn-off-ReSharper-"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6959,
     "Url": "http://blogs.msdn.com/b/adonet/archive/2015/03/10/ef6-1-3-rtm-available.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6956,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/03/09/visual-studio-2013-update-5-ctp-3-released.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6951,
+    "Url": "https://gridmvc.codeplex.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6942,
+    "Url": "http://angularjs4u.com/demos/10-angularjs-crud-app-demos/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6937,
+    "Url": "http://www.se-topics.ir/topicview?id=36"
+  },
+  {
+    "Retries": 1,
+    "Id": 6934,
+    "Url": "http://www.newventuresoftware.com/blog/telerik-nativescript-first-impressions/"
   }
 ]
