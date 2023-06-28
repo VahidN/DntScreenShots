@@ -5410,7 +5410,7 @@
     "Url": "http://sqlblog.ir/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%81%D8%A7%DB%8C%D9%84-%D8%A8%DA%A9%E2%80%8C%D8%A2%D9%BE-%DB%8C%DA%A9-%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6909,
     "Url": "http://ageeknotes.com/1393/12/14/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-stackoverflow-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84/"
   },
@@ -5420,28 +5420,43 @@
     "Url": "http://www.tutorialspoint.com/android/android_rss_reader.htm"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6899,
     "Url": "http://conf.reactjs.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6893,
     "Url": "http://sqlblog.ir/redgate-sql-lock-%D9%88-ddl-trigger%D9%87%D8%A7/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6890,
     "Url": "http://www.talksharp.com/increase-enity-framework-performance"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6889,
     "Url": "https://simpleinjector.org/index.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6876,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/02/26/net-core-open-source-update-february-26-2015.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6872,
+    "Url": "http://tamr.in/product/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%AF%D9%84%DB%8C%DA%AF%DB%8C%D8%AA-delegate"
+  },
+  {
+    "Retries": 1,
+    "Id": 6871,
+    "Url": "http://download.microsoft.com/download/4/6/9/469501F4-5F6B-4E51-897C-9A216CFB30A3/SwiftCSharpPoster.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 6862,
+    "Url": "http://sqlblog.ir/%D8%B9%D9%85%D9%84%DA%AF%D8%B1-%D8%AA%D9%81%D8%A7%D8%B6%D9%84-%D8%AF%D8%B1-tsql/"
   }
 ]
