@@ -5060,67 +5060,67 @@
     "Url": "http://www.legaldocs.ir/category/42"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7241,
     "Url": "http://blogs.msdn.com/b/microsoft_press/archive/2015/04/09/free-ebook-managing-agile-open-source-software-projects-with-microsoft-visual-studio-online.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7239,
     "Url": "https://exceptional.codeplex.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7238,
     "Url": "http://lanyrd.com/2015/dotnetfringe/schedule/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7230,
     "Url": "http://www.syntaxsuccess.com/viewarticle/552dc66f955de264e1fbbaee"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7227,
     "Url": "http://blogs.msdn.com/b/ie/archive/2015/04/02/introducing-the-ie-diagnostics-adapter-for-third-party-developer-tools.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7215,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/04/14/april-2015-net-security-updates.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7207,
     "Url": "http://fa.rezashadman.ir/post/%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%D8%A7%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF%D9%90-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7206,
     "Url": "http://blog.falafel.com/how-to-update-a-github-forked-repository/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7203,
     "Url": "http://www.codetrench.com/data-entry-automation/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7200,
     "Url": "https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7195,
     "Url": "http://www.paysa.ir/articles/%D8%AA%D9%84%D8%A7%D8%B4-%D8%AC%D9%87%D8%AA-%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-asp-net-vnext-%D8%AF%D8%B1-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D8%A7%D9%88%D8%A8%D9%88%D9%86%D8%AA%D9%88"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7189,
     "Url": "http://sqlblog.ir/%D8%AC%D8%AF%D9%88%D9%84%E2%80%8C%D9%87%D8%A7%DB%8C-%D9%85%D9%88%D9%82%D8%AA-%D9%88-%D9%85%D8%AA%D8%BA%DB%8C%D8%B1%D9%87%D8%A7%DB%8C-%D8%AC%D8%AF%D9%88%D9%84%DB%8C/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7188,
     "Url": "http://blog.devarchive.net/2008/04/using-region-directive-with-javascript.html"
   }
