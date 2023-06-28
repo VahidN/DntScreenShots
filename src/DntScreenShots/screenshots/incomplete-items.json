@@ -5235,7 +5235,7 @@
     "Url": "http://blogs.msdn.com/b/bharry/archive/2015/03/30/ever-want-to-create-bugs-from-email.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7095,
     "Url": "http://developer.telerik.com/featured/the-rise-of-typescript/"
   },
@@ -5245,23 +5245,38 @@
     "Url": "https://egghead.io/lessons/angularjs-angular-2-template-syntax"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7090,
     "Url": "http://devthings.net/trinity-framework/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7089,
     "Url": "http://blog.duoco.de/2015/03/26/duocode-0.4-beta-is-now-available/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7082,
     "Url": "http://enterprisecraftsmanship.com/2015/03/27/8-resharper-shortcuts-everyone-should-know/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7079,
     "Url": "http://www.dustjs.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7072,
+    "Url": "http://www.se-topics.ir/topicview?id=38"
+  },
+  {
+    "Retries": 1,
+    "Id": 7055,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/03/25/node-js-tools-1-0-for-visual-studio.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7054,
+    "Url": "http://blog.durandal.io/2015/03/25/aurelia-0-10-0-release-status/"
   }
 ]
