@@ -7211,6 +7211,7 @@ news-6903.jpg
 news-6904.jpg
 news-6905.jpg
 news-6906.jpg
+news-6907.jpg
 news-6908.jpg
 news-6910.jpg
 news-6911.jpg
@@ -7219,6 +7220,7 @@ news-6913.jpg
 news-6916.jpg
 news-6918.jpg
 news-6920.jpg
+news-6921.jpg
 news-6922.jpg
 news-6923.jpg
 news-6924.jpg
