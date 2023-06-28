@@ -5435,43 +5435,48 @@
     "Url": "http://www.talksharp.com/increase-enity-framework-performance"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6889,
     "Url": "https://simpleinjector.org/index.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6876,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/02/26/net-core-open-source-update-february-26-2015.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6872,
     "Url": "http://tamr.in/product/%D9%88%DB%8C%D8%AF%DB%8C%D9%88-%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%AF%D9%84%DB%8C%DA%AF%DB%8C%D8%AA-delegate"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6871,
     "Url": "http://download.microsoft.com/download/4/6/9/469501F4-5F6B-4E51-897C-9A216CFB30A3/SwiftCSharpPoster.pdf"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6862,
     "Url": "http://sqlblog.ir/%D8%B9%D9%85%D9%84%DA%AF%D8%B1-%D8%AA%D9%81%D8%A7%D8%B6%D9%84-%D8%AF%D8%B1-tsql/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6844,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/02/24/introducing-the-ui-debugging-tools-for-xaml.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6837,
     "Url": "http://developer.microsoftband.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6835,
     "Url": "http://sqlblog.ir/delete-%D8%A8%D8%B1-%D9%BE%D8%A7%DB%8C%D9%87-%D8%AA%D8%B1%DA%A9%DB%8C%D8%A8-%D8%AC%D8%AF%D9%88%D9%84%E2%80%8C%D9%87%D8%A7/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6822,
+    "Url": "http://go.nutanix.com/software-defined-storage-for-dummies.html"
   }
 ]
