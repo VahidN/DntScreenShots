@@ -5205,37 +5205,37 @@
     "Url": "https://notello.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7109,
     "Url": "http://averta.net/blog/fa/?p=109"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7103,
     "Url": "http://2bblog.com/1394/01/the-science-of-practice-what-happens-when-you-learn/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7102,
     "Url": "http://farnabaz.ir/content/%D8%B3%D8%A7%D9%84-%D9%86%D9%88-%D8%A7%D8%B3%D8%AA-%D9%81%D9%88%D8%AA%D8%B1%D9%87%D8%A7-%D8%B1%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A8%D8%B1%D9%88%D8%B2-%DA%A9%D8%B1%D8%AF"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7100,
     "Url": "http://ShowToAll.com"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7097,
     "Url": "http://blogs.msdn.com/b/hanuk/archive/2015/03/28/typec-a-simple-net-injection-ioc-container.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7096,
     "Url": "http://blogs.msdn.com/b/bharry/archive/2015/03/30/ever-want-to-create-bugs-from-email.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7095,
     "Url": "http://developer.telerik.com/featured/the-rise-of-typescript/"
   },
@@ -5245,22 +5245,22 @@
     "Url": "https://egghead.io/lessons/angularjs-angular-2-template-syntax"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7090,
     "Url": "http://devthings.net/trinity-framework/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7089,
     "Url": "http://blog.duoco.de/2015/03/26/duocode-0.4-beta-is-now-available/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7082,
     "Url": "http://enterprisecraftsmanship.com/2015/03/27/8-resharper-shortcuts-everyone-should-know/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7079,
     "Url": "http://www.dustjs.com/"
   }
