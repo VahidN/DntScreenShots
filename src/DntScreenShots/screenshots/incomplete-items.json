@@ -4970,37 +4970,37 @@
     "Url": "http://blog.webkid.io/replacing-jquery-with-d3/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7392,
     "Url": "http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7389,
     "Url": "http://blog.durandal.io/2015/05/06/getting-started-with-aurelia-and-typescript/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7371,
     "Url": "http://tabsereh.com/1391/08/2116/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7355,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/04/30/updates-for-asp-net-4-6-web-forms-mvc-5-web-api-2.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7354,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/04/30/announcing-the-github-extension-for-visual-studio.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7348,
     "Url": "http://ui.toread.ir/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7346,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/04/29/new-asp-net-features-and-fixes-in-visual-studio-2015-rc.aspx"
   }
