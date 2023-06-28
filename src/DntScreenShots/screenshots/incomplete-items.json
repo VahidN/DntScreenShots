@@ -5010,52 +5010,52 @@
     "Url": "http://www.tazeyab.com/tag/%D9%85%D8%A7%DB%8C%DA%A9%D8%B1%D9%88%D8%B3%D8%A7%D9%81%D8%AA"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7316,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/04/24/node-js-tools-1-0-on-github-and-vms-available.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7315,
     "Url": "http://uttool.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7294,
     "Url": "http://blog.durandal.io/2015/04/24/aurelia-custom-elements-and-content-selectors/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7289,
     "Url": "http://www.buildwindows.com/?CR_CC=200571953"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7284,
     "Url": "http://blogs.msdn.com/b/ericparvin/archive/2015/04/14/how-to-determine-differences-between-iis-servers.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7273,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/04/20/using-requirejs-with-visual-studio.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7269,
     "Url": "http://www.grepstar.org/top-11-things-every-beginning-developer-should-know/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7267,
     "Url": "http://blogs.msdn.com/b/bharry/archive/2015/04/21/tfvc-amp-git-support.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7266,
     "Url": "http://monospacedmonologues.com/post/116288992550/design-patterns-in-the-21st-century-part-one"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7250,
     "Url": "http://www.legaldocs.ir/category/42"
   }
