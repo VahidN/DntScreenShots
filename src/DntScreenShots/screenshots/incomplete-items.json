@@ -5055,33 +5055,48 @@
     "Url": "http://monospacedmonologues.com/post/116288992550/design-patterns-in-the-21st-century-part-one"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 7250,
     "Url": "http://www.legaldocs.ir/category/42"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7241,
     "Url": "http://blogs.msdn.com/b/microsoft_press/archive/2015/04/09/free-ebook-managing-agile-open-source-software-projects-with-microsoft-visual-studio-online.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7239,
     "Url": "https://exceptional.codeplex.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7238,
     "Url": "http://lanyrd.com/2015/dotnetfringe/schedule/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7230,
     "Url": "http://www.syntaxsuccess.com/viewarticle/552dc66f955de264e1fbbaee"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 7227,
     "Url": "http://blogs.msdn.com/b/ie/archive/2015/04/02/introducing-the-ie-diagnostics-adapter-for-third-party-developer-tools.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7215,
+    "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/04/14/april-2015-net-security-updates.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 7207,
+    "Url": "http://fa.rezashadman.ir/post/%D9%81%D8%A7%D8%AC%D8%B9%D9%87-%D8%A7%DB%8C-%D8%A8%D9%87-%D9%86%D8%A7%D9%85-%DA%A9%D8%A7%D8%B1%D9%85%D9%86%D8%AF%D9%90-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86"
+  },
+  {
+    "Retries": 1,
+    "Id": 7206,
+    "Url": "http://blog.falafel.com/how-to-update-a-github-forked-repository/"
   }
 ]
