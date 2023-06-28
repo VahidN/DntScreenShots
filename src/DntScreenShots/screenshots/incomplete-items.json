@@ -4960,13 +4960,28 @@
     "Url": "http://www.shareddev.net/2014/10/combine-angularjs-templates-in-aspnet.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7437,
     "Url": "http://blogs.msdn.com/b/sqlreleaseservices/archive/2015/05/15/sql-server-2014-service-pack-1-is-now-available.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 7436,
     "Url": "http://blog.webkid.io/replacing-jquery-with-d3/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7392,
+    "Url": "http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2"
+  },
+  {
+    "Retries": 1,
+    "Id": 7389,
+    "Url": "http://blog.durandal.io/2015/05/06/getting-started-with-aurelia-and-typescript/"
+  },
+  {
+    "Retries": 1,
+    "Id": 7371,
+    "Url": "http://tabsereh.com/1391/08/2116/"
   }
 ]
