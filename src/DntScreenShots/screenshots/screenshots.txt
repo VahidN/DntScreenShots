@@ -7199,6 +7199,21 @@ news-18828.jpg
 news-18829.jpg
 news-18830.jpg
 news-18831.jpg
+news-6792.jpg
+news-6793.jpg
+news-6795.jpg
+news-6796.jpg
+news-6797.jpg
+news-6800.jpg
+news-6801.jpg
+news-6802.jpg
+news-6803.jpg
+news-6804.jpg
+news-6805.jpg
+news-6806.jpg
+news-6809.jpg
+news-6810.jpg
+news-6811.jpg
 news-6813.jpg
 news-6814.jpg
 news-6815.jpg
@@ -7255,6 +7270,7 @@ news-6870.jpg
 news-6873.jpg
 news-6874.jpg
 news-6875.jpg
+news-6876.jpg
 news-6877.jpg
 news-6878.jpg
 news-6879.jpg
@@ -7267,6 +7283,7 @@ news-6885.jpg
 news-6886.jpg
 news-6887.jpg
 news-6888.jpg
+news-6889.jpg
 news-6890.jpg
 news-6891.jpg
 news-6892.jpg
