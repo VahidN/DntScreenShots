@@ -5380,7 +5380,7 @@
     "Url": "http://www.newventuresoftware.com/blog/telerik-nativescript-first-impressions/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6930,
     "Url": "http://m-mavaddat.ir/post/42"
   },
@@ -5390,27 +5390,27 @@
     "Url": "https://www.youtube.com/playlist?list=PLOETEcp3DkCoNnlhE-7fovYvqwVPrRiY7"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6919,
     "Url": "http://ageeknotes.com/1393/12/14/%d8%a8%d8%b1%d8%b1%d8%b3%db%8c-%d8%a2%d9%85%d8%a7%d8%b1-%d8%a7%d8%b1%d8%a7%d8%a6%d9%87-%d8%b4%d8%af%d9%87-%d8%aa%d9%88%d8%b3%d8%b7-stackoverflow-%d9%82%d8%b3%d9%85%d8%aa-%d8%af%d9%88%d9%85/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6917,
     "Url": "http://victorsavkin.com/post/110170125256/change-detection-in-angular-2"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6915,
     "Url": "http://blogs.msdn.com/b/typescript/archive/2015/03/05/angular-2-0-built-on-typescript.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6914,
     "Url": "http://sqlblog.ir/%D8%A7%D8%B7%D9%84%D8%A7%D8%B9%D8%A7%D8%AA-%D8%A2%D8%AE%D8%B1%DB%8C%D9%86-%D9%81%D8%A7%DB%8C%D9%84-%D8%A8%DA%A9%E2%80%8C%D8%A2%D9%BE-%DB%8C%DA%A9-%D8%AF%DB%8C%D8%AA%D8%A7%D8%A8%DB%8C%D8%B3/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6909,
     "Url": "http://ageeknotes.com/1393/12/14/%D8%A8%D8%B1%D8%B1%D8%B3%DB%8C-%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1-stackoverflow-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84/"
   },
@@ -5420,13 +5420,28 @@
     "Url": "http://www.tutorialspoint.com/android/android_rss_reader.htm"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6899,
     "Url": "http://conf.reactjs.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6893,
     "Url": "http://sqlblog.ir/redgate-sql-lock-%D9%88-ddl-trigger%D9%87%D8%A7/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6890,
+    "Url": "http://www.talksharp.com/increase-enity-framework-performance"
+  },
+  {
+    "Retries": 1,
+    "Id": 6889,
+    "Url": "https://simpleinjector.org/index.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 6876,
+    "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/02/26/net-core-open-source-update-february-26-2015.aspx"
   }
 ]
