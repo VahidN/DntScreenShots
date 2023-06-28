@@ -7244,6 +7244,7 @@ news-7004.jpg
 news-7005.jpg
 news-7006.jpg
 news-7007.jpg
+news-7008.jpg
 news-7009.jpg
 news-7010.jpg
 news-7011.jpg
@@ -7253,8 +7254,11 @@ news-7014.jpg
 news-7015.jpg
 news-7016.jpg
 news-7017.jpg
+news-7018.jpg
 news-7019.jpg
+news-7020.jpg
 news-7021.jpg
+news-7022.jpg
 news-7023.jpg
 news-7024.jpg
 news-7025.jpg
