@@ -5865,23 +5865,43 @@
     "Url": "http://mindsheets.ir/?p=11"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6491,
     "Url": "http://echarts.baidu.com/doc/example-en.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6487,
     "Url": "http://xabikos.com:80/multitenant/application%20design/software%20as%20a%20service/2014/11/17/create-a-multitenant-application-with-entity-framework-code-first---part-1.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6457,
     "Url": "http://gurustop.net/newsletter/7"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6444,
     "Url": "http://nr6pack.net/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6441,
+    "Url": "http://www.tracepot.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6436,
+    "Url": "https://www.codota.com/extension"
+  },
+  {
+    "Retries": 1,
+    "Id": 6426,
+    "Url": "http://kunkle.org/blog/2013/07/10/pull-request-etiquette/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6424,
+    "Url": "http://microsoft-news.com/microsoft-dominates-corporate-cloud-spending-list/"
   }
 ]
