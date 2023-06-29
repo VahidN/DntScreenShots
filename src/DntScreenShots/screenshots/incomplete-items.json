@@ -5645,38 +5645,73 @@
     "Url": "http://enterprisecraftsmanship.com/2015/02/02/when-inheritance-is-not-an-inheritance/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6683,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/02/03/coreclr-is-now-open-source.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6677,
     "Url": "http://uitips.ir/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6676,
     "Url": "http://download.microsoft.com/download/6/D/D/6DD55B7A-7F27-4A2B-985A-082C10D1E6C5/Microsoft_Press_eBook_Programming_Windows_8_Apps_with_HTML_CSS_and_JavaScript_Second_Preview_PDF.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6663,
     "Url": "http://scriptmanjs.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6654,
     "Url": "http://blogs.msdn.com/b/garretts/archive/2015/01/27/oneget-and-the-windows-10-preview.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6653,
     "Url": "http://MindSheets.ir/?p=72"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6650,
     "Url": "http://marketblog.envato.com/resources/free-resources-developers-2014/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6645,
+    "Url": "http://blog.abyz.ir/1393/11/joy-of-programming-migrate-form-svn-to-git/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6643,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2015/01/26/visual-studio-2013-update-5-ctp-2-released.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6640,
+    "Url": "http://pspcommunity.org/blogs/arash/archive/2015/01/26/6065.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6636,
+    "Url": "http://p30download.com/fa/entry/57018/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6635,
+    "Url": "http://p30download.com/fa/entry/57111/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6634,
+    "Url": "http://blog.backand.com/angularjs-2014-year-in-review/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6627,
+    "Url": "http://dba.itpro.ir/articles/7090/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%85%D9%81%D8%A7%D9%87%DB%8C%D9%85-%D9%88-%D8%A7%D9%86%D9%88%D8%A7%D8%B9-replication-%D8%AF%D8%B1-sql-%D8%B3%D8%B1%D9%88%D8%B1"
   }
 ]
