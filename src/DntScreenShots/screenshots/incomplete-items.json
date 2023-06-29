@@ -5960,7 +5960,7 @@
     "Url": "http://blogs.msdn.com/b/david_gristwood/archive/2014/12/12/orleans-goes-open-source.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6354,
     "Url": "http://hadimetal.persiangig.com/OpenCV/%d8%a2%d9%85%d9%88%d8%b2%d8%b4%20%d9%86%d8%b5%d8%a8%20Opencv.rar/download?8319"
   },
@@ -5975,43 +5975,68 @@
     "Url": "http://www.ebooksworld.ir/post/index/138/%D8%AF%D8%A7%D9%86%D9%84%D9%88%D8%AF-%DA%A9%D8%AA%D8%A7%D8%A8-pro-asp-net-signalr"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6342,
     "Url": "http://thedeveloper.ir/1393/09/22/%D9%86%D8%AF%D8%A7%D8%B2%D9%87%E2%80%8C%DA%AF%DB%8C%D8%B1%DB%8C-%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%DA%AF%DB%8C-%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6341,
     "Url": "http://blog.cylance.com/operation-cleaver-net-crawler"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6339,
     "Url": "http://www.linkplugapp.com/a/1150067"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6325,
     "Url": "http://alihzadeh.blog.ir/post/218930912-how-to-report-bug-in-linux"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6318,
     "Url": "http://blogs.msdn.com/b/vbteam/archive/2014/12/09/new-language-features-in-visual-basic-14.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6317,
     "Url": "http://blog.developers.ba/7-reasons-start-software-development-blog-today/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6312,
     "Url": "http://www.ndcvideos.com/#/app/videos"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6301,
     "Url": "http://ember101.com/videos/001-intro-and-binding-data-to-templates"
+  },
+  {
+    "Retries": 1,
+    "Id": 6294,
+    "Url": "http://blog.developers.ba/replace-json-net-jil-json-serializer-asp-net-web-api/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6291,
+    "Url": "http://blogs.msdn.com/b/scicoria/archive/2014/11/23/using-the-docker-client-from-windows-and-getting-aspnet-vnext-running-in-a-docker-container.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6285,
+    "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/19/introducing-smart-unit-tests.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6284,
+    "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/12/04/introducing-net-core.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6281,
+    "Url": "http://thedeveloper.ir/1393/09/12/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%D8%AF%D9%87/"
   }
 ]
