@@ -6100,32 +6100,32 @@
     "Url": "http://blogs.msdn.com/b/ieinternals/archive/2014/11/24/defeat-script-gif-polyglots-using-x-content-type-options.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6223,
     "Url": "https://www.kernel.org/doc/Documentation/CodingStyle"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6221,
     "Url": "http://downloadly.ir/software/programming/telerik/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6212,
     "Url": "http://jakiestfu.github.io/Snap.js/demo/apps/default.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6211,
     "Url": "http://www.fse.guru/2-years-with-angular"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6205,
     "Url": "http://f-khorasani.ir/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%DB%8C-%D8%AF%D9%88%D8%B1%D9%87-%DA%A9%D8%A7%D8%B1%D8%B4%D9%86%D8%A7%D8%B3%DB%8C-olap/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6204,
     "Url": "http://pmwiki.ir/w/index.php?title=%DA%86%D9%87%D8%A7%D8%B1%DA%86%D9%88%D8%A8%E2%80%8C%D9%87%D8%A7%DB%8C_%DA%86%D8%A7%D8%A8%DA%A9"
   },
@@ -6133,5 +6133,15 @@
     "Retries": 1,
     "Id": 6203,
     "Url": "http://msdn.microsoft.com/dn630664"
+  },
+  {
+    "Retries": 1,
+    "Id": 6175,
+    "Url": "http://5by5.tv/changelog/131"
+  },
+  {
+    "Retries": 1,
+    "Id": 6174,
+    "Url": "http://blogs.msdn.com/b/dorischen/archive/2014/11/18/angular-or-backbone-go-mobile.aspx"
   }
 ]
