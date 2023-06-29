@@ -5570,32 +5570,32 @@
     "Url": "http://farnabaz.ir/content/%D8%B1%D9%87%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%DA%86%D9%86%DA%AF%D8%A7%D9%84-%DB%8C%DA%A9%D8%B3%D8%B1%DB%8C-%D9%81%D8%A7%DB%8C%D9%84-%D8%A8%D8%AF%D8%B1%D8%AF-%D9%86%D8%AE%D9%88%D8%B1-%D8%A8%D8%A7-%D9%BE%D8%B3%D9%88%D9%86%D8%AF-map"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6734,
     "Url": "http://m-mavaddat.ir/post/40"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6729,
     "Url": "http://m-mavaddat.ir/post/39"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6724,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2015/02/09/asp-net-mvc-5-2-3-web-pages-3-2-3-and-web-api-5-2-3-release.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6722,
     "Url": "http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6715,
     "Url": "http://dzautner.com/meta-programming-javascript-using-proxies/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6714,
     "Url": "http://www.newventuresoftware.com/blog/practical-analysis-new-features-c-6-part-2/"
   },
@@ -5610,18 +5610,38 @@
     "Url": "http://www.bytemedev.com/how-to-fix-visual-studio-error-the-process-cannot-access-the-file-because-it-is-being-used-by-another-process/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6704,
     "Url": "http://mindsheets.ir/?p=89"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6703,
     "Url": "http://hive.ir/%D8%A7%D8%AD%D8%B1%D8%A7%D8%B2-%D9%87%D9%88%DB%8C%D8%AA-%D8%A8%D8%B1-%D8%A7%D8%B3%D8%A7%D8%B3-token-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-api/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6701,
     "Url": "http://www.free-country-flags.com/flag_packs.php"
+  },
+  {
+    "Retries": 1,
+    "Id": 6695,
+    "Url": "http://blogs.msdn.com/b/friis/archive/2014/02/06/how-to-analyse-iis-logs-using-logparser-logparser-studio.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6693,
+    "Url": "http://m-mavaddat.ir/post/34"
+  },
+  {
+    "Retries": 1,
+    "Id": 6692,
+    "Url": "http://weblog.ikvm.net/2015/01/12/IKVMNET80ReleaseCandidate1.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6690,
+    "Url": "http://enterprisecraftsmanship.com/2015/02/02/when-inheritance-is-not-an-inheritance/"
   }
 ]
