@@ -5610,32 +5610,32 @@
     "Url": "http://www.bytemedev.com/how-to-fix-visual-studio-error-the-process-cannot-access-the-file-because-it-is-being-used-by-another-process/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6704,
     "Url": "http://mindsheets.ir/?p=89"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6703,
     "Url": "http://hive.ir/%D8%A7%D8%AD%D8%B1%D8%A7%D8%B2-%D9%87%D9%88%DB%8C%D8%AA-%D8%A8%D8%B1-%D8%A7%D8%B3%D8%A7%D8%B3-token-%D9%85%D8%AE%D8%B5%D9%88%D8%B5-api/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6701,
     "Url": "http://www.free-country-flags.com/flag_packs.php"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6695,
     "Url": "http://blogs.msdn.com/b/friis/archive/2014/02/06/how-to-analyse-iis-logs-using-logparser-logparser-studio.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6693,
     "Url": "http://m-mavaddat.ir/post/34"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6692,
     "Url": "http://weblog.ikvm.net/2015/01/12/IKVMNET80ReleaseCandidate1.aspx"
   },
@@ -5645,17 +5645,17 @@
     "Url": "http://enterprisecraftsmanship.com/2015/02/02/when-inheritance-is-not-an-inheritance/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6683,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2015/02/03/coreclr-is-now-open-source.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6677,
     "Url": "http://uitips.ir/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6676,
     "Url": "http://download.microsoft.com/download/6/D/D/6DD55B7A-7F27-4A2B-985A-082C10D1E6C5/Microsoft_Press_eBook_Programming_Windows_8_Apps_with_HTML_CSS_and_JavaScript_Second_Preview_PDF.pdf"
   }

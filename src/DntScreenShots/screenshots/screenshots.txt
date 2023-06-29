@@ -7219,6 +7219,7 @@ news-6686.jpg
 news-6687.jpg
 news-6688.jpg
 news-6689.jpg
+news-6690.jpg
 news-6691.jpg
 news-6694.jpg
 news-6696.jpg
@@ -7236,12 +7237,15 @@ news-6710.jpg
 news-6711.jpg
 news-6712.jpg
 news-6713.jpg
+news-6714.jpg
+news-6715.jpg
 news-6716.jpg
 news-6717.jpg
 news-6718.jpg
 news-6719.jpg
 news-6720.jpg
 news-6721.jpg
+news-6722.jpg
 news-6723.jpg
 news-6724.jpg
 news-6725.jpg
