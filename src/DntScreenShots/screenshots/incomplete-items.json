@@ -6055,7 +6055,7 @@
     "Url": "http://emberwatch.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6251,
     "Url": "https://wiki.mozilla.org/Security/Sandbox"
   },
@@ -6065,38 +6065,58 @@
     "Url": "http://vuejs.org:80/examples/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6241,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2014/11/24/content-negotiation-in-mvc-5-or-how-can-i-just-write-json.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6239,
     "Url": "https://sheenbidi.codeplex.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6238,
     "Url": "http://j.tlns.be/2014/11/raspberry-pi-gpios-with-ds18b20-azure-c-internet-thermometer-part-12/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6237,
     "Url": "http://j.tlns.be/2014/11/running-asp-net-on-a-raspberry-pi-with-mono-and-owin/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6235,
     "Url": "http://nodejstools.codeplex.com"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6231,
     "Url": "http://navid.kashani.ir/484/semantic-versioning/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6227,
     "Url": "http://blogs.msdn.com/b/ieinternals/archive/2014/11/24/defeat-script-gif-polyglots-using-x-content-type-options.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6223,
+    "Url": "https://www.kernel.org/doc/Documentation/CodingStyle"
+  },
+  {
+    "Retries": 1,
+    "Id": 6221,
+    "Url": "http://downloadly.ir/software/programming/telerik/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6212,
+    "Url": "http://jakiestfu.github.io/Snap.js/demo/apps/default.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 6211,
+    "Url": "http://www.fse.guru/2-years-with-angular"
   }
 ]
