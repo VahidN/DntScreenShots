@@ -6195,58 +6195,78 @@
     "Url": "http://vincentgarreau.com/particles.js/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6120,
     "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2014/11/12/introducing-visual-studio-s-emulator-for-android.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6118,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/11/12/the-roadmap-for-wpf.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6116,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/11/12/announcing-net-2015-preview-a-new-era-for-net.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6115,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2014/11/12/announcing-asp-net-features-in-visual-studio-2015-preview-and-vs2013-update-4.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6114,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/11/12/visual-studio-2015-preview-visual-studio-community-2013-visual-studio-2013-update-4-and-more.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6112,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/11/12/net-core-is-open-source.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6110,
     "Url": "https://cloudservices.red-gate.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6097,
     "Url": "http://icdl.itpro.ir/tips/2853/%D8%AA%D9%81%D8%A7%D9%88%D8%AA-%D8%A8%DB%8C%D9%86-%D9%81%D8%A7%DB%8C%D9%84-%D9%87%D8%A7%DB%8C-MSI-%D9%88-EXE-%D8%AF%D8%B1-%DA%86%DB%8C%D8%B3%D8%AA-%D8%9F"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6093,
     "Url": "http://finanology.co/post/102046882629/binary-doomsday"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6086,
     "Url": "http://www.se-topics.ir/topicview?id=32"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6085,
     "Url": "http://noelwelsh.com/programming/2014/08/17/angularjs-vs-react/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6084,
+    "Url": "http://www.mywindows.ir/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-remote-ie/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6081,
+    "Url": "http://blog.longle.net/2014/11/03/telerik-kendo-ui-case-study-2014-released-enterprise-benefits-and-value-added/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6078,
+    "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/11/05/using-system-numerics-vector-for-graphics-programming.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6076,
+    "Url": "http://blogs.msdn.com/b/clrcodegeneration/archive/2014/10/31/ryujit-ctp5-getting-closer-to-shipping-and-with-better-simd-support.aspx"
   }
 ]
