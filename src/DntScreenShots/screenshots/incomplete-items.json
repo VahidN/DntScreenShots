@@ -6040,22 +6040,22 @@
     "Url": "http://thedeveloper.ir/1393/09/12/%D9%82%D9%88%D8%A7%D9%86%DB%8C%D9%86-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-%D8%B3%D8%A7%D8%AF%D9%87/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6275,
     "Url": "http://blogs.msdn.com/b/adonet/archive/2014/12/02/ef7-priorities-focus-and-initial-release.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6273,
     "Url": "https://jetentityframeworkprovider.codeplex.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6269,
     "Url": "http://emberwatch.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6251,
     "Url": "https://wiki.mozilla.org/Security/Sandbox"
   },
@@ -6063,5 +6063,40 @@
     "Retries": 1,
     "Id": 6245,
     "Url": "http://vuejs.org:80/examples/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6241,
+    "Url": "http://blogs.msdn.com/b/webdev/archive/2014/11/24/content-negotiation-in-mvc-5-or-how-can-i-just-write-json.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6239,
+    "Url": "https://sheenbidi.codeplex.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6238,
+    "Url": "http://j.tlns.be/2014/11/raspberry-pi-gpios-with-ds18b20-azure-c-internet-thermometer-part-12/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6237,
+    "Url": "http://j.tlns.be/2014/11/running-asp-net-on-a-raspberry-pi-with-mono-and-owin/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6235,
+    "Url": "http://nodejstools.codeplex.com"
+  },
+  {
+    "Retries": 1,
+    "Id": 6231,
+    "Url": "http://navid.kashani.ir/484/semantic-versioning/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6227,
+    "Url": "http://blogs.msdn.com/b/ieinternals/archive/2014/11/24/defeat-script-gif-polyglots-using-x-content-type-options.aspx"
   }
 ]
