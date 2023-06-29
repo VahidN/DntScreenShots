@@ -5840,38 +5840,48 @@
     "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2015/01/05/understanding-symbol-files-and-visual-studio-s-symbol-settings.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6509,
     "Url": "http://mindsheets.ir/?p=18"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6505,
     "Url": "http://database-management.findthebest-sw.com/saved_compare/Access-vs-SQLite"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6503,
     "Url": "http://gfxworld.ir/tutorials/import-css-color-to-swatches"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6502,
     "Url": "http://gfxworld.ir/tutorials/psd-to-css3"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6498,
     "Url": "http://mindsheets.ir/?p=11"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6491,
     "Url": "http://echarts.baidu.com/doc/example-en.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6487,
     "Url": "http://xabikos.com:80/multitenant/application%20design/software%20as%20a%20service/2014/11/17/create-a-multitenant-application-with-entity-framework-code-first---part-1.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 6457,
+    "Url": "http://gurustop.net/newsletter/7"
+  },
+  {
+    "Retries": 1,
+    "Id": 6444,
+    "Url": "http://nr6pack.net/"
   }
 ]
