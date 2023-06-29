@@ -5875,33 +5875,53 @@
     "Url": "http://xabikos.com:80/multitenant/application%20design/software%20as%20a%20service/2014/11/17/create-a-multitenant-application-with-entity-framework-code-first---part-1.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6457,
     "Url": "http://gurustop.net/newsletter/7"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6444,
     "Url": "http://nr6pack.net/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6441,
     "Url": "http://www.tracepot.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6436,
     "Url": "https://www.codota.com/extension"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6426,
     "Url": "http://kunkle.org/blog/2013/07/10/pull-request-etiquette/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6424,
     "Url": "http://microsoft-news.com/microsoft-dominates-corporate-cloud-spending-list/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6419,
+    "Url": "http://blogs.msdn.com/b/mvpawardprogram/archive/2014/12/22/sql-server-2014-dml-triggers-tips-amp-tricks-from-the-field.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6409,
+    "Url": "http://blogs.msdn.com/b/rodneyviana/archive/2014/12/23/identifying-the-net-version-you-are-running-2-0-4-5-4-5-1-or-4-5-2.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6404,
+    "Url": "http://blogs.msdn.com/b/adonet/archive/2014/12/22/ef6-1-2-rtm-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6403,
+    "Url": "http://www.se-topics.ir/topicview?id=34"
   }
 ]
