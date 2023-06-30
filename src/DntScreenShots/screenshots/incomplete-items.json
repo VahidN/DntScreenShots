@@ -6820,38 +6820,68 @@
     "Url": "http://thedeveloper.ir/1393/05/24/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A8%D9%88%DB%8C-%D8%A7%D8%B3%DA%A9%D8%A7%D8%AA/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5553,
     "Url": "https://eflogger.codeplex.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5536,
     "Url": "http://kylesletten.com/2014/08/14/advanced-generics.html"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5534,
     "Url": "http://www.codingbyte.com/what-it-feels-like-to-work-in-an-indian-it-services-company/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5528,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/08/12/august-2014-security-updates.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5526,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2014/08/12/develop-asp-net-vnext-applications-on-a-mac.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5519,
     "Url": "http://mirsaeedi.net/blog/post/%D8%AD%D9%85%D9%84%D9%87-Cross-Site-Request-Forgery"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5515,
     "Url": "https://roslyn.codeplex.com/discussions/560339"
+  },
+  {
+    "Retries": 1,
+    "Id": 5488,
+    "Url": "http://wcfsecurity.codeplex.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5486,
+    "Url": "http://blogs.msdn.com/b/webdev/archive/2014/08/04/announcing-new-web-features-in-visual-studio-2013-update-3-rtm.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5478,
+    "Url": "http://download.microsoft.com/download/4/3/0/4307E0E6-7F2D-4885-86E6-AE8804F07AC6/vs2013.3_ult_enu.iso"
+  },
+  {
+    "Retries": 1,
+    "Id": 5477,
+    "Url": "http://blog.novotny.org/2014/08/04/announce-ninject-for-xamarin-and-everything-else/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5476,
+    "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/08/05/multidictionary-becomes-multivaluedictionary.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5473,
+    "Url": "http://blogs.msmvps.com/carlosq/2014/07/01/strategies-migrating-from-visual-studio-add-ins-to-packages/"
   }
 ]
