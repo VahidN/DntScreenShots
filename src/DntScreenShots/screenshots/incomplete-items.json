@@ -6485,53 +6485,63 @@
     "Url": "https://iranmap.codeplex.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5866,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2014/09/30/the-ajax-control-toolkit-are-now-maintained-by-devexpress.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5864,
     "Url": "http://blogs.msdn.com/b/pakistan/archive/2014/04/23/using-sqlite-with-windows-phone-8.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5859,
     "Url": "http://microsoft-news.com/6-new-windows-10-features-shown-in-pictures/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5857,
     "Url": "http://blogs.windows.com/bloggingwindows/2014/09/30/announcing-windows-10/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5855,
     "Url": "http://realm.io/news/realm-for-android/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5850,
     "Url": "http://beabigrockstar.com/guides/aspnet-oauth"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5847,
     "Url": "http://masironline.com/news/3939"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5835,
     "Url": "http://www.sciencedaily.com/releases/2014/09/140919110639.htm"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5827,
     "Url": "http://falafel.com/landing-pages/learning-xamarin-ebook-download"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5823,
     "Url": "http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5818,
+    "Url": "http://blogs.msdn.com/b/ashleyf/archive/2014/09/21/the-humans-are-dead.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5817,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/09/22/visual-studio-2013-update-4-ctp-2-now-available.aspx"
   }
 ]
