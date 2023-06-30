@@ -6720,47 +6720,47 @@
     "Url": "http://stories.visualstudio.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5643,
     "Url": "http://blog.nitishkumarsingh.com/javascript-best-practices/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5642,
     "Url": "http://danielvdende.com/gdc2014/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5635,
     "Url": "https://ef6contrib.codeplex.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5626,
     "Url": "http://bjorn.tipling.com/state-and-regular-expressions-in-javascript"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5622,
     "Url": "http://labs.enonic.com/articles/animate-your-webpage-with-the-scrollbar"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5620,
     "Url": "http://www.barbarianmeetscoding.com/blog/2014/08/20/object-oriented-javascript-for-c-sharp-developers/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5619,
     "Url": "http://www.mywindows.ir/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D9%85%D9%88%D9%86%DB%8C%D8%AE-%D8%A2%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B2-%D9%84%DB%8C%D9%86%D9%88%DA%A9%D8%B3-%D8%A8%D9%87-%D8%B3%DB%8C%D8%B3%D8%AA%D9%85/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5616,
     "Url": "http://www.se-topics.ir/topicview?id=30"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5615,
     "Url": "http://www.drdobbs.com/architecture-and-design/simd-enabled-vector-types-with-c/240168888"
   }
