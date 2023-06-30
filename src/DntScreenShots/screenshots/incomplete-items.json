@@ -6435,28 +6435,53 @@
     "Url": "http://permalink.gmane.org/gmane.comp.db.sqlite.general/90549"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5918,
     "Url": "http://news.dice.com/2014/10/09/5-programming-languages-marked-for-death/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5903,
     "Url": "http://blogs.msdn.com/b/analysisservices/archive/2012/11/29/power-view-for-multidimensional-models-preview.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5901,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/10/06/announcing-october-2014-updates-to-net-framework-vnext-asp-net-vnext-and-net-native-in-visual-studio-14-ctp4.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5900,
     "Url": "http://www.tugberkugurlu.com/archive/exciting-things-about-asp-net-vnext-series-the-ultimate-guide"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5896,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/10/06/visual-studio-14-ctp-4-and-typescript-1-1-ctp-released.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5895,
+    "Url": "http://www.mytech.ir/site-load-spead/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5889,
+    "Url": "http://angularjs.io/invoke-scope-function-from-the-browser-console/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5884,
+    "Url": "https://www.youtube.com/playlist?list=PL0M0zPgJ3HSftTAAHttA3JQU4vOjXFquF"
+  },
+  {
+    "Retries": 1,
+    "Id": 5878,
+    "Url": "http://www.achoopani.ir/archive/mikrotik/dns-changer-virus-udp-virus-fix-on-mikrotik-and-linux.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5871,
+    "Url": "https://iranmap.codeplex.com/"
   }
 ]
