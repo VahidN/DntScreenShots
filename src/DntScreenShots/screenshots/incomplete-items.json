@@ -6525,7 +6525,7 @@
     "Url": "http://www.sciencedaily.com/releases/2014/09/140919110639.htm"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5827,
     "Url": "http://falafel.com/landing-pages/learning-xamarin-ebook-download"
   },
@@ -6535,23 +6535,58 @@
     "Url": "http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5818,
     "Url": "http://blogs.msdn.com/b/ashleyf/archive/2014/09/21/the-humans-are-dead.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5817,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/09/22/visual-studio-2013-update-4-ctp-2-now-available.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5803,
     "Url": "http://blogs.msdn.com/b/adonet/archive/2014/09/18/ef6-1-2-beta-1-available.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5790,
     "Url": "http://www.drdobbs.com/windows/working-with-azure-documentdb-sql-nosql/240169033"
+  },
+  {
+    "Retries": 1,
+    "Id": 5779,
+    "Url": "http://www.webover.ir/%da%af%d8%b2%d8%a7%d8%b1%d8%b4-%d9%87%d9%81%d8%aa%d9%87-%d9%87%d9%81%d8%aa%d9%87-%d8%a2%d8%ae%d8%b1-%d8%b4%d9%87%d8%b1%db%8c%d9%88%d8%b1-93/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5778,
+    "Url": "http://curah.microsoft.com/198908/aspnet-mvc-dos-and-donts-best-practices"
+  },
+  {
+    "Retries": 1,
+    "Id": 5772,
+    "Url": "https://csnative.codeplex.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5771,
+    "Url": "http://coderfactory.co/posts/top-sites-built-with-angularjs"
+  },
+  {
+    "Retries": 1,
+    "Id": 5770,
+    "Url": "http://microsoft-news.com/windows-9-screenshots-leaked-reveals-multi-desktop-mode-notifications-center-and-more/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5768,
+    "Url": "http://docs.writethedocs.org/writing/beginners-guide-to-docs/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5766,
+    "Url": "http://www.forbes.com/sites/alexkonrad/2014/08/12/these-programming-languages-have-the-most-and-fewest-female-coders/"
   }
 ]
