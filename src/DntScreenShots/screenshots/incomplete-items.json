@@ -6295,42 +6295,42 @@
     "Url": "http://blogs.msdn.com/b/euanga/archive/2006/01/19/sql-mythbusters-sql-server-is-really-a-sybase-product-not-a-microsoft-one.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6011,
     "Url": "http://offsec.ir/blog/?p=35"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6010,
     "Url": "http://resharper-support.jetbrains.com/entries/31096996-Visual-Studio-with-ReSharper-is-high-on-memory-usage"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6006,
     "Url": "http://www.postsharp.net/blog/post/Announcing-PostSharp-40-RTM"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6005,
     "Url": "http://www.drdobbs.com/tools/7-best-practices-for-being-a-successful/240169183"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6004,
     "Url": "http://www.jorambarrez.be/blog/2014/10/20/5-rules-for-remote-working/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6003,
     "Url": "https://roslyn.codeplex.com/discussions/570364"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6002,
     "Url": "https://roslyn.codeplex.com/discussions/570292"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5998,
     "Url": "http://blogs.msdn.com/b/webdev/archive/2014/10/16/microsoft-asp-net-mvc-security-update-broke-my-build.aspx"
   },
@@ -6340,33 +6340,48 @@
     "Url": "https://www.youtube.com/user/XamarinVideos/videos"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5994,
     "Url": "http://blogs.msdn.com/b/adonet/archive/2014/10/21/ef7-what-does-code-first-only-really-mean.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5991,
     "Url": "http://semantic-ui.me:80/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5987,
     "Url": "http://googlenews.gkvasnikov.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5982,
     "Url": "http://technical.cosmicverse.info/Article/Index/4"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5981,
     "Url": "https://mvvmlight.codeplex.com/workitem/7659"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5976,
     "Url": "http://www.qomefarda.ir/news/108223"
+  },
+  {
+    "Retries": 1,
+    "Id": 5972,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/10/16/visual-studio-2013-update-4-rc-now-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5969,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/10/15/python-tools-2-1-for-visual-studio.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5965,
+    "Url": "http://forums.dotnetfoundation.org/"
   }
 ]
