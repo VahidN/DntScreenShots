@@ -6250,38 +6250,48 @@
     "Url": "http://noelwelsh.com/programming/2014/08/17/angularjs-vs-react/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6084,
     "Url": "http://www.mywindows.ir/%D9%85%D8%A7%D8%AC%D8%B1%D8%A7%DB%8C-remote-ie/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6081,
     "Url": "http://blog.longle.net/2014/11/03/telerik-kendo-ui-case-study-2014-released-enterprise-benefits-and-value-added/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6078,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/11/05/using-system-numerics-vector-for-graphics-programming.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 6076,
     "Url": "http://blogs.msdn.com/b/clrcodegeneration/archive/2014/10/31/ryujit-ctp5-getting-closer-to-shipping-and-with-better-simd-support.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 6058,
     "Url": "http://freegeek.ir/1393/08/drupageddon/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6053,
     "Url": "https://fezvrasta.github.io/bootstrap-material-design/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 6040,
     "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2014/10/24/upcoming-changes-in-visual-studio-architecture-and-design-tools.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 6028,
+    "Url": "https://tfscommandlinecheatsheet.codeplex.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 6026,
+    "Url": "http://blogs.msdn.com/b/euanga/archive/2006/01/19/sql-mythbusters-sql-server-is-really-a-sybase-product-not-a-microsoft-one.aspx"
   }
 ]
