@@ -6345,42 +6345,42 @@
     "Url": "http://blogs.msdn.com/b/adonet/archive/2014/10/21/ef7-what-does-code-first-only-really-mean.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5991,
     "Url": "http://semantic-ui.me:80/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5987,
     "Url": "http://googlenews.gkvasnikov.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5982,
     "Url": "http://technical.cosmicverse.info/Article/Index/4"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5981,
     "Url": "https://mvvmlight.codeplex.com/workitem/7659"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5976,
     "Url": "http://www.qomefarda.ir/news/108223"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5972,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/10/16/visual-studio-2013-update-4-rc-now-available.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5969,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/10/15/python-tools-2-1-for-visual-studio.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5965,
     "Url": "http://forums.dotnetfoundation.org/"
   }
