@@ -6515,33 +6515,43 @@
     "Url": "http://beabigrockstar.com/guides/aspnet-oauth"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5847,
     "Url": "http://masironline.com/news/3939"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5835,
     "Url": "http://www.sciencedaily.com/releases/2014/09/140919110639.htm"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5827,
     "Url": "http://falafel.com/landing-pages/learning-xamarin-ebook-download"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5823,
     "Url": "http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5818,
     "Url": "http://blogs.msdn.com/b/ashleyf/archive/2014/09/21/the-humans-are-dead.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5817,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/09/22/visual-studio-2013-update-4-ctp-2-now-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5803,
+    "Url": "http://blogs.msdn.com/b/adonet/archive/2014/09/18/ef6-1-2-beta-1-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5790,
+    "Url": "http://www.drdobbs.com/windows/working-with-azure-documentdb-sql-nosql/240169033"
   }
 ]
