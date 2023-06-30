@@ -6920,22 +6920,22 @@
     "Url": "http://www.programmableweb.com/news/57-chat-apis-skype-msn-messenger-and-google-talk/2012/03/07"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5434,
     "Url": "http://tehranproject.com/freelancer/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5433,
     "Url": "http://tehranproject.com/%D8%AF%D8%B1-%D8%B3%D8%AA%D8%A7%DB%8C%D8%B4-%D9%BE%D8%B1%D9%88%DA%98%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%B4%D8%AE%D8%B5%DB%8C/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5430,
     "Url": "http://thedeveloper.ir/%D8%AA%D8%A6%D9%88%D8%B1%DB%8C-%D9%BE%D9%86%D8%AC%D8%B1%D9%87-%D8%B4%DA%A9%D8%B3%D8%AA%D9%87/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5422,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/07/29/visual-studio-tools-for-unity-1-9.aspx"
   },
@@ -6945,28 +6945,43 @@
     "Url": "http://www.apexsql.com/free/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5415,
     "Url": "http://blogs.msdn.com/b/lightswitch/archive/2014/04/29/just-my-code-for-javascript-pierson-lee.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5414,
     "Url": "http://blogs.msdn.com/b/microsoft_press/archive/2014/07/23/free-ebook-building-cloud-apps-with-microsoft-azure.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5407,
     "Url": "http://pcapdotnet.codeplex.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5397,
     "Url": "https://msftdbprodsamples.codeplex.com/releases/view/125550"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5396,
     "Url": "http://www.tutorialspoint.com/developers_best_practices/developers_best_practices_tutorial.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 5389,
+    "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/07/23/node-js-tools-for-visual-studio-1-0-beta-2-available.aspx"
+  },
+  {
+    "Retries": 1,
+    "Id": 5386,
+    "Url": "https://roslyn.codeplex.com/discussions/552378"
+  },
+  {
+    "Retries": 1,
+    "Id": 5338,
+    "Url": "http://thoughtworks.fileburst.com/assets/technology-radar-july-2014-en.pdf"
   }
 ]
