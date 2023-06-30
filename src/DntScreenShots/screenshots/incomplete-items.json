@@ -6635,33 +6635,63 @@
     "Url": "http://ageek.ir/%DA%86%D8%B1%D8%A7-%D9%85%D8%AA%D8%AF-dbset-find-%D9%85%D9%86%D8%AC%D8%B1-%D8%A8%D9%87-%D8%AA%D9%88%D9%84%DB%8C%D8%AFselect-top2-%D9%85%DB%8C%D8%B4%D9%87%D8%9F/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5732,
     "Url": "http://www.idesignmaz.com/best-jquery-graph-chart-plugins/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5726,
     "Url": "http://dotnetdevelopernetwork.com/year-later-20-lessons-learned-professional-programmer/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5720,
     "Url": "http://paysa.ir/blogs/articles/post/%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87-%D8%A7%D8%B2-%DB%8C%DA%A9-Web-Application-%D8%A8%D9%87-%D8%B9%D9%86%D9%88%D8%A7%D9%86-%DB%8C%DA%A9-Module-%D8%AF%D8%B1-Orchard-CMS.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5717,
     "Url": "http://www.se-topics.ir/topicview?id=31"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5712,
     "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2014/09/02/update-4-ctp1-now-available.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5707,
     "Url": "http://www.saifikram.com/2013/11/Subdomain-with-ASP-NET-MVC-using-Attribute-Routing"
+  },
+  {
+    "Retries": 1,
+    "Id": 5694,
+    "Url": "http://gaui.is/isolating-your-bll-from-your-dal-and-unit-testing-it/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5690,
+    "Url": "http://mbehzadi.com/blog/34/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B4%D9%85%D8%B3%DB%8C-%D8%A8%D9%88%D8%B3%DB%8C%D9%84%D9%87-jquery-persian-datepicker/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5689,
+    "Url": "http://mspi.es/blog/A-comparison-between-the-new-ECMAScript-6-language-features-and-C"
+  },
+  {
+    "Retries": 1,
+    "Id": 5687,
+    "Url": "http://bootstrapvalidator.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5686,
+    "Url": "http://www.webover.ir/backbone-js-%da%86%db%8c%d8%b3%d8%aa-%d9%88-%da%86%d8%b1%d8%a7-%d8%a8%d8%a7%db%8c%d8%af-%d8%a7%d8%b2-%d8%a2%d9%86-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%da%a9%d9%86%db%8c%d9%85-%d8%9f/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5680,
+    "Url": "http://www.webover.ir/%d8%a7%d8%b9%d9%85%d8%a7%d9%84-%db%8c%da%a9-%d8%ae%d8%a7%d8%b5%db%8c%d8%aa-css-%d8%af%d8%b1-%d9%85%d8%b1%d9%88%d8%b1%da%af%d8%b1%db%8c-%d8%ae%d8%a7%d8%b5/"
   }
 ]
