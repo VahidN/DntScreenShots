@@ -6370,27 +6370,27 @@
     "Url": "http://www.qomefarda.ir/news/108223"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5972,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/10/16/visual-studio-2013-update-4-rc-now-available.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5969,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/10/15/python-tools-2-1-for-visual-studio.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5965,
     "Url": "http://forums.dotnetfoundation.org/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5962,
     "Url": "http://chargecapture.com/post/lessons-from-surviving-a-rewrite"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5956,
     "Url": "http://www.d80.co.uk/post/2011/02/20/linq-to-nhibernate-tutorial.aspx"
   },
@@ -6400,37 +6400,37 @@
     "Url": "http://nhforge.org/blogs/nhibernate/archive/2008/08/31/data-access-with-nhibernate.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5951,
     "Url": "http://derevenets.com/#Download"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5948,
     "Url": "http://sleekjs.com/docs/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5947,
     "Url": "http://codecall.net/2014/02/23/10-best-node-js-mvc-frameworks-for-javascript-developers/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5945,
     "Url": "http://www.webover.ir/%D9%87%D8%AF%D9%81-%D8%A7%D8%B2-interface-%D8%AF%D8%B1-c-%DA%86%DB%8C%D8%B3%D8%AA-%D8%9F-2/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5944,
     "Url": "http://curah.microsoft.com/224638/xamarin-dev-resources"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5940,
     "Url": "http://homayoun.behzadian.com/17/%D8%B1%D9%81%D8%B9-%D9%85%D8%B4%DA%A9%D9%84-%D9%86%D8%B4%D8%A7%D9%86%DB%8C-%D9%87%D8%A7%DB%8C-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%D8%AF%D8%B1-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3-wordpress-%D9%88-%D8%A2/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5939,
     "Url": "http://permalink.gmane.org/gmane.comp.db.sqlite.general/90549"
   }
