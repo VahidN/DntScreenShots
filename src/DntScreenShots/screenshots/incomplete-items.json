@@ -6665,58 +6665,73 @@
     "Url": "http://www.saifikram.com/2013/11/Subdomain-with-ASP-NET-MVC-using-Attribute-Routing"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5694,
     "Url": "http://gaui.is/isolating-your-bll-from-your-dal-and-unit-testing-it/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5690,
     "Url": "http://mbehzadi.com/blog/34/%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8-%DA%A9%D9%86%D9%86%D8%AF%D9%87-%D8%AA%D8%A7%D8%B1%DB%8C%D8%AE-%D8%B4%D9%85%D8%B3%DB%8C-%D8%A8%D9%88%D8%B3%DB%8C%D9%84%D9%87-jquery-persian-datepicker/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5689,
     "Url": "http://mspi.es/blog/A-comparison-between-the-new-ECMAScript-6-language-features-and-C"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5687,
     "Url": "http://bootstrapvalidator.com/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5686,
     "Url": "http://www.webover.ir/backbone-js-%da%86%db%8c%d8%b3%d8%aa-%d9%88-%da%86%d8%b1%d8%a7-%d8%a8%d8%a7%db%8c%d8%af-%d8%a7%d8%b2-%d8%a2%d9%86-%d8%a7%d8%b3%d8%aa%d9%81%d8%a7%d8%af%d9%87-%da%a9%d9%86%db%8c%d9%85-%d8%9f/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5680,
     "Url": "http://www.webover.ir/%d8%a7%d8%b9%d9%85%d8%a7%d9%84-%db%8c%da%a9-%d8%ae%d8%a7%d8%b5%db%8c%d8%aa-css-%d8%af%d8%b1-%d9%85%d8%b1%d9%88%d8%b1%da%af%d8%b1%db%8c-%d8%ae%d8%a7%d8%b5/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5676,
     "Url": "http://blog.falafel.com/you-can-use-linqs-let-keyword-to-tune-the-emitted-sql/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5672,
     "Url": "http://blogs.msdn.com/b/dotnet/archive/2014/08/28/using-wcf-in-net-native.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5671,
     "Url": "http://front-end.ir/ui/how-to-keep-up-to-date-on-front-end-technologies/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5667,
     "Url": "http://www.forbes.com/sites/mikekavis/2014/08/01/are-software-engineers-a-commodity/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5664,
     "Url": "http://stories.visualstudio.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5643,
+    "Url": "http://blog.nitishkumarsingh.com/javascript-best-practices/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5642,
+    "Url": "http://danielvdende.com/gdc2014/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5635,
+    "Url": "https://ef6contrib.codeplex.com/"
   }
 ]
