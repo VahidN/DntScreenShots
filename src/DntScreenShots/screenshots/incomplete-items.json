@@ -6765,47 +6765,47 @@
     "Url": "http://www.drdobbs.com/architecture-and-design/simd-enabled-vector-types-with-c/240168888"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5608,
     "Url": "http://blog.qt.digia.com/blog/2014/08/20/adding-lgpl-v3-to-qt/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5600,
     "Url": "http://blogs.msdn.com/b/bingdevcenter/archive/2014/08/18/bing-developer-assistant-for-visual-studio-focuses-on-improving-productivity-within-the-experience.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5593,
     "Url": "http://blogs.msdn.com/b/visualstudioalm/archive/2014/08/18/perftips-performance-information-at-a-glance-while-debugging-with-visual-studio.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5592,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/08/18/visual-studio-14-ctp-3-released.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5586,
     "Url": "http://blogs.msdn.com/b/mrtechnocal/archive/2014/03/16/asynchronous-repositories.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5584,
     "Url": "http://gurustop.net/blog/2014/08/17/significance-asp-net-vnext-quickly/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5577,
     "Url": "http://angularjs.io/list-of-anuglarjs-books-reviews-to-follow-shortly/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5572,
     "Url": "http://blogs.msdn.com/b/winsdk/archive/2014/08/15/rejoice-we-can-now-capture-loopback-traffic.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5571,
     "Url": "http://www.devcasts.io/"
   },
@@ -6815,8 +6815,18 @@
     "Url": "http://linuxstory.ir/download.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5556,
     "Url": "http://thedeveloper.ir/1393/05/24/%D9%82%D8%A7%D9%86%D9%88%D9%86-%D8%A8%D9%88%DB%8C-%D8%A7%D8%B3%DA%A9%D8%A7%D8%AA/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5553,
+    "Url": "https://eflogger.codeplex.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 5536,
+    "Url": "http://kylesletten.com/2014/08/14/advanced-generics.html"
   }
 ]
