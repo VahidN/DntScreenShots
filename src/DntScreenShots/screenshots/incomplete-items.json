@@ -7400,7 +7400,7 @@
     "Url": "https://websmp130.sap-ag.de/sap/bc/bsp/spn/bobj_download/main.htm"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 24,
     "Url": "http://blog.irscrum.com/?p=2916"
   }
