@@ -7295,83 +7295,103 @@
     "Url": "http://shayverd.com/news/public-news/2173.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 642,
     "Url": "http://www.thexamlproject.com/#/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 598,
     "Url": "http://all-ranks.com"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 585,
     "Url": "http://itsec.persianblog.ir/post/218"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 561,
     "Url": "http://www.nothingbutbranding.com/blog/2012/august/didnt-know-you-could-do-that-with-css-week-2?src=euspnewsletter"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 560,
     "Url": "http://www.nothingbutbranding.com/blog/2012/august/didnt-know-you-could-do-that-with-css-week-1"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 534,
     "Url": "http://blog.irscrum.com/?p=3130#comment-1479"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 530,
     "Url": "http://care.dlservice.microsoft.com/dl/download/5/3/C/53C31ED0-886C-4F81-9A38-F58CE4CE71E8/9200.16384.WIN8_RTM.120725-1247_X86FRE_ENTERPRISE_EVAL_EN-US-HRM_CENA_X86FREE_EN-US_DV5.ISO"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 510,
     "Url": "http://nashrit.com/index.php/articles/51-2012-08-18-06-34-43"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 479,
     "Url": "http://www.bench3.org/tech/windows-cannot-read-the-productkey-setting-from-the-unattend-answer-file-solution/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 411,
     "Url": "http://blog.irscrum.com/?p=3049"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 410,
     "Url": "http://blog.irscrum.com/?p=3066"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 355,
     "Url": "http://printscreenmac.info/apple-discontinues-safari-for-windows/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 328,
     "Url": "http://www.cloudydeveloper.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 291,
     "Url": "http://blog.irscrum.com/?p=2994"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 237,
     "Url": "http://aliaghdam.com/blog/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-lucene-net-%D9%82%D8%B3%D9%85%D8%AA-%D8%AF%D9%88%D9%85"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 236,
     "Url": "http://aliaghdam.com/blog/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-lucene-net-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84"
+  },
+  {
+    "Retries": 1,
+    "Id": 130,
+    "Url": "http://www.drdobbs.com/architecture-and-design/dr-dobbs-2012-salary-survey/240002742?pgno=1"
+  },
+  {
+    "Retries": 1,
+    "Id": 115,
+    "Url": "http://www.bexpert.ir/weblog/?p=1965"
+  },
+  {
+    "Retries": 1,
+    "Id": 101,
+    "Url": "http://www.bexpert.ir/weblog/?p=1892"
+  },
+  {
+    "Retries": 1,
+    "Id": 68,
+    "Url": "http://fa.aradhaghi.com/1391/04/02/cross-site-scripting-xss-effects/"
   }
 ]
