@@ -2903,6 +2903,7 @@ news-12996.jpg
 news-12997.jpg
 news-12998.jpg
 news-12999.jpg
+news-130.jpg
 news-13000.jpg
 news-13001.jpg
 news-13002.jpg
@@ -7298,6 +7299,7 @@ news-393.jpg
 news-397.jpg
 news-398.jpg
 news-4027.jpg
+news-410.jpg
 news-411.jpg
 news-4119.jpg
 news-4130.jpg
