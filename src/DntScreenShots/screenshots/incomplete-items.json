@@ -6945,43 +6945,68 @@
     "Url": "http://www.apexsql.com/free/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5415,
     "Url": "http://blogs.msdn.com/b/lightswitch/archive/2014/04/29/just-my-code-for-javascript-pierson-lee.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5414,
     "Url": "http://blogs.msdn.com/b/microsoft_press/archive/2014/07/23/free-ebook-building-cloud-apps-with-microsoft-azure.aspx"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 5407,
     "Url": "http://pcapdotnet.codeplex.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5397,
     "Url": "https://msftdbprodsamples.codeplex.com/releases/view/125550"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 5396,
     "Url": "http://www.tutorialspoint.com/developers_best_practices/developers_best_practices_tutorial.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5389,
     "Url": "http://blogs.msdn.com/b/visualstudio/archive/2014/07/23/node-js-tools-for-visual-studio-1-0-beta-2-available.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5386,
     "Url": "https://roslyn.codeplex.com/discussions/552378"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 5338,
     "Url": "http://thoughtworks.fileburst.com/assets/technology-radar-july-2014-en.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 5231,
+    "Url": "http://download.microsoft.com/download/8/9/2/8928585d-136d-4528-aecc-2f211902a8d7/vs2013documentation.iso"
+  },
+  {
+    "Retries": 1,
+    "Id": 5088,
+    "Url": "http://itsec.persianblog.ir/post/330"
+  },
+  {
+    "Retries": 1,
+    "Id": 4902,
+    "Url": "http://itsec.persianblog.ir/post/324"
+  },
+  {
+    "Retries": 1,
+    "Id": 4835,
+    "Url": "http://eisenbergeffect.bluespire.com/preparing-for-durandal-nextgen/"
+  },
+  {
+    "Retries": 1,
+    "Id": 4801,
+    "Url": "http://japf.github.io/xaml-history/"
   }
 ]
