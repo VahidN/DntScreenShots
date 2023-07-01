@@ -7185,58 +7185,83 @@
     "Url": "http://itsec.persianblog.ir/post/240"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 1242,
     "Url": "http://download.microsoft.com/download/2/F/F/2FFA1FBA-97CA-4FFB-8ED7-A4AE06398948/TypeScriptSetup.0.8.1.1.msi"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 1230,
     "Url": "http://www.eslamifar.com/archives/478"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 1227,
     "Url": "http://huah.net/jason/talks/sketchcamp/practical_sketchnoting_w_notes.pdf"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 1136,
     "Url": "http://dotnetnuke.codeplex.com/releases/view/94184"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 1067,
     "Url": "http://download.microsoft.com/download/3/3/4/334DB8C8-B367-4C8E-9F03-089FD819980C/SQL_Server_2012_Product_Guide_Nov_2012_Update.zip"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 1051,
     "Url": "http://silvercover.me/2012/11/06/%d8%af%d8%b1%d9%88%d8%ba-%d9%87%d8%a7%db%8c%db%8c-%da%a9%d9%87-%d9%85%d8%b4%d8%aa%d8%b1%db%8c%d8%a7%d9%86-%d9%85%db%8c-%da%af%d9%88%db%8c%d9%86%d8%af/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 1047,
     "Url": "http://web.irtuts.com/tutorials/html-and-css/everything-you-must-know-about-css-floats"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 1042,
     "Url": "https://marketing.dell.com/Global/FileLib/Windows_8/windows-8-ebook.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 1009,
     "Url": "http://blogs.windows.com/windows_phone/b/wpdev/archive/2012/10/30/new-tools-for-windows-phone-8-save-developers-time-and-money.aspx"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 988,
     "Url": "http://dnpars.ir/blog/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 984,
     "Url": "http://lucenenet.apache.org/download.html"
+  },
+  {
+    "Retries": 1,
+    "Id": 964,
+    "Url": "http://download.microsoft.com/download/7/9/C/79C72BA4-3901-47C3-BFDE-56EF354EB1C6/CS_XAML.zip"
+  },
+  {
+    "Retries": 1,
+    "Id": 958,
+    "Url": "http://dnpars.ir/blog/?p=108"
+  },
+  {
+    "Retries": 1,
+    "Id": 947,
+    "Url": "http://www.bexpert.ir/weblog/?p=2161"
+  },
+  {
+    "Retries": 1,
+    "Id": 938,
+    "Url": "http://dnpars.ir/blog/?p=84"
+  },
+  {
+    "Retries": 1,
+    "Id": 897,
+    "Url": "http://dnpars.ir/blog/?p=66"
   }
 ]
