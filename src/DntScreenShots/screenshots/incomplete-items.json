@@ -7345,53 +7345,63 @@
     "Url": "http://blog.irscrum.com/?p=3049"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 410,
     "Url": "http://blog.irscrum.com/?p=3066"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 355,
     "Url": "http://printscreenmac.info/apple-discontinues-safari-for-windows/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 328,
     "Url": "http://www.cloudydeveloper.com/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 291,
     "Url": "http://blog.irscrum.com/?p=2994"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 237,
     "Url": "http://aliaghdam.com/blog/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-lucene-net-%D9%82%D8%B3%D9%85%D8%AA-%D8%AF%D9%88%D9%85"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 236,
     "Url": "http://aliaghdam.com/blog/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%DA%A9%D8%AA%D8%A7%D8%A8%D8%AE%D8%A7%D9%86%D9%87-lucene-net-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 130,
     "Url": "http://www.drdobbs.com/architecture-and-design/dr-dobbs-2012-salary-survey/240002742?pgno=1"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 115,
     "Url": "http://www.bexpert.ir/weblog/?p=1965"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 101,
     "Url": "http://www.bexpert.ir/weblog/?p=1892"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 68,
     "Url": "http://fa.aradhaghi.com/1391/04/02/cross-site-scripting-xss-effects/"
+  },
+  {
+    "Retries": 1,
+    "Id": 52,
+    "Url": "https://websmp130.sap-ag.de/sap/bc/bsp/spn/bobj_download/main.htm"
+  },
+  {
+    "Retries": 1,
+    "Id": 24,
+    "Url": "http://blog.irscrum.com/?p=2916"
   }
 ]
