@@ -7225,43 +7225,73 @@
     "Url": "https://marketing.dell.com/Global/FileLib/Windows_8/windows-8-ebook.pdf"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 1009,
     "Url": "http://blogs.windows.com/windows_phone/b/wpdev/archive/2012/10/30/new-tools-for-windows-phone-8-save-developers-time-and-money.aspx"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 988,
     "Url": "http://dnpars.ir/blog/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 984,
     "Url": "http://lucenenet.apache.org/download.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 964,
     "Url": "http://download.microsoft.com/download/7/9/C/79C72BA4-3901-47C3-BFDE-56EF354EB1C6/CS_XAML.zip"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 958,
     "Url": "http://dnpars.ir/blog/?p=108"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 947,
     "Url": "http://www.bexpert.ir/weblog/?p=2161"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 938,
     "Url": "http://dnpars.ir/blog/?p=84"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 897,
     "Url": "http://dnpars.ir/blog/?p=66"
+  },
+  {
+    "Retries": 1,
+    "Id": 895,
+    "Url": "http://codenevesht.com/introduction-to-typescript/"
+  },
+  {
+    "Retries": 1,
+    "Id": 873,
+    "Url": "http://dnpars.ir/blog/?p=53"
+  },
+  {
+    "Retries": 1,
+    "Id": 786,
+    "Url": "http://www.bexpert.ir/weblog/?p=2110"
+  },
+  {
+    "Retries": 1,
+    "Id": 702,
+    "Url": "http://www.bexpert.ir/weblog/?p=2092"
+  },
+  {
+    "Retries": 1,
+    "Id": 694,
+    "Url": "http://shaikhjees.com/30-excellent-windows-8-development-tutorials/"
+  },
+  {
+    "Retries": 1,
+    "Id": 669,
+    "Url": "http://shayverd.com/news/public-news/2173.html"
   }
 ]
