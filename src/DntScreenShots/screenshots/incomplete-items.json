@@ -7080,23 +7080,48 @@
     "Url": "http://blog.radmanfar.ir/canvas-reference-%D9%82%D8%B3%D9%85%D8%AA-%D8%A7%D9%88%D9%84/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 2821,
     "Url": "http://blog.radmanfar.ir/50/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 2820,
     "Url": "http://blog.radmanfar.ir/%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C-parallax-%D8%A7%D9%85/"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 2729,
     "Url": "http://www.bexpert.ir/weblog/?p=2247"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 2643,
     "Url": "http://download.microsoft.com/download/1/D/9/1D910A7E-DAF8-4285-A4D0-ED0A170CBA93/Technology-Guide/Full-NET-Technology-Guide-for-Business-Applications.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 2424,
+    "Url": "http://color.hailpixel.com/"
+  },
+  {
+    "Retries": 1,
+    "Id": 2369,
+    "Url": "http://damirfoy.com/iCheck/"
+  },
+  {
+    "Retries": 1,
+    "Id": 2225,
+    "Url": "http://thoughtworks.fileburst.com/assets/technology-radar-may-2013.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 2107,
+    "Url": "http://itsec.persianblog.ir/post/261"
+  },
+  {
+    "Retries": 1,
+    "Id": 2039,
+    "Url": "http://sanayee.persianblog.ir/post/455"
   }
 ]
