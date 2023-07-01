@@ -7240,103 +7240,113 @@
     "Url": "http://lucenenet.apache.org/download.html"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 964,
     "Url": "http://download.microsoft.com/download/7/9/C/79C72BA4-3901-47C3-BFDE-56EF354EB1C6/CS_XAML.zip"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 958,
     "Url": "http://dnpars.ir/blog/?p=108"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 947,
     "Url": "http://www.bexpert.ir/weblog/?p=2161"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 938,
     "Url": "http://dnpars.ir/blog/?p=84"
   },
   {
-    "Retries": 3,
+    "Retries": 4,
     "Id": 897,
     "Url": "http://dnpars.ir/blog/?p=66"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 895,
     "Url": "http://codenevesht.com/introduction-to-typescript/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 873,
     "Url": "http://dnpars.ir/blog/?p=53"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 786,
     "Url": "http://www.bexpert.ir/weblog/?p=2110"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 702,
     "Url": "http://www.bexpert.ir/weblog/?p=2092"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 694,
     "Url": "http://shaikhjees.com/30-excellent-windows-8-development-tutorials/"
   },
   {
-    "Retries": 2,
+    "Retries": 3,
     "Id": 669,
     "Url": "http://shayverd.com/news/public-news/2173.html"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 642,
     "Url": "http://www.thexamlproject.com/#/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 598,
     "Url": "http://all-ranks.com"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 585,
     "Url": "http://itsec.persianblog.ir/post/218"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 561,
     "Url": "http://www.nothingbutbranding.com/blog/2012/august/didnt-know-you-could-do-that-with-css-week-2?src=euspnewsletter"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 560,
     "Url": "http://www.nothingbutbranding.com/blog/2012/august/didnt-know-you-could-do-that-with-css-week-1"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 534,
     "Url": "http://blog.irscrum.com/?p=3130#comment-1479"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 530,
     "Url": "http://care.dlservice.microsoft.com/dl/download/5/3/C/53C31ED0-886C-4F81-9A38-F58CE4CE71E8/9200.16384.WIN8_RTM.120725-1247_X86FRE_ENTERPRISE_EVAL_EN-US-HRM_CENA_X86FREE_EN-US_DV5.ISO"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 510,
     "Url": "http://nashrit.com/index.php/articles/51-2012-08-18-06-34-43"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 479,
     "Url": "http://www.bench3.org/tech/windows-cannot-read-the-productkey-setting-from-the-unattend-answer-file-solution/"
+  },
+  {
+    "Retries": 1,
+    "Id": 411,
+    "Url": "http://blog.irscrum.com/?p=3049"
+  },
+  {
+    "Retries": 1,
+    "Id": 410,
+    "Url": "http://blog.irscrum.com/?p=3066"
   }
 ]
