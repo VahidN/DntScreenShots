@@ -7100,28 +7100,88 @@
     "Url": "http://download.microsoft.com/download/1/D/9/1D910A7E-DAF8-4285-A4D0-ED0A170CBA93/Technology-Guide/Full-NET-Technology-Guide-for-Business-Applications.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 2424,
     "Url": "http://color.hailpixel.com/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 2369,
     "Url": "http://damirfoy.com/iCheck/"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 2225,
     "Url": "http://thoughtworks.fileburst.com/assets/technology-radar-may-2013.pdf"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 2107,
     "Url": "http://itsec.persianblog.ir/post/261"
   },
   {
-    "Retries": 1,
+    "Retries": 2,
     "Id": 2039,
     "Url": "http://sanayee.persianblog.ir/post/455"
+  },
+  {
+    "Retries": 1,
+    "Id": 1804,
+    "Url": "https://www.dntips.ir/file/userfile?name=continuous delivery _ a maturity assessment modelfinal.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 1629,
+    "Url": "http://itsec.persianblog.ir/post/248"
+  },
+  {
+    "Retries": 1,
+    "Id": 1573,
+    "Url": "http://www.bexpert.ir/weblog/?p=2182"
+  },
+  {
+    "Retries": 1,
+    "Id": 1563,
+    "Url": "https://www.dntips.ir/file/userfile?name=redactor-v8.2.1.rar"
+  },
+  {
+    "Retries": 1,
+    "Id": 1554,
+    "Url": "http://dnpars.ir/blog/?p=189"
+  },
+  {
+    "Retries": 1,
+    "Id": 1411,
+    "Url": "https://skydrive.live.com/?cid=2c5f5b0560e374cb\u0026id=2C5F5B0560E374CB%21618"
+  },
+  {
+    "Retries": 1,
+    "Id": 1410,
+    "Url": "http://nashrit.com/index.php/articles/62-ubiquitous-language"
+  },
+  {
+    "Retries": 1,
+    "Id": 1404,
+    "Url": "http://sharproid.com/?p=132"
+  },
+  {
+    "Retries": 1,
+    "Id": 1399,
+    "Url": "http://nashrit.com/index.php/articles/61-domain-driven-design"
+  },
+  {
+    "Retries": 1,
+    "Id": 1364,
+    "Url": "http://test.tryfsharp.org/Create"
+  },
+  {
+    "Retries": 1,
+    "Id": 1283,
+    "Url": "http://tehran.irannsr.org/parameters/irannsr/modules/cdk/upload/content/news/4716/Final91Teh.pdf"
+  },
+  {
+    "Retries": 1,
+    "Id": 1257,
+    "Url": "http://itsec.persianblog.ir/post/240"
   }
 ]
