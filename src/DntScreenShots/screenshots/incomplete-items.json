@@ -7418,5 +7418,10 @@
     "Retries": 1,
     "Id": 18853,
     "Url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD"
+  },
+  {
+    "Retries": 1,
+    "Id": 18856,
+    "Url": "https://www.telerik.com/blogs/net-8-preview-5-combines-upcoming-blazor-changes-handy-new-project-template"
   }
 ]
